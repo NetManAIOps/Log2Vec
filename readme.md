@@ -8,10 +8,10 @@ Our paper is published on The 29th International Conference on Computer Communic
 ## Dependency
 
 ```python
-1. 	nltk, nltk.download("wordnet")
-2. 	spacy, spacy.load("en_core_web_md")
-3. 	progressbar
-4. 	dynet (python3)
+1. nltk, nltk.download("wordnet")
+2. spacy, spacy.load("en_core_web_md")
+3. progressbar
+4. dynet (python3)
 ```
 
 Quick Start
@@ -21,13 +21,13 @@ Quick Start
 # prepare the middle results 
 python pipeline.py -i data/HDFS.log -t HDFS -o results/
   -i input rawlog
-	-t name of logs
-	-o output path
+  -t name of logs
+  -o output path
 
 # do experiments for log2vec
 python log2vec.py -i results -t HDFS
-	-i input path
-	-t name of logs
+  -i input path
+  -t name of logs
 ```
 
 Directory Structure
