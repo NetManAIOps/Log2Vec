@@ -67,9 +67,9 @@ def pipeline(processed_log, new_vocab):
     os.system(command_for_AS_extraction)
 
     # Relation Triple Extraction
-    triplet_log = 'blank.txt'
+    triplet_log = 'triples.txt'
     command_for_triplet = '''python code/get_triplet.py %s %s'''%(processed_log, triplet_log)
-    #os.system(command_for_triplet)
+    os.system(command_for_triplet)
 
     # Semantic Word Embedding
     train_log = os.path.join(opath, 'for_training.log')
