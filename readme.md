@@ -62,7 +62,7 @@ File Descriptions
 
 ```sh
 #Filter variables in the logs
-python preprocessing.py -rawlog ./data/BGL.log
+python code/preprocessing.py -rawlog ./data/BGL.log
 
   -rawlog：raw logs
 ```
@@ -70,7 +70,7 @@ python preprocessing.py -rawlog ./data/BGL.log
 ### Antonyms&Synonyms Extraction
 ```sh
 #Extract antonyms and synonyms 
-python get_syn_ant.py -logs ./data/BGL_without_variables.log -ant_file ./middle/ants.txt -syn_file ./middle/syns.txt
+python code/get_syn_ant.py -logs ./data/BGL_without_variables.log -ant_file ./middle/ants.txt -syn_file ./middle/syns.txt
 
   -logs: logs
   -ant_file: antonyms
@@ -80,7 +80,7 @@ python get_syn_ant.py -logs ./data/BGL_without_variables.log -ant_file ./middle/
 ### Relation Triple Extraction
 
 ```sh
-python get_triplet.py data/BGL_without_variables.log middle/bgl_triplet.txt
+python code/get_triplet.py data/BGL_without_variables.log middle/bgl_triplet.txt
 
   data/BGL_without_variables.log: logs
   middle/bgl_triples.txt: triples
@@ -88,12 +88,12 @@ python get_triplet.py data/BGL_without_variables.log middle/bgl_triplet.txt
 
 ```sh
 #If -s is added, temporary saving will be enabled. By default, every 10000 pieces will be saved, named "temp\_" + output\_file
-python get_triplet.py input_file output_file -s
+python code/get_triplet.py input_file output_file -s
 ```
 
 ```sh
 #If another parameter is added after -s, the number of bars saved per time is modified
-python get_triplet.py input_file output_file -s 50000 
+python code/get_triplet.py input_file output_file -s 50000 
 ```
 
 
@@ -101,7 +101,7 @@ python get_triplet.py input_file output_file -s 50000
 
 ```shell
 #Convert log file to single line for training
-python getTempLogs.py -input data/BGL_without_variables.log -output middle/BGL_without_variables_for_training.log
+python code/getTempLogs.py -input data/BGL_without_variables.log -output middle/BGL_without_variables_for_training.log
 ```
 
 ```shell
@@ -118,7 +118,7 @@ make #make before you run
 
 ```shell
 #Read the original vector file
-python mimick/make_dataset.py --vectors middle/bgl_words.model --w2v-format --output middle/bgl_words.pkl
+python code/mimick/make_dataset.py --vectors middle/bgl_words.model --w2v-format --output middle/bgl_words.pkl
 
   --vectors：Results of w2v, the first row is the number of rows and dimensions (can be omitted), the format of each subsequent row is word + word vector: word d1 d2... d32
 ```
@@ -126,7 +126,7 @@ python mimick/make_dataset.py --vectors middle/bgl_words.model --w2v-format --ou
 
 ```shell
 #Train the new embedding according to oov
-python mimick/model.py --dataset middle/bgl_words.pkl  --vocab middle/testvocab.txt --output middle/oov.vector
+python code/mimick/model.py --dataset middle/bgl_words.pkl  --vocab middle/testvocab.txt --output middle/oov.vector
 
   --dataset：Output of the first step
   --vocab：New words, you can write multiple words in batches, one word per line
@@ -135,7 +135,7 @@ python mimick/model.py --dataset middle/bgl_words.pkl  --vocab middle/testvocab.
 
 ### Generate vector for logs 
 ```shell
-python Log2Vec.py -logs ./data/BGL_without_variables.log -word_model ./middle/bgl_words.model -log_vector_file ./middle/bgl_log.vector -dimension 32
+python code/Log2Vec.py -logs ./data/BGL_without_variables.log -word_model ./middle/bgl_words.model -log_vector_file ./middle/bgl_log.vector -dimension 32
 ```
 
 
