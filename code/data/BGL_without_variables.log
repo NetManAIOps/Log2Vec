@@ -1,0 +1,2000 @@
+RAS KERNEL INFO ddr errors s detected and corrected on rank symbol bit
+NULL DISCOVERY ERROR Found invalid node ecid in processor card slot ecid
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL rts kernel terminated for reason bad message header too many type cpu index total
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL FATAL data address space
+RAS APP FATAL ciod Error reading message prefix after on CioStream socket to Link has been severed
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO data cache search parity error detected attempting to correct
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL FATAL exception syndrome register
+RAS KERNEL INFO program interrupt fp compare
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+NULL HARDWARE WARNING PrepareForService shutting down NodeCard mLctn NA mCardSernum mLp mIp mType as part of Service Action
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS APP FATAL ciod Error loading home Urgent Gunnels vnm rts invalid or missing program Permission denied
+RAS KERNEL INFO critical input interrupt unit bit warning for torus wire
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL Lustre mount FAILED point p
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction cache parity error corrected
+RAS MMCS ERROR Ido packet timeout
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL FATAL program interrupt fp compare
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL FATAL instruction address space
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error loading bgl apps invalid or missing program No such file or directory
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL instruction address
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS APP FATAL ciod Error reading message prefix after on CioStream socket to Link has been severed
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+NULL DISCOVERY ERROR Found invalid node ecid in processor card slot ecid
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL FATAL machine state register
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL icache prefetch depth
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod LOGIN chdir p da failed No such file or directory
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ciod generated core files for program home Urgent COP hpcc
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL instruction address
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO total of ddr error s detected and corrected
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod LOGIN chdir pwd failed No such file or directory
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL instruction address
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO ddr errors s detected and corrected on rank symbol bit
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL floating pt ex mode enable
+RAS KERNEL FATAL data store interrupt caused by dcbf
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point operation
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL Lustre mount FAILED point p
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL FATAL machine check i fetch
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS APP FATAL ciod Error reading message prefix after on CioStream socket to Link has been severed
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL guaranteed data cache block touch
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO ddr errors s detected and corrected on rank symbol bit
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL disable store gathering
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO critical input interrupt unit bit warning for torus wire
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO total of ddr error s detected and corrected
+RAS APP FATAL ciod Error loading bgl apps scaletest performance MINIBEN allreduce rts invalid or missing program Exec format error
+RAS KERNEL FATAL program interrupt fp cr field
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO total of ddr error s detected and corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL FATAL debug interrupt enable
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL Lustre mount FAILED point p
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error loading home TomAndJeff bin rts invalid or missing program No such file or directory
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL instruction address space
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL FATAL instruction address
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL FATAL
+RAS KERNEL FATAL program interrupt illegal instruction
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL summary
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error loading home yates torus latency rts invalid or missing program No such file or directory
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL machine check i fetch
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO machine state register
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error loading bgl apps followup rts invalid or missing program Permission denied
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error loading home Urgent VNM vnm rts invalid or missing program Permission denied
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS APP FATAL ciod Error creating node map from file p contention torus xyzt map Bad address
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL floating pt ex mode enable
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL rts kernel terminated for reason
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL Lustre mount FAILED point p
+RAS APP FATAL ciod Error loading p Raptor mf rich run BGL MPI ex invalid or missing program No such file or directory
+RAS KERNEL INFO floating point alignment exceptions
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO torus receiver input pipe error s dcr detected and corrected
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+NULL DISCOVERY INFO New ido chip inserted into the database ip v t
+RAS KERNEL FATAL machine check enable
+RAS KERNEL INFO total of ddr error s detected and corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL FATAL program interrupt trap instruction
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO machine state register
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ciod cpu at treeaddr sent unrecognized message
+RAS APP FATAL ciod Error reading message prefix after on CioStream socket to Link has been severed
+RAS APP FATAL ciod Error loading home yates torus latency rts invalid or missing program No such file or directory
+RAS APP FATAL ciod LOGIN chdir pwd failed No such file or directory
+RAS KERNEL FATAL data TLB error interrupt
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+NULL DISCOVERY WARNING Node card is not fully functional
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction address
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL wait state enable
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO ciod generated core files for program bgl apps swl prep ibm swl functional
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL FATAL floating point instr enabled
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO iar dear
+RAS APP FATAL ciod Error loading rts invalid or missing program No such file or directory
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL Lustre mount FAILED point p
+RAS KERNEL INFO iar dear
+RAS APP FATAL ciod LOGIN chdir bgl apps SWL performance MINIBEN failed No such file or directory
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL rts kernel terminated for reason
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL FATAL data store interrupt caused by dcbf
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL rts kernel terminated for reason
+RAS APP FATAL ciod failed to read message prefix on control stream CioStream socket to
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error reading message prefix after on CioStream socket to Link has been severed
+RAS KERNEL FATAL machine check i fetch
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL core configuration register
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction cache parity error corrected
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+NULL DISCOVERY WARNING Node card is not fully functional
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL critical input interrupt enable
+RAS KERNEL FATAL instruction address
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL FATAL floating pt ex mode enable
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS KERNEL FATAL floating point instr enabled
+RAS KERNEL FATAL floating point instr enabled
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL FATAL data address
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL Lustre mount FAILED point p
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL machine check interrupt
+NULL DISCOVERY INFO Node card VPD check node in processor card slot do not match VPD ecid found
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO machine state register
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL rts tree torus link training failed wanted C X Y Z got C Y Z
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ciod generated core files for program home Urgent COP cop rts
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data store interrupt caused by dcbf
+RAS KERNEL FATAL force load store alignment
+RAS KERNEL INFO tree receiver in re synch state event s dcr detected
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO critical input interrupt unit bit warning for torus z wire
+NULL DISCOVERY SEVERE Can not get assembly information for node card
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL machine check i fetch
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO floating point alignment exceptions
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO program interrupt privileged instruction
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod failed to read message prefix on control stream CioStream socket to
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL rts bad message header cpu invalid softheader PRXF PIXF
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod failed to read message prefix on control stream CioStream socket to
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL rts internal error
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ddr errors s detected and corrected on rank symbol bit
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ciod generated core files for program home BGL demo
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO torus receiver z input pipe error s dcr detected and corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO ciod generated core files for program home BGL demo
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO total of ddr error s detected and corrected
+RAS APP FATAL ciod Error loading home Urgent COP hpcc invalid or missing program Permission denied
+RAS KERNEL INFO generating core
+NULL DISCOVERY WARNING Node card is not fully functional
+RAS KERNEL FATAL floating point instr enabled
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL Lustre mount FAILED point p
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error loading bgl apps scaletest performance MINIBEN allreduce rts invalid or missing program Exec format error
+RAS KERNEL FATAL program interrupt fp cr field
+NULL DISCOVERY WARNING Node card is not fully functional
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL program interrupt trap instruction
+NULL DISCOVERY ERROR Node card status no ALERTs are active Clock Mode is Low Clock Select is Midplane Phy JTAG Reset is asserted ASIC JTAG Reset is asserted Temperature Mask is not active No temperature error Temperature Limit Error Latch is clear PGOOD IS NOT ASSERTED PGOOD ERROR LATCH IS ACTIVE MPGOOD IS NOT OK MPGOOD ERROR LATCH IS ACTIVE The volt rail is OK The volt rail is OK
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO double hummer alignment exceptions
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL disable store gathering
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ciod generated core files for program home BGL demo
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL exception syndrome register
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error loading bgl apps hwstab RAPTOR temp raptor invalid or missing program No such file or directory
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL FATAL machine check i fetch
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction cache parity error corrected
+NULL DISCOVERY INFO Node card VPD check node in processor card slot do not match VPD ecid found
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL guaranteed data cache block touch
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL auxiliary processor
+RAS KERNEL FATAL problem state usr
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error creating node map from file home b results xyzt map Permission denied
+RAS KERNEL INFO total of ddr error s detected and corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL program interrupt imprecise exception
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO data store interrupt caused by dcbf
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO tree receiver in re synch state event s dcr detected
+RAS KERNEL FATAL program interrupt illegal instruction
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL rts kernel terminated for reason
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL instruction address
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ciod generated core files for program home glosli src ddcMD ddcMD bin ddcMDbglV
+RAS KERNEL FATAL
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL icache prefetch depth
+RAS KERNEL INFO CE sym at mask
+RAS APP FATAL ciod Error loading p raptor dev BGL MPI ex invalid or missing program No such file or directory
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL machine check i fetch
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL machine check i fetch
+RAS KERNEL INFO ciod generated core files for program home
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+NULL DISCOVERY WARNING Node card is not fully functional
+RAS KERNEL FATAL instruction address
+RAS KERNEL INFO program interrupt trap instruction
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL guaranteed data cache block touch
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL problem state usr
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL FATAL
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+NULL DISCOVERY ERROR Node card status no ALERTs are active Clock Mode is Low Clock Select is Midplane Phy JTAG Reset is asserted ASIC JTAG Reset is asserted Temperature Mask is not active No temperature error Temperature Limit Error Latch is clear PGOOD IS NOT ASSERTED PGOOD ERROR LATCH IS ACTIVE MPGOOD IS NOT OK MPGOOD ERROR LATCH IS ACTIVE The volt rail is OK The volt rail is OK
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL FATAL ffffffff
+RAS KERNEL FATAL
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error creating node map from file p map Bad file descriptor
+RAS KERNEL FATAL
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO total of ddr error s detected and corrected
+RAS KERNEL INFO ddr errors s detected and corrected on rank symbol bit
+RAS KERNEL INFO generating core
+RAS KERNEL INFO total of ddr error s detected and corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL floating point operation
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+NULL DISCOVERY SEVERE While initializing node card iDo machine with LP of caught java io IOException Could not contact iDo with LP and IP because java lang RuntimeException Communication error DirectIDo for Uninitialized DirectIDo for is in state sequenceNumberIsOk ExpectedSequenceNumber Reply Sequence Number timedOut retries timeout Expected Op Command Actual Op Reply Expected Sync Command Actual Sync Reply
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ddr activating redundant bit steering rank symbol
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO CE sym at mask
+RAS APP FATAL ciod Error loading bgl apps scaletest performance MINIBEN allreduce rts invalid or missing program Exec format error
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL problem state usr
+RAS KERNEL FATAL data TLB error interrupt
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL auxiliary processor
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL instruction address
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL FATAL debug wait enable
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO suppressing further interrupts of same type
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+NULL DISCOVERY WARNING Node card is not fully functional
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL program interrupt illegal instruction
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS APP FATAL ciod Error creating node map from file p contention torus xyzt map Bad address
+RAS KERNEL FATAL data address
+RAS KERNEL FATAL program interrupt fp cr update
+RAS APP FATAL ciod Error loading home yates torus latency rts invalid or missing program No such file or directory
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO instruction cache parity error corrected
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+NULL DISCOVERY INFO New ido chip inserted into the database ip v t
+RAS KERNEL INFO iar dear
+RAS APP FATAL ciod Error loading bgl apps scaletest performance MINIBEN allreduce rts invalid or missing program Exec format error
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO total of ddr error s detected and corrected
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL problem state usr
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL start prefetching
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error reading message prefix after on CioStream socket to Link has been severed
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL auxiliary processor
+RAS KERNEL INFO data store interrupt caused by icbi
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL guaranteed instruction cache block touch
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL instruction address
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO ddr errors s detected and corrected on rank symbol bit
+RAS APP FATAL ciod LOGIN chdir home auselton testing failed No such file or directory
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod LOGIN chdir pwd failed No such file or directory
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL external input interrupt enable
+RAS KERNEL INFO data store interrupt caused by icbi
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ciod generated core files for program bgl apps swl prep ibm swl functional run sppm
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+NULL DISCOVERY INFO Ido chip status changed ip v t status M Tue Aug PDT
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO suppressing further interrupts of same type
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+NULL DISCOVERY ERROR Node card status no ALERTs are active Clock Mode is Low Clock Select is Midplane Phy JTAG Reset is asserted ASIC JTAG Reset is asserted Temperature Mask is not active No temperature error Temperature Limit Error Latch is clear PGOOD IS NOT ASSERTED PGOOD ERROR LATCH IS ACTIVE MPGOOD IS NOT OK MPGOOD ERROR LATCH IS ACTIVE The volt rail is OK The volt rail is OK
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ddr errors s detected and corrected on rank symbol bit
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL rts kernel terminated for reason bad message header invalid type cpu index total
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL instruction address
+RAS APP FATAL ciod LOGIN chdir p da failed No such file or directory
+RAS KERNEL FATAL exception syndrome register
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ciod generated core files for program home rfisher sodscaling
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS KERNEL FATAL ffffffff
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL rts kernel terminated for reason
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod LOGIN chdir bgl apps SWL performance MINIBEN failed No such file or directory
+RAS KERNEL INFO total of ddr error s detected and corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+NULL DISCOVERY SEVERE Can not get assembly information for node card
+RAS KERNEL INFO floating point alignment exceptions
+RAS APP FATAL ciod LOGIN chdir bgl apps SWL performance MINIBEN failed No such file or directory
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+NULL DISCOVERY SEVERE Can not get assembly information for node card
+RAS KERNEL FATAL
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL FATAL program interrupt fp cr field
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO critical input interrupt unit bit warning for tree wire
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error reading message prefix after on CioStream socket to Link has been severed
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction cache parity error corrected
+RAS APP FATAL ciod Error loading bgl apps scaletest performance MINIBEN allreduce rts invalid or missing program Exec format error
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+NULL DISCOVERY WARNING Node card is not fully functional
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ciod duplicate canonical rank to logical rank mapping at line of node map file p sweep sweep map
+RAS KERNEL INFO double hummer alignment exceptions
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO ciod generated core files for program bgl apps swl prep ibm swl functional run sppm
+NULL DISCOVERY INFO Node card VPD check node in processor card slot do not match VPD ecid found
+RAS KERNEL INFO NFS Mount failed on slept retrying
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error loading home greeno raptor new dev BGL MPI ex invalid or missing program No such file or directory
+NULL DISCOVERY ERROR Node card status no ALERTs are active Clock Mode is Low Clock Select is Midplane Phy JTAG Reset is asserted ASIC JTAG Reset is asserted Temperature Mask is not active No temperature error Temperature Limit Error Latch is clear PGOOD IS NOT ASSERTED PGOOD ERROR LATCH IS ACTIVE MPGOOD IS NOT OK MPGOOD ERROR LATCH IS ACTIVE The volt rail is OK The volt rail is OK
+RAS KERNEL INFO generating core
+RAS KERNEL INFO critical input interrupt unit bit warning for tree wire
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO instruction cache parity error corrected
+NULL DISCOVERY INFO Node card VPD check node in processor card slot do not match VPD ecid found
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL floating pt ex mode enable
+RAS KERNEL INFO program interrupt
+NULL DISCOVERY INFO Node card VPD check node in processor card slot do not match VPD ecid found
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO program interrupt fp cr field
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO EDRAM error s dcr detected and corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error loading bgl apps scaletest performance MINIBEN allreduce rts invalid or missing program Exec format error
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+NULL DISCOVERY ERROR Node card status no ALERTs are active Clock Mode is Low Clock Select is Midplane Phy JTAG Reset is asserted ASIC JTAG Reset is asserted Temperature Mask is not active No temperature error Temperature Limit Error Latch is clear PGOOD IS NOT ASSERTED PGOOD ERROR LATCH IS ACTIVE MPGOOD IS NOT OK MPGOOD ERROR LATCH IS ACTIVE The volt rail is OK The volt rail is OK
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL program interrupt fp cr update
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL FATAL data TLB error interrupt
+RAS APP FATAL ciod failed to read message prefix on control stream CioStream socket to
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL FATAL exception syndrome register
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL Lustre mount FAILED point p
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO program interrupt
+RAS KERNEL FATAL machine check i fetch
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO ciod generated core files for program bgl apps scaletest performance IMB
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data address
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO ddr errors s detected and corrected on rank symbol bit
+RAS KERNEL FATAL instruction address
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+NULL DISCOVERY ERROR Missing reverse cable Cable F C is present BUT the reverse cable F C is missing
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ciod generated core files for program home Urgent COP rts
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error loading bgl apps followup RAPTOR rts invalid or missing program No such file or directory
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO critical input interrupt unit bit warning for torus x wire
+RAS KERNEL INFO ddr errors s detected and corrected on rank symbol bit
+RAS KERNEL INFO CE sym at mask
+NULL DISCOVERY WARNING Node card is not fully functional
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL instruction address
+RAS APP FATAL ciod Error loading bgl apps scaletest performance MINIBEN allreduce rts invalid or missing program Exec format error
+RAS KERNEL INFO iar dear
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error loading bgl apps followup SPASM spasm invalid or missing program Permission denied
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error reading message prefix after on CioStream socket to Link has been severed
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL rts kernel terminated for reason
+RAS KERNEL FATAL machine state register
+RAS KERNEL FATAL program interrupt imprecise exception
+RAS APP FATAL ciod failed to read message prefix on control stream CioStream socket to
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL program interrupt illegal instruction
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL instruction address
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS APP FATAL ciod Error reading message prefix after on CioStream socket to Link has been severed
+RAS APP FATAL ciod Error loading home yates torus latency rts invalid or missing program No such file or directory
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS MMCS ERROR Ido packet timeout
+RAS KERNEL FATAL instruction address
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ddr errors s detected and corrected on rank symbol bit
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL Error unable to mount filesystem
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL FATAL
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL program interrupt fp cr update
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL FATAL program interrupt imprecise exception
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL FATAL Lustre mount FAILED location
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL FATAL disable apu instruction broadcast
+RAS KERNEL FATAL program interrupt fp compare
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL program interrupt illegal instruction
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL core configuration register
+RAS KERNEL INFO total of ddr error s detected and corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL rts stopping execution
+RAS KERNEL FATAL program interrupt trap instruction
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL icache prefetch threshold
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL program interrupt fp compare
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error reading message prefix after on CioStream socket to Link has been severed
+RAS KERNEL INFO double hummer alignment exceptions
+RAS APP FATAL ciod Error loading bgl apps scaletest performance MINIBEN allreduce rts invalid or missing program Exec format error
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL FATAL program interrupt unimplemented operation
+RAS APP FATAL ciod Error loading p raptor dev BGL MPI ex invalid or missing program No such file or directory
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO program interrupt
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error reading message prefix after on CioStream socket to Link has been severed
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO directory error s dcr detected and corrected
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error reading message prefix after on CioStream socket to Link has been severed
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod failed to read message prefix on control stream CioStream socket to
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error creating node map from file p map Bad file descriptor
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL ffffffff
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error loading bgl apps scaletest performance MINIBEN allreduce rts invalid or missing program Exec format error
+RAS KERNEL FATAL machine state register
+RAS KERNEL FATAL auxiliary processor
+RAS KERNEL INFO generating core
+NULL DISCOVERY ERROR Node card status no ALERTs are active Clock Mode is Low Clock Select is Midplane Phy JTAG Reset is asserted ASIC JTAG Reset is asserted Temperature Mask is not active No temperature error Temperature Limit Error Latch is clear PGOOD IS NOT ASSERTED PGOOD ERROR LATCH IS ACTIVE MPGOOD IS NOT OK MPGOOD ERROR LATCH IS ACTIVE The volt rail is OK The volt rail is OK
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL disable apu instruction broadcast
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL program interrupt trap instruction
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL program interrupt fp cr update
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO ciod generated core files for program bgl apps swl prep ibm swl functional run sppm
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL program interrupt privileged instruction
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL Lustre mount FAILED point p
+NULL DISCOVERY SEVERE Can not get assembly information for node card
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO CE sym at mask
+RAS APP FATAL ciod Error loading p test cpmd x invalid or missing program No such file or directory
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO data cache search parity error detected attempting to correct
+RAS KERNEL FATAL
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL Lustre mount FAILED point p
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO EDRAM error s dcr detected and corrected
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL FATAL program interrupt fp cr field
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL FATAL
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL disable trace broadcast
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL FATAL data address
+RAS KERNEL FATAL problem state usr
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL machine check enable
+RAS APP FATAL ciod Error reading message prefix after on CioStream socket to Connection reset by peer
+RAS KERNEL FATAL floating point operation
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL instruction address
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL wait state enable
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+NULL DISCOVERY INFO Node card VPD check node in processor card slot do not match VPD ecid found
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO program interrupt illegal instruction
+RAS APP FATAL ciod Error reading message prefix after on CioStream socket to Link has been severed
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL machine check i fetch
+RAS KERNEL FATAL rts internal error
+RAS APP FATAL ciod LOGIN chdir p da failed No such file or directory
+RAS KERNEL FATAL instruction address
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL FATAL external input interrupt enable
+RAS KERNEL INFO exception syndrome register
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data address space
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error loading bgl apps hwstab RAPTOR temp raptor invalid or missing program No such file or directory
+RAS APP FATAL ciod Error loading home Urgent COP cop rts invalid or missing program Permission denied
+RAS KERNEL INFO ciod Message code is not or
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ciod cpu at treeaddr sent unrecognized message
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error creating node map from file home auselton bgl mapfiles bgl map Resource temporarily unavailable
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO CE sym at mask
+RAS APP FATAL ciod Error loading bgl apps hwstab RAPTOR temp raptor invalid or missing program No such file or directory
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL icache prefetch depth
+RAS KERNEL FATAL problem state usr
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL debug wait enable
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO ciod Error opening node map file p No such file or directory
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error loading home yates broadcast rts invalid or missing program No such file or directory
+RAS KERNEL INFO double hummer alignment exceptions
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL floating pt ex mode enable
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data store interrupt caused by icbi
+RAS APP FATAL ciod Error loading bgl apps scaletest performance MINIBEN allreduce rts invalid or missing program Exec format error
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error loading bgl apps followup MINIBEN bandwidth rts invalid or missing program No such file or directory
+RAS KERNEL INFO generating core
+RAS KERNEL INFO total of ddr error s detected and corrected
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ddr errors s detected and corrected on rank symbol bit
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+NULL DISCOVERY ERROR Node card status no ALERTs are active Clock Mode is Low Clock Select is Midplane Phy JTAG Reset is asserted ASIC JTAG Reset is asserted Temperature Mask is not active No temperature error Temperature Limit Error Latch is clear PGOOD IS NOT ASSERTED PGOOD ERROR LATCH IS ACTIVE MPGOOD IS NOT OK MPGOOD ERROR LATCH IS ACTIVE The volt rail is OK The volt rail is OK
+NULL DISCOVERY ERROR Node card status no ALERTs are active Clock Mode is Low Clock Select is Midplane Phy JTAG Reset is asserted ASIC JTAG Reset is asserted Temperature Mask is not active No temperature error Temperature Limit Error Latch is clear PGOOD IS NOT ASSERTED PGOOD ERROR LATCH IS ACTIVE MPGOOD IS NOT OK MPGOOD ERROR LATCH IS ACTIVE The volt rail is OK The volt rail is OK
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL FATAL program interrupt imprecise exception
+NULL DISCOVERY INFO Node card VPD check node in processor card slot do not match VPD ecid found
+RAS KERNEL FATAL external input interrupt enable
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ciod generated core files for program home da mpi testscripts alltoall
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL program interrupt privileged instruction
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL rts kernel terminated for reason bad message header expecting type type cpu index total
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO ciod generated core files for program bgl apps swl prep ibm swl functional run sppm
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL number of lines with parity errors written to EDRAMs
+RAS KERNEL INFO double hummer alignment exceptions
+NULL DISCOVERY WARNING Node card VPD check node in processor card slot do not match VPD ecid found
+RAS KERNEL FATAL data address
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod LOGIN chdir bglscratch bwallen SWL SYS CALLS testcases kernel syscalls writev failed No such file or directory
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL rts tree torus link training failed wanted B C X Y Z got B C X Y Z
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL wait state enable
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO floating point alignment exceptions
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL byte ordering exception
+RAS APP FATAL ciod Error loading home Urgent COP cop rts invalid or missing program Permission denied
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL special purpose registers
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO torus receiver y input pipe error s dcr detected and corrected
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL rts kernel terminated for reason
+RAS KERNEL FATAL problem state usr
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction address
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ciod generated core files for program bgl apps scaletest performance IMB
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO total of ddr error s detected and corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL machine check i fetch
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL Microloader Assertion
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS APP FATAL ciod Error loading bgl apps followup RAPTOR new raptor trace invalid or missing program Exec format error
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL floating pt ex mode enable
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO double hummer alignment exceptions
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO ciod generated core files for program home BGL demo
+RAS APP FATAL ciod Error loading bgl apps scaletest performance MINIBEN allreduce rts invalid or missing program Exec format error
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL store operation
+NULL DISCOVERY ERROR Node card status no ALERTs are active Clock Mode is Low Clock Select is Midplane Phy JTAG Reset is asserted ASIC JTAG Reset is asserted Temperature Mask is not active No temperature error Temperature Limit Error Latch is clear PGOOD IS NOT ASSERTED PGOOD ERROR LATCH IS ACTIVE MPGOOD IS NOT OK MPGOOD ERROR LATCH IS ACTIVE The volt rail is OK The volt rail is OK
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL FATAL icache prefetch depth
+NULL DISCOVERY WARNING Node card is not fully functional
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error loading home yates torus latency rts invalid or missing program No such file or directory
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL FATAL floating point instr enabled
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL guaranteed data cache block touch
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error loading bgl apps SWL performance MINIBEN torus latency rts invalid or missing program No such file or directory
+RAS KERNEL FATAL byte ordering exception
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL guaranteed instruction cache block touch
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL data store interrupt caused by dcbf
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ddr errors s detected and corrected on rank symbol bit
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ddr errors s detected and corrected on rank symbol bit
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL instruction address
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL program interrupt trap instruction
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL FATAL exception syndrome register
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL instruction address
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO ciod generated core files for program home TomAndJeff bin rts
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO ciod generated core files for program home Urgent COP vnm rts
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL machine check enable
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod LOGIN chdir nfs failed No such file or directory
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL Lustre mount FAILED point p
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod LOGIN chdir bgl apps SWL performance MINIBEN failed No such file or directory
+RAS KERNEL FATAL program interrupt imprecise exception
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO torus receiver y input pipe error s dcr detected and corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO total of ddr error s detected and corrected
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error reading message prefix after on CioStream socket to Link has been severed
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL instruction address
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ciod T coordinate exceeds physical dimension at line of node map file home b results map
+RAS APP FATAL ciod Error loading bgl apps SWL performance MINIBEN bandwidth rts invalid or missing program No such file or directory
+RAS KERNEL INFO ddr errors s detected and corrected on rank symbol bit
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+NULL DISCOVERY INFO Node card VPD check node in processor card slot do not match VPD ecid found
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod failed to read message prefix on control stream CioStream socket to
+RAS KERNEL INFO generating core
+NULL DISCOVERY INFO Node card VPD check node in processor card slot do not match VPD ecid found
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+NULL DISCOVERY WARNING Node card is not fully functional
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error loading home Urgent VNM vnm rts invalid or missing program Permission denied
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO total of ddr error s detected and corrected
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL problem state usr
+RAS KERNEL FATAL rts bad message header packet index greater than max softheader PRXF PIXF
+RAS KERNEL INFO double hummer alignment exceptions
+RAS APP FATAL ciod LOGIN chdir home failed No such file or directory
+RAS KERNEL INFO generating core
+RAS APP FATAL ciod Error loading bgl apps SWL performance MINIBEN torus latency rts invalid or missing program No such file or directory
+RAS APP FATAL ciod Error loading p bwallen rts invalid or missing program No such file or directory
+NULL DISCOVERY INFO Ido chip status changed ip v t status M Tue Sep PDT
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL FATAL Lustre mount FAILED point p
+RAS APP FATAL ciod Error loading home yates torus latency rts invalid or missing program No such file or directory
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO data cache search parity error detected attempting to correct
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL FATAL program interrupt illegal instruction
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL general purpose registers
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO EDRAM error s dcr detected and corrected
+RAS KERNEL FATAL data address
+RAS KERNEL INFO floating point alignment exceptions
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL external input interrupt enable
+NULL DISCOVERY ERROR Node card status no ALERTs are active Clock Mode is Low Clock Select is Midplane Phy JTAG Reset is asserted ASIC JTAG Reset is asserted Temperature Mask is not active No temperature error Temperature Limit Error Latch is clear PGOOD IS NOT ASSERTED PGOOD ERROR LATCH IS ACTIVE MPGOOD IS NOT OK MPGOOD ERROR LATCH IS ACTIVE The volt rail is OK The volt rail is OK
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO ddr errors s detected and corrected on rank symbol bit
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL problem state usr
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ciod generated core files for program home BGL demo
+RAS APP FATAL ciod LOGIN chdir bgl apps SWL performance MINIBEN failed No such file or directory
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL FATAL exception syndrome register
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL
+RAS KERNEL FATAL disable store gathering
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL machine state register
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL FATAL data store interrupt caused by icbi
+RAS KERNEL FATAL
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+NULL DISCOVERY WARNING Node card is not fully functional
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL FATAL Lustre mount FAILED point p
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO exception syndrome register
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL FATAL floating pt ex mode enable
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL INFO data cache search parity error detected attempting to correct
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL FATAL data TLB error interrupt
+RAS APP FATAL ciod LOGIN chdir bgl apps SWL performance MINIBEN failed No such file or directory
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+NULL DISCOVERY ERROR Node card status no ALERTs are active Clock Mode is Low Clock Select is Midplane Phy JTAG Reset is asserted ASIC JTAG Reset is asserted Temperature Mask is not active No temperature error Temperature Limit Error Latch is clear PGOOD IS NOT ASSERTED PGOOD ERROR LATCH IS ACTIVE MPGOOD IS NOT OK MPGOOD ERROR LATCH IS ACTIVE The volt rail is OK The volt rail is OK
+NULL DISCOVERY INFO Node card VPD check node in processor card slot do not match VPD ecid found
+RAS KERNEL INFO iar dear
+RAS KERNEL FATAL disable trace broadcast
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL Lustre mount FAILED point p
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL
+RAS KERNEL FATAL data storage interrupt
+RAS KERNEL FATAL instruction address
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL FATAL program interrupt illegal instruction
+RAS KERNEL INFO
+RAS APP FATAL ciod LOGIN chdir home src failed Permission denied
+RAS KERNEL INFO ciod cpu at treeaddr sent unrecognized message
+RAS KERNEL INFO ciod Missing or invalid fields on line of node map file home auselton bgl mapfiles bgl map
+RAS KERNEL FATAL Lustre mount FAILED point p
+RAS KERNEL INFO program interrupt trap instruction
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO data cache search parity error detected attempting to correct
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO ddr errors s detected and corrected on rank symbol bit
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data store interrupt caused by icbi
+RAS KERNEL INFO ciod generated core files for program bgl apps scaletest performance IMB
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS MMCS ERROR idoproxydb hit ASSERT condition ASSERT expression Source file idotransportmgr cpp Source line Function int
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO iar dear
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL instruction address
+RAS KERNEL INFO generating core
+RAS MMCS ERROR Ido packet timeout
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO torus receiver input pipe error s dcr detected and corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO double hummer alignment exceptions
+RAS APP FATAL ciod Error loading home Urgent COP hpcc invalid or missing program Permission denied
+RAS APP FATAL ciod Error reading message prefix after on CioStream socket to Link has been severed
+RAS KERNEL FATAL
+RAS KERNEL INFO floating point alignment exceptions
+RAS APP FATAL ciod LOGIN chdir bglscratch bwallen SWL SYS CALLS testcases kernel syscalls truncate failed No such file or directory
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO double hummer alignment exceptions
+RAS APP FATAL ciod Error loading bgl apps scaletest performance MINIBEN allreduce rts invalid or missing program Exec format error
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+NULL DISCOVERY WARNING Node card is not fully functional
+RAS KERNEL INFO CE sym at mask
+RAS APP FATAL ciod Error loading home yates broadcast rts invalid or missing program No such file or directory
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data store interrupt caused by icbi
+RAS KERNEL FATAL problem state usr
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO iar dear
+RAS APP FATAL ciod Error loading home Urgent COP hpcc invalid or missing program Permission denied
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core
+RAS KERNEL FATAL data TLB error interrupt
+RAS APP FATAL ciod failed to read message prefix on control stream CioStream socket to
+RAS APP FATAL ciod Error loading bgl apps followup MINIBEN bandwidth rts invalid or missing program No such file or directory
+RAS KERNEL INFO ddr errors s detected and corrected on rank symbol bit
+RAS KERNEL FATAL data TLB error interrupt
+RAS KERNEL INFO generating core
+RAS KERNEL INFO double hummer alignment exceptions
+RAS KERNEL INFO instruction cache parity error corrected
+RAS KERNEL INFO generating core
+RAS KERNEL INFO CE sym at mask
+RAS KERNEL INFO generating core
+RAS KERNEL INFO ciod Missing or invalid fields on line of node map file home auselton bgl sequential mapfile
+RAS KERNEL INFO floating point alignment exceptions
+RAS KERNEL INFO CE sym at mask
+RAS APP FATAL ciod Error loading home invalid or missing program No such file or directory
+RAS KERNEL INFO generating core
+RAS KERNEL INFO generating core

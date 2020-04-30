@@ -1,0 +1,2000 @@
+1129245107 RAS KERNEL INFO 9 ddr errors(s) detected and corrected on rank 0, symbol 29, bit 6
+1123031020 NULL DISCOVERY ERROR Found invalid node ecid in processor card slot J17, ecid 0000000000000000000000000000
+1120786585 RAS KERNEL INFO generating core.2513
+1122579849 RAS KERNEL INFO generating core.10461
+1121723566 RAS KERNEL FATAL rts: kernel terminated for reason 1002rts: bad message header: too many packets, type=9, cpu=0, index=581313, total=1121723565,
+1122164901 RAS KERNEL INFO 15 floating point alignment exceptions
+1125222034 RAS KERNEL INFO 47566606 double-hummer alignment exceptions
+1118554993 RAS KERNEL FATAL data TLB error interrupt
+1120265666 RAS KERNEL INFO 458720 double-hummer alignment exceptions
+1121901463 RAS KERNEL INFO 8 floating point alignment exceptions
+1118773695 RAS KERNEL FATAL data address space................0
+1123916192 RAS APP FATAL ciod: Error reading message prefix after VERSION_MESSAGE on CioStream socket to 172.16.96.116:54208: Link has been severed
+1120260771 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1129553003 RAS KERNEL INFO data cache search parity error detected. attempting to correct
+1122577150 RAS KERNEL INFO generating core.6639
+1122431444 RAS KERNEL INFO generating core.59129
+1127243522 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1118543439 RAS KERNEL FATAL data TLB error interrupt
+1122400970 RAS KERNEL INFO generating core.86
+1119481312 RAS KERNEL INFO 6182400 double-hummer alignment exceptions
+1120469595 RAS KERNEL INFO generating core.2524
+1120091923 RAS KERNEL INFO generating core.5937
+1121172425 RAS KERNEL INFO generating core.14726
+1120145576 RAS KERNEL INFO generating core.9963
+1120149059 RAS KERNEL INFO generating core.9194
+1120776071 RAS KERNEL INFO 649659120 double-hummer alignment exceptions
+1127318053 RAS KERNEL INFO CE sym 31, at 0x18f87340, mask 0x01
+1118768240 RAS KERNEL FATAL exception syndrome register: 0x00800000
+1119804009 RAS KERNEL INFO program interrupt: fp compare...............0
+1121006684 RAS KERNEL INFO generating core.12998
+1122430358 RAS KERNEL INFO generating core.1746
+1120938225 RAS KERNEL INFO generating core.43378
+1121900436 RAS KERNEL INFO 8 floating point alignment exceptions
+1118149538 RAS KERNEL INFO generating core.254
+1120231812 NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R14-M1-NA), mCardSernum(203231503833343000000000594c31304b34323839303158), mLp(FF:F2:9F:16:E3:88:00:0D:60:E9:1C:77), mIp(10.1.1.139), mType(4)) as part of Service Action 249
+1121496678 RAS KERNEL INFO generating core.61730
+1120260923 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1118767777 RAS KERNEL FATAL data storage interrupt
+1120772487 RAS KERNEL INFO generating core.2572
+1125082207 RAS KERNEL INFO iar 003a9108 dear 00b35438
+1128170283 RAS APP FATAL ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/Gunnels/VNM64/vnm.rts: invalid or missing program image, Permission denied
+1129160595 RAS KERNEL INFO critical input interrupt (unit=0x0b bit=0x02): warning for torus x+ wire
+1121598526 RAS KERNEL INFO generating core.27505
+1126190743 RAS KERNEL FATAL Lustre mount FAILED : bglio909 : point /p/gb1
+1118551014 RAS KERNEL FATAL data TLB error interrupt
+1120259981 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1118558352 RAS KERNEL FATAL data TLB error interrupt
+1121308217 RAS KERNEL INFO generating core.24948
+1119802814 RAS KERNEL INFO generating core.4248
+1127668526 RAS KERNEL INFO CE sym 27, at 0x1b70b860, mask 0x80
+1122578929 RAS KERNEL INFO generating core.1410
+1125222345 RAS KERNEL INFO 42142454 double-hummer alignment exceptions
+1122256945 RAS KERNEL INFO generating core.17802
+1120447025 RAS KERNEL INFO generating core.18556
+1118081366 RAS KERNEL INFO instruction cache parity error corrected
+1127243581 RAS MMCS ERROR Ido packet timeout
+1121494328 RAS KERNEL INFO generating core.13757
+1118545334 RAS KERNEL FATAL data TLB error interrupt
+1118771732 RAS KERNEL FATAL program interrupt: fp compare...............0
+1121901047 RAS KERNEL INFO 8 floating point alignment exceptions
+1124930236 RAS KERNEL FATAL instruction address space.........0
+1121599504 RAS KERNEL INFO generating core.35988
+1120939846 RAS KERNEL INFO generating core.23961
+1127857475 RAS APP FATAL ciod: Error loading /bgl/apps/linpack2/xhpl_241_no_fold: invalid or missing program image, No such file or directory
+1118843848 RAS KERNEL INFO generating core.3163
+1118852478 RAS KERNEL INFO instruction cache parity error corrected
+1118795449 RAS KERNEL INFO generating core.417
+1120938048 RAS KERNEL INFO generating core.37971
+1120969640 RAS KERNEL INFO generating core.32395
+1127243544 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1122576559 RAS KERNEL INFO generating core.1939
+1118710235 RAS KERNEL FATAL instruction address: 0x00004ed8
+1127243170 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127988000 RAS APP FATAL ciod: Error reading message prefix after LOGIN_MESSAGE on CioStream socket to 172.16.96.116:59582: Link has been severed
+1119725014 RAS KERNEL INFO generating core.6552
+1120935110 RAS KERNEL INFO generating core.9314
+1120932532 RAS KERNEL INFO generating core.56460
+1117992539 RAS KERNEL INFO generating core.3314
+1121495533 RAS KERNEL INFO generating core.6907
+1123030997 NULL DISCOVERY ERROR Found invalid node ecid in processor card slot J04, ecid 0000000000000000000000000000
+1121172520 RAS KERNEL INFO generating core.11847
+1120267020 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1120935558 RAS KERNEL INFO generating core.8077
+1118112645 RAS KERNEL INFO generating core.3816
+1120968240 RAS KERNEL INFO generating core.19087
+1120260926 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1121495807 RAS KERNEL INFO generating core.41712
+1120263182 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1118772677 RAS KERNEL FATAL 24:1feaa7a0 25:00284538 26:00230000 27:00320000
+1118758277 RAS KERNEL INFO generating core.3456
+1122168659 RAS KERNEL INFO 1005 floating point alignment exceptions
+1118772143 RAS KERNEL FATAL machine state register: 0x00002000
+1121494357 RAS KERNEL INFO generating core.42395
+1118558101 RAS KERNEL FATAL data TLB error interrupt
+1125219562 RAS KERNEL INFO 136218714 double-hummer alignment exceptions
+1120263346 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1120928756 RAS KERNEL INFO generating core.7357
+1120259806 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1119886825 RAS KERNEL INFO CE sym 0, at 0x1b858ca0, mask 0x40
+1120469762 RAS KERNEL INFO generating core.6788
+1120940643 RAS KERNEL INFO generating core.38798
+1120969301 RAS KERNEL INFO generating core.17896
+1125084109 RAS KERNEL INFO iar 003a929c dear 0128eb88
+1121309164 RAS KERNEL INFO generating core.6723
+1118772044 RAS KERNEL FATAL icache prefetch depth....................0
+1120937746 RAS KERNEL INFO generating core.22169
+1120776058 RAS KERNEL INFO 613500192 double-hummer alignment exceptions
+1117990986 RAS KERNEL INFO generating core.7214
+1124306377 RAS APP FATAL ciod: LOGIN chdir(/p/bg1/da) failed: No such file or directory
+1122431687 RAS KERNEL INFO generating core.20704
+1129531602 RAS KERNEL INFO ciod: generated 64 core files for program /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.101105_opt_cpm_essl
+1120935089 RAS KERNEL INFO generating core.5986
+1125083308 RAS KERNEL INFO iar 003a9260 dear 00efb4c8
+1122430455 RAS KERNEL INFO generating core.29854
+1118710367 RAS KERNEL FATAL instruction address: 0x00004ed8
+1118301096 RAS KERNEL INFO generating core.3539
+1125083348 RAS KERNEL INFO iar 003a9260 dear 00eff7b8
+1122581332 RAS KERNEL INFO generating core.14498
+1120955560 RAS KERNEL INFO generating core.14866
+1119151567 RAS KERNEL INFO generating core.1236
+1118070573 RAS KERNEL INFO total of 9 ddr error(s) detected and corrected
+1117982636 RAS KERNEL INFO generating core.1988
+1123966523 RAS APP FATAL ciod: LOGIN chdir(pwd) failed: No such file or directory
+1122430359 RAS KERNEL INFO generating core.35568
+1120748218 RAS KERNEL INFO generating core.938
+1121172982 RAS KERNEL INFO generating core.8188
+1118765978 RAS KERNEL FATAL instruction address: 0x00004ed8
+1118765248 RAS KERNEL FATAL data storage interrupt
+1130665794 RAS KERNEL INFO instruction cache parity error corrected
+1120934076 RAS KERNEL INFO generating core.30649
+1118550329 RAS KERNEL FATAL data TLB error interrupt
+1121526780 RAS KERNEL INFO generating core.36518
+1120450108 RAS KERNEL INFO generating core.24405
+1122576936 RAS KERNEL INFO generating core.4950
+1121901020 RAS KERNEL INFO 8 floating point alignment exceptions
+1123680782 RAS KERNEL INFO 1 ddr errors(s) detected and corrected on rank 0, symbol 7, bit 7
+1125222454 RAS KERNEL INFO 33265110 double-hummer alignment exceptions
+1118773425 RAS KERNEL FATAL floating pt ex mode 1 enable......0
+1118770778 RAS KERNEL FATAL data store interrupt caused by dcbf.........0
+1121308499 RAS KERNEL INFO generating core.1134
+1127243518 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1120094487 RAS KERNEL INFO 344040 double-hummer alignment exceptions
+1121006721 RAS KERNEL INFO generating core.24821
+1119807395 RAS KERNEL INFO floating point operation....................0
+1121006730 RAS KERNEL INFO generating core.31408
+1125889043 RAS KERNEL FATAL Lustre mount FAILED : bglio142 : point /p/gb1
+1118550110 RAS KERNEL FATAL data TLB error interrupt
+1118767356 RAS KERNEL FATAL machine check: i-fetch......................0
+1118557600 RAS KERNEL FATAL data TLB error interrupt
+1122430755 RAS KERNEL INFO generating core.42932
+1125223793 RAS KERNEL INFO iar 0014a1e4 dear 009907a8
+1127243540 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1120148548 RAS KERNEL INFO generating core.1054
+1120928183 RAS KERNEL INFO generating core.10000
+1125084402 RAS KERNEL INFO iar 003a9260 dear 01298da8
+1124709920 RAS APP FATAL ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:43880: Link has been severed
+1120917299 RAS KERNEL INFO generating core.11098
+1117989652 RAS KERNEL INFO generating core.6918
+1121313900 RAS KERNEL INFO generating core.8624
+1120449741 RAS KERNEL INFO generating core.10113
+1120262440 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1122132783 RAS KERNEL INFO generating core.11604
+1120094110 RAS KERNEL INFO 344040 double-hummer alignment exceptions
+1122133156 RAS KERNEL INFO generating core.2585
+1118771907 RAS KERNEL FATAL guaranteed data cache block touch........1
+1118556387 RAS KERNEL FATAL data TLB error interrupt
+1120094162 RAS KERNEL INFO 344040 double-hummer alignment exceptions
+1120091526 RAS KERNEL INFO generating core.12282
+1118354055 RAS KERNEL INFO generating core.3583
+1122168722 RAS KERNEL INFO 1005 floating point alignment exceptions
+1129352964 RAS KERNEL INFO 1 ddr errors(s) detected and corrected on rank 0, symbol 5, bit 3
+1118769357 RAS KERNEL FATAL data storage interrupt
+1119694911 RAS KERNEL INFO 761015312 double-hummer alignment exceptions
+1118773992 RAS KERNEL FATAL disable store gathering..................0
+1120972593 RAS KERNEL INFO generating core.2822
+1118544696 RAS KERNEL FATAL data TLB error interrupt
+1129493682 RAS KERNEL INFO CE sym 35, at 0x0f0528e0, mask 0x40
+1118546264 RAS KERNEL FATAL data TLB error interrupt
+1118557599 RAS KERNEL FATAL data TLB error interrupt
+1121598419 RAS KERNEL INFO generating core.41619
+1121599166 RAS KERNEL INFO generating core.50402
+1127078346 RAS KERNEL INFO CE sym 15, at 0x06a72120, mask 0x04
+1128114655 RAS KERNEL INFO critical input interrupt (unit=0x0b bit=0x02): warning for torus x+ wire
+1121496131 RAS KERNEL INFO generating core.22218
+1121598288 RAS KERNEL INFO generating core.65009
+1122166644 RAS KERNEL INFO 5 floating point alignment exceptions
+1117973833 RAS KERNEL INFO generating core.7497
+1123637113 RAS KERNEL INFO total of 2 ddr error(s) detected and corrected
+1123915322 RAS APP FATAL ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1118770611 RAS KERNEL FATAL program interrupt: fp cr field .............0
+1118765300 RAS KERNEL FATAL data storage interrupt
+1118072136 RAS KERNEL INFO total of 2 ddr error(s) detected and corrected
+1121312051 RAS KERNEL INFO generating core.22465
+1117987419 RAS KERNEL INFO generating core.1305
+1120487350 RAS KERNEL INFO generating core.9603
+1118768075 RAS KERNEL FATAL data storage interrupt
+1118773392 RAS KERNEL FATAL debug interrupt enable............0
+1119715360 RAS KERNEL INFO generating core.275
+1125694271 RAS KERNEL FATAL Lustre mount FAILED : bglio953 : point /p/gb1
+1120935309 RAS KERNEL INFO generating core.40478
+1120487363 RAS KERNEL INFO generating core.13149
+1118964497 RAS KERNEL INFO instruction cache parity error corrected
+1120953126 RAS KERNEL INFO generating core.7448
+1118172145 RAS KERNEL INFO generating core.3956
+1120929283 RAS KERNEL INFO generating core.15247
+1119569235 RAS KERNEL INFO 6182400 double-hummer alignment exceptions
+1120935309 RAS KERNEL INFO generating core.40508
+1118765338 RAS KERNEL FATAL data storage interrupt
+1120934649 RAS KERNEL INFO generating core.14891
+1118538179 RAS KERNEL FATAL data TLB error interrupt
+1118734941 RAS KERNEL INFO generating core.6050
+1120937491 RAS KERNEL INFO generating core.54744
+1125224334 RAS KERNEL INFO iar 00149f88 dear 00a60aa8
+1118808799 RAS KERNEL INFO CE sym 2, at 0x1b85eaa0, mask 0x02
+1118079063 RAS KERNEL INFO instruction cache parity error corrected
+1120266929 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1120447114 RAS KERNEL INFO generating core.6413
+1120262336 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1120447296 RAS KERNEL INFO generating core.8292
+1120487668 RAS KERNEL INFO generating core.5933
+1122580127 RAS KERNEL INFO generating core.13314
+1120928190 RAS KERNEL INFO generating core.13752
+1120092081 RAS KERNEL INFO generating core.28417
+1128025402 RAS APP FATAL ciod: Error loading /home/spelce1/HPCC_IBM/TomAndJeff/bin/untested_vnm/untested_copro.rts: invalid or missing program image, No such file or directory
+1122143886 RAS KERNEL INFO generating core.24839
+1121496121 RAS KERNEL INFO generating core.15912
+1121006943 RAS KERNEL INFO generating core.6037
+1121546701 RAS KERNEL INFO instruction cache parity error corrected
+1119481821 RAS KERNEL INFO 3091200 double-hummer alignment exceptions
+1122576468 RAS KERNEL INFO generating core.13984
+1120469577 RAS KERNEL INFO generating core.27394
+1118771405 RAS KERNEL FATAL instruction address space.........0
+1122574231 RAS KERNEL INFO generating core.16176
+1122164889 RAS KERNEL INFO 15 floating point alignment exceptions
+1118769434 RAS KERNEL FATAL instruction address: 0x00004ed8
+1120262413 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1125575195 RAS KERNEL INFO CE sym 4, at 0x095e86e0, mask 0x01
+1121496079 RAS KERNEL INFO generating core.45546
+1118549471 RAS KERNEL FATAL data TLB error interrupt
+1118772715 RAS KERNEL FATAL 28:1feaa7b0 29:00000001 30:000008ce 31:1feaa790
+1118767381 RAS KERNEL FATAL program interrupt: illegal instruction......0
+1121172987 RAS KERNEL INFO generating core.653
+1130699911 RAS KERNEL FATAL summary...........................1
+1117973781 RAS KERNEL INFO generating core.3210
+1118540678 RAS KERNEL FATAL data TLB error interrupt
+1125222011 RAS KERNEL INFO 34647284 double-hummer alignment exceptions
+1118811255 RAS KERNEL INFO instruction cache parity error corrected
+1122430906 RAS KERNEL INFO generating core.59193
+1121599544 RAS KERNEL INFO generating core.40724
+1118765438 RAS KERNEL FATAL data storage interrupt
+1120216088 RAS KERNEL INFO generating core.27846
+1127264415 RAS APP FATAL ciod: Error loading /home/yates//torus-latency.rts: invalid or missing program image, No such file or directory
+1122165414 RAS KERNEL INFO 5 floating point alignment exceptions
+1121256650 RAS KERNEL INFO generating core.29107
+1121495634 RAS KERNEL INFO generating core.45919
+1117974452 RAS KERNEL INFO generating core.1755
+1118769888 RAS KERNEL FATAL machine check: i-fetch......................0
+1120094184 RAS KERNEL INFO 344040 double-hummer alignment exceptions
+1122166060 RAS KERNEL INFO generating core.9076
+1119726384 RAS KERNEL INFO generating core.13824
+1125222569 RAS KERNEL INFO 38903670 double-hummer alignment exceptions
+1122165967 RAS KERNEL INFO 5 floating point alignment exceptions
+1120091628 RAS KERNEL INFO generating core.31000
+1124611164 RAS KERNEL INFO CE sym 2, at 0x0fa3d060, mask 0x08
+1120968215 RAS KERNEL INFO generating core.17960
+1120262067 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1118370956 RAS KERNEL INFO generating core.1824
+1119804126 RAS KERNEL INFO machine state register: 0x0000f000
+1122256557 RAS KERNEL INFO generating core.62353
+1120261020 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1117980919 RAS KERNEL INFO generating core.162
+1125222651 RAS KERNEL INFO 45163734 double-hummer alignment exceptions
+1120487313 RAS KERNEL INFO generating core.126
+1121311013 RAS KERNEL INFO generating core.1339
+1120932351 RAS KERNEL INFO generating core.39635
+1118812527 RAS KERNEL INFO instruction cache parity error corrected
+1118236831 RAS KERNEL INFO CE sym 2, at 0x0b85f080, mask 0x0c
+1120145575 RAS KERNEL INFO generating core.9706
+1120259802 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1120938655 RAS KERNEL INFO generating core.8265
+1121311962 RAS KERNEL INFO generating core.16953
+1122574174 RAS KERNEL INFO generating core.4639
+1129903412 RAS APP FATAL ciod: Error loading /bgl/apps/followup/bcastV1R1.rts: invalid or missing program image, Permission denied
+1120939599 RAS KERNEL INFO generating core.23715
+1128508783 RAS APP FATAL ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/VNM/64K/vnm.rts: invalid or missing program image, Permission denied
+1122577054 RAS KERNEL INFO generating core.2290
+1120260755 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1121408312 RAS APP FATAL ciod: Error creating node map from file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map: Bad address
+1120447240 RAS KERNEL INFO generating core.8742
+1120260853 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1118771128 RAS KERNEL FATAL floating pt ex mode 0 enable......0
+1120351651 RAS KERNEL INFO generating core.2078
+1121313721 RAS KERNEL INFO generating core.28528
+1122580680 RAS KERNEL INFO generating core.13979
+1118856743 RAS KERNEL INFO CE sym 2, at 0x1b85fa80, mask 0x04
+1122430667 RAS KERNEL INFO generating core.51320
+1125224844 RAS KERNEL INFO iar 0014a150 dear 00990f68
+1119726504 RAS KERNEL INFO generating core.14288
+1121901572 RAS KERNEL INFO 8 floating point alignment exceptions
+1125083217 RAS KERNEL INFO 1547520 double-hummer alignment exceptions
+1124174495 RAS KERNEL FATAL rts: kernel terminated for reason 1001
+1122581147 RAS KERNEL INFO generating core.1723
+1125556557 RAS KERNEL FATAL Lustre mount FAILED : bglio216 : point /p/gb1
+1120655535 RAS APP FATAL ciod: Error loading /p/gb2/spelce1/Raptor/_pasci2/_hyperclaw.mf.rich/run/_jag_work/raptor3d.BGL.CXX_XL.MPI.ex: invalid or missing program image, No such file or directory
+1121906044 RAS KERNEL INFO 8 floating point alignment exceptions
+1123110770 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1120928221 RAS KERNEL INFO generating core.11530
+1120149067 RAS KERNEL INFO generating core.9720
+1121311158 RAS KERNEL INFO generating core.10891
+1118070537 RAS KERNEL INFO 1 torus receiver y+ input pipe error(s) (dcr 0x02ee) detected and corrected
+1125224477 RAS KERNEL INFO iar 0014a150 dear 0098d458
+1120216421 RAS KERNEL INFO generating core.1186
+1117845179 RAS KERNEL INFO generating core.776
+1120201424 RAS KERNEL INFO CE sym 12, at 0x1b707100, mask 0x20
+1123057776 NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:16:D5:6F:00:0D:60:E9:2A:90 ip=10.7.0.16 v=13 t=4
+1118772878 RAS KERNEL FATAL machine check enable..............0
+1122131340 RAS KERNEL INFO total of 1 ddr error(s) detected and corrected
+1121006587 RAS KERNEL INFO generating core.26168
+1120266925 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1121311140 RAS KERNEL INFO generating core.25241
+1118709650 RAS KERNEL FATAL data storage interrupt
+1118770371 RAS KERNEL FATAL program interrupt: trap instruction.........0
+1121311364 RAS KERNEL INFO generating core.3516
+1120967962 RAS KERNEL INFO 1338184768 double-hummer alignment exceptions
+1120969721 RAS KERNEL INFO generating core.30316
+1125083930 RAS KERNEL INFO 773760 double-hummer alignment exceptions
+1119804130 RAS KERNEL INFO machine state register: 0x0000f000
+1120487496 RAS KERNEL INFO generating core.8273
+1118699425 RAS KERNEL INFO ciod: cpu 0 at treeaddr 467 sent unrecognized message 0xffffffff
+1126476823 RAS APP FATAL ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:57071: Link has been severed
+1127264328 RAS APP FATAL ciod: Error loading /home/yates//torus-latency.rts: invalid or missing program image, No such file or directory
+1123966529 RAS APP FATAL ciod: LOGIN chdir(pwd) failed: No such file or directory
+1118538256 RAS KERNEL FATAL data TLB error interrupt
+1127243185 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1120940153 RAS KERNEL INFO generating core.11770
+1120447351 RAS KERNEL INFO generating core.22716
+1120447568 RAS KERNEL INFO generating core.26228
+1119577765 RAS KERNEL INFO generating core.0
+1120148969 RAS KERNEL INFO generating core.14903
+1128012493 NULL DISCOVERY WARNING Node card is not fully functional
+1118070540 RAS KERNEL INFO generating core.13772
+1120176816 RAS KERNEL INFO CE sym 0, at 0x1b859480, mask 0x80
+1120923736 RAS KERNEL INFO generating core.15840
+1119806994 RAS KERNEL INFO instruction address: 0x0062fe04
+1123745255 RAS KERNEL INFO CE sym 17, at 0x16904e60, mask 0x80
+1120940576 RAS KERNEL INFO generating core.22186
+1118772254 RAS KERNEL FATAL wait state enable.................0
+1121310815 RAS KERNEL INFO generating core.2901
+1122147266 RAS KERNEL INFO 15 floating point alignment exceptions
+1124548493 RAS KERNEL INFO ciod: generated 64 core files for program /bgl/apps/swl-prep/ibm-swl/functional/umt2k_chkpt/ckpt_umt2k_src/umt2k
+1121598922 RAS KERNEL INFO generating core.50413
+1118768086 RAS KERNEL FATAL data storage interrupt
+1119715159 RAS KERNEL INFO generating core.1565
+1120449699 RAS KERNEL INFO generating core.16911
+1120932470 RAS KERNEL INFO generating core.15102
+1121900738 RAS KERNEL INFO 8 floating point alignment exceptions
+1127248866 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1118772838 RAS KERNEL FATAL floating point instr. enabled.....1
+1120217082 RAS KERNEL INFO generating core.6299
+1118149518 RAS KERNEL INFO generating core.2732
+1127243386 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1125219842 RAS KERNEL INFO 165518676 double-hummer alignment exceptions
+1122162051 RAS KERNEL INFO 5 floating point alignment exceptions
+1125084827 RAS KERNEL INFO iar 003a9274 dear 00f2b088
+1130251587 RAS APP FATAL ciod: Error loading allreduce_int_V1R1.rts: invalid or missing program image, No such file or directory
+1122430969 RAS KERNEL INFO generating core.45783
+1126009988 RAS KERNEL FATAL Lustre mount FAILED : bglio933 : point /p/gb1
+1125083397 RAS KERNEL INFO iar 003a929c dear 00fcda08
+1127265665 RAS APP FATAL ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.08) failed: No such file or directory
+1120786998 RAS KERNEL INFO generating core.3214
+1122143093 RAS KERNEL INFO generating core.10252
+1124345077 RAS KERNEL FATAL rts: kernel terminated for reason 1001
+1119725129 RAS KERNEL INFO generating core.6801
+1118082086 RAS KERNEL INFO instruction cache parity error corrected
+1130819686 RAS KERNEL INFO instruction cache parity error corrected
+1121494380 RAS KERNEL INFO generating core.17402
+1118556813 RAS KERNEL FATAL data TLB error interrupt
+1118770780 RAS KERNEL FATAL data store interrupt caused by dcbf.........0
+1121172425 RAS KERNEL INFO generating core.15236
+1122133481 RAS KERNEL INFO generating core.8063
+1120939784 RAS KERNEL INFO generating core.34014
+1121903581 RAS KERNEL INFO 8 floating point alignment exceptions
+1120217068 RAS KERNEL INFO generating core.10622
+1124167517 RAS KERNEL FATAL rts: kernel terminated for reason 1001
+1119256912 RAS APP FATAL ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:57906
+1120216076 RAS KERNEL INFO generating core.28400
+1122256868 RAS KERNEL INFO generating core.29451
+1127243366 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1120938038 RAS KERNEL INFO generating core.52472
+1120092149 RAS KERNEL INFO generating core.10897
+1120937632 RAS KERNEL INFO generating core.4191
+1120934506 RAS KERNEL INFO generating core.33739
+1124496767 RAS APP FATAL ciod: Error reading message prefix after LOGIN_MESSAGE on CioStream socket to 172.16.96.116:33572: Link has been severed
+1118769991 RAS KERNEL FATAL machine check: i-fetch......................0
+1120787029 RAS KERNEL INFO generating core.56942
+1122167479 RAS KERNEL INFO 685 floating point alignment exceptions
+1122132731 RAS KERNEL INFO generating core.9693
+1118773909 RAS KERNEL FATAL core configuration register: 0x00002000
+1122167215 RAS KERNEL INFO 685 floating point alignment exceptions
+1121707426 RAS KERNEL INFO generating core.7559
+1119725288 RAS KERNEL INFO generating core.59229
+1118550371 RAS KERNEL FATAL data TLB error interrupt
+1117979307 RAS KERNEL INFO generating core.4000
+1118172078 RAS KERNEL INFO generating core.4976
+1118814026 RAS KERNEL INFO instruction cache parity error corrected
+1127243512 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1123103608 NULL DISCOVERY WARNING Node card is not fully functional
+1121006991 RAS KERNEL INFO generating core.5726
+1121495559 RAS KERNEL INFO generating core.4662
+1121804368 RAS KERNEL FATAL critical input interrupt enable...1
+1118769405 RAS KERNEL FATAL instruction address: 0x00004ed8
+1121172422 RAS KERNEL INFO generating core.15302
+1118765494 RAS KERNEL FATAL data storage interrupt
+1118550339 RAS KERNEL FATAL data TLB error interrupt
+1118773411 RAS KERNEL FATAL floating pt ex mode 1 enable......0
+1120148678 RAS KERNEL INFO generating core.5386
+1120940683 RAS KERNEL INFO generating core.4590
+1119166496 RAS KERNEL INFO generating core.2935
+1130480868 RAS KERNEL INFO CE sym 5, at 0x04600ac0, mask 0x80
+1120931257 RAS KERNEL INFO generating core.58110
+1121310963 RAS KERNEL INFO generating core.3651
+1125084124 RAS KERNEL INFO iar 003a929c dear 01360e68
+1118070480 RAS KERNEL INFO generating core.4133
+1125084344 RAS KERNEL INFO iar 003a9258 dear 012979a8
+1118771003 RAS KERNEL FATAL floating point instr. enabled.....1
+1129504184 RAS KERNEL FATAL floating point instr. enabled.....1
+1120917285 RAS KERNEL INFO generating core.8384
+1117843052 RAS KERNEL INFO 161 double-hummer alignment exceptions
+1121495270 RAS KERNEL INFO generating core.26354
+1125221326 RAS KERNEL INFO 30428404 double-hummer alignment exceptions
+1121496226 RAS KERNEL INFO generating core.329
+1122430654 RAS KERNEL INFO generating core.53977
+1118767817 RAS KERNEL FATAL data storage interrupt
+1125222711 RAS KERNEL INFO 35950396 double-hummer alignment exceptions
+1118540026 RAS KERNEL FATAL data TLB error interrupt
+1118769628 RAS KERNEL FATAL data address: 0x00000002
+1120351697 RAS KERNEL INFO generating core.436
+1118104631 RAS KERNEL INFO generating core.3981
+1119715199 RAS KERNEL INFO generating core.61884
+1125871286 RAS KERNEL FATAL Lustre mount FAILED : bglio301 : point /p/gb1
+1121313627 RAS KERNEL INFO generating core.10311
+1122430459 RAS KERNEL INFO generating core.59416
+1120260141 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1121006353 RAS KERNEL INFO generating core.8662
+1129190071 RAS KERNEL FATAL machine check interrupt
+1123030797 NULL DISCOVERY INFO Node card VPD check: U11 node in processor card slot J12 do not match. VPD ecid 04CC8091502FFFFF04051B2088D6, found 0000000000000000000000000000
+1120969685 RAS KERNEL INFO generating core.32604
+1118122892 RAS KERNEL INFO generating core.826
+1119804140 RAS KERNEL INFO machine state register: 0x0000f000
+1120260753 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1120145417 RAS KERNEL INFO generating core.19419
+1121311352 RAS KERNEL INFO generating core.10430
+1120955662 RAS KERNEL INFO generating core.13388
+1127243341 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1121314106 RAS KERNEL INFO generating core.12020
+1121006569 RAS KERNEL INFO generating core.3353
+1123614563 RAS KERNEL FATAL rts tree/torus link training failed: wanted: C X+ X- Y+ Y- Z+ Z- got: C X+ Y- Z+ Z-
+1122576897 RAS KERNEL INFO generating core.495
+1122578258 RAS KERNEL INFO generating core.9717
+1118758204 RAS KERNEL INFO generating core.7865
+1128729686 RAS KERNEL INFO ciod: generated 45 core files for program /home/spelce1/HPCC_IBM/Urgent/COP/FFTW_OPT/cop.rts
+1120955508 RAS KERNEL INFO generating core.11569
+1118769996 RAS KERNEL FATAL data store interrupt caused by dcbf.........0
+1118772001 RAS KERNEL FATAL force load/store alignment...............0
+1120071471 RAS KERNEL INFO 1 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected
+1121904658 RAS KERNEL INFO 8 floating point alignment exceptions
+1121901437 RAS KERNEL INFO 8 floating point alignment exceptions
+1129907862 RAS KERNEL INFO critical input interrupt (unit=0x0b bit=0x0b): warning for torus z- wire
+1126113169 NULL DISCOVERY SEVERE Can not get assembly information for node card
+1130935470 RAS KERNEL INFO instruction cache parity error corrected
+1120917311 RAS KERNEL INFO generating core.15171
+1120937555 RAS KERNEL INFO generating core.41041
+1120262025 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1117987433 RAS KERNEL INFO generating core.6636
+1122165225 RAS KERNEL INFO generating core.4300
+1120146474 RAS KERNEL INFO generating core.309
+1120265519 RAS KERNEL INFO 458720 double-hummer alignment exceptions
+1118767288 RAS KERNEL FATAL machine check: i-fetch......................0
+1118767919 RAS KERNEL FATAL data storage interrupt
+1118554677 RAS KERNEL FATAL data TLB error interrupt
+1122168496 RAS KERNEL INFO 1005 floating point alignment exceptions
+1127243357 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1118555125 RAS KERNEL FATAL data TLB error interrupt
+1119803217 RAS KERNEL INFO program interrupt: privileged instruction...0
+1120917338 RAS KERNEL INFO generating core.9961
+1120937716 RAS KERNEL INFO generating core.61853
+1120969680 RAS KERNEL INFO generating core.20447
+1117979254 RAS KERNEL INFO generating core.13989
+1118709545 RAS KERNEL FATAL data storage interrupt
+1119481311 RAS KERNEL INFO 6182400 double-hummer alignment exceptions
+1122143006 RAS KERNEL INFO generating core.8073
+1122581308 RAS KERNEL INFO generating core.8912
+1118959383 RAS APP FATAL ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:52476
+1120094620 RAS KERNEL INFO 344040 double-hummer alignment exceptions
+1120263115 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1125224543 RAS KERNEL INFO iar 0014a150 dear 009ba638
+1117839547 RAS KERNEL INFO instruction cache parity error corrected
+1118092980 RAS KERNEL INFO generating core.1708
+1122577065 RAS KERNEL INFO generating core.14389
+1125220314 RAS KERNEL INFO iar 00149f88 dear 00706908
+1119726430 RAS KERNEL INFO generating core.4058
+1118541255 RAS KERNEL FATAL data TLB error interrupt
+1118557889 RAS KERNEL FATAL data TLB error interrupt
+1125084393 RAS KERNEL INFO 1524480 double-hummer alignment exceptions
+1120788540 RAS KERNEL INFO generating core.1134
+1122576980 RAS KERNEL INFO generating core.11353
+1120146015 RAS KERNEL INFO generating core.6460
+1124176416 RAS KERNEL FATAL rts: bad message header: cpu 32 invalid (softheader=20746f20 3137322e 31362e39 362e3131) PSR0=00000100 PSR1=00000000 PRXF=0002000a PIXF=00000007
+1121311963 RAS KERNEL INFO generating core.3131
+1121496547 RAS KERNEL INFO generating core.65313
+1118958736 RAS APP FATAL ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:50591
+1122147322 RAS KERNEL INFO 15 floating point alignment exceptions
+1121313878 RAS KERNEL INFO generating core.2581
+1122431517 RAS KERNEL INFO generating core.8962
+1120148329 RAS KERNEL INFO generating core.2788
+1120469620 RAS KERNEL INFO generating core.14441
+1121707358 RAS KERNEL INFO generating core.21927
+1118772972 RAS KERNEL FATAL rts internal error
+1120262282 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1121598942 RAS KERNEL INFO generating core.9092
+1120266833 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1122430643 RAS KERNEL INFO generating core.26809
+1119478864 RAS KERNEL INFO 1969920 double-hummer alignment exceptions
+1122256793 RAS KERNEL INFO generating core.51081
+1121664992 RAS KERNEL INFO 1 ddr errors(s) detected and corrected on rank 0, symbol 34, bit 5
+1127243230 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1120932873 RAS KERNEL INFO generating core.33883
+1122579975 RAS KERNEL INFO generating core.3283
+1127243245 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1118548094 RAS KERNEL FATAL data TLB error interrupt
+1120148986 RAS KERNEL INFO generating core.8272
+1121311885 RAS KERNEL INFO generating core.27411
+1124737583 RAS KERNEL INFO ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi
+1125084186 RAS KERNEL INFO iar 003a92a0 dear 0128f458
+1120449708 RAS KERNEL INFO generating core.12601
+1122166018 RAS KERNEL INFO generating core.6213
+1121311906 RAS KERNEL INFO generating core.18265
+1118070497 RAS KERNEL INFO 1 torus receiver z- input pipe error(s) (dcr 0x02f1) detected and corrected
+1120938649 RAS KERNEL INFO generating core.58858
+1122256834 RAS KERNEL INFO generating core.424
+1121311353 RAS KERNEL INFO generating core.10909
+1121204941 RAS KERNEL INFO CE sym 33, at 0x171b7560, mask 0x20
+1120967898 RAS KERNEL INFO 1330436896 double-hummer alignment exceptions
+1122256814 RAS KERNEL INFO generating core.26126
+1122167451 RAS KERNEL INFO 685 floating point alignment exceptions
+1124742348 RAS KERNEL INFO ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi
+1121598865 RAS KERNEL INFO generating core.58370
+1122579942 RAS KERNEL INFO generating core.6780
+1124075626 RAS KERNEL INFO total of 1 ddr error(s) detected and corrected
+1130688066 RAS APP FATAL ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_cpm: invalid or missing program image, Permission denied
+1121313732 RAS KERNEL INFO generating core.29630
+1123021662 NULL DISCOVERY WARNING Node card is not fully functional
+1118772727 RAS KERNEL FATAL floating point instr. enabled.....1
+1119904620 RAS KERNEL INFO instruction cache parity error corrected
+1121903637 RAS KERNEL INFO 8 floating point alignment exceptions
+1118271746 RAS KERNEL INFO CE sym 4, at 0x054d2be0, mask 0x80
+1122133483 RAS KERNEL INFO generating core.10094
+1121598352 RAS KERNEL INFO generating core.15770
+1125948904 RAS KERNEL FATAL Lustre mount FAILED : bglio319 : point /p/gb1
+1121310877 RAS KERNEL INFO generating core.16798
+1121495634 RAS KERNEL INFO generating core.13182
+1118557013 RAS KERNEL FATAL data TLB error interrupt
+1118081898 RAS KERNEL INFO instruction cache parity error corrected
+1121313752 RAS KERNEL INFO generating core.12825
+1120940238 RAS KERNEL INFO generating core.25847
+1120934106 RAS KERNEL INFO generating core.48274
+1118545182 RAS KERNEL FATAL data TLB error interrupt
+1120094461 RAS KERNEL INFO 344040 double-hummer alignment exceptions
+1130766728 RAS KERNEL INFO CE sym 16, at 0x18fa5d40, mask 0x80
+1120968901 RAS KERNEL INFO generating core.7363
+1118765175 RAS KERNEL FATAL data storage interrupt
+1120092008 RAS KERNEL INFO generating core.1322
+1125219665 RAS KERNEL INFO 134972704 double-hummer alignment exceptions
+1125083990 RAS KERNEL INFO 773760 double-hummer alignment exceptions
+1125082227 RAS KERNEL INFO
+1120931279 RAS KERNEL INFO generating core.37625
+1121599521 RAS KERNEL INFO generating core.31604
+1120940765 RAS KERNEL INFO generating core.50112
+1121311467 RAS KERNEL INFO generating core.15927
+1120957061 RAS KERNEL INFO generating core.3499
+1120934932 RAS KERNEL INFO generating core.4487
+1118556264 RAS KERNEL FATAL data TLB error interrupt
+1127243515 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1122143300 RAS KERNEL INFO generating core.5102
+1120149129 RAS KERNEL INFO generating core.5239
+1117991014 RAS KERNEL INFO generating core.7401
+1119566261 RAS KERNEL INFO 4121600 double-hummer alignment exceptions
+1125221527 RAS KERNEL INFO 26341578 double-hummer alignment exceptions
+1121172886 RAS KERNEL INFO generating core.6548
+1123915211 RAS APP FATAL ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1118770562 RAS KERNEL FATAL program interrupt: fp cr field .............0
+1123193820 NULL DISCOVERY WARNING Node card is not fully functional
+1127243378 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1120257750 RAS KERNEL INFO generating core.340
+1121311940 RAS KERNEL INFO generating core.4141
+1119479348 RAS KERNEL INFO 2576000 double-hummer alignment exceptions
+1118770356 RAS KERNEL FATAL program interrupt: trap instruction.........0
+1123178237 NULL DISCOVERY ERROR Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1125222354 RAS KERNEL INFO 30515350 double-hummer alignment exceptions
+1120490359 RAS KERNEL INFO generating core.3799
+1119716001 RAS KERNEL INFO generating core.23561
+1118540826 RAS KERNEL FATAL data TLB error interrupt
+1118541915 RAS KERNEL FATAL data TLB error interrupt
+1120968488 RAS KERNEL INFO generating core.3042
+1121006947 RAS KERNEL INFO generating core.4076
+1120405257 RAS KERNEL INFO generating core.127
+1120929219 RAS KERNEL INFO generating core.8389
+1120094656 RAS KERNEL INFO 344040 double-hummer alignment exceptions
+1119695711 RAS KERNEL INFO 252917669 double-hummer alignment exceptions
+1127243224 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1120149038 RAS KERNEL INFO generating core.13890
+1120917480 RAS KERNEL INFO generating core.12806
+1121311223 RAS KERNEL INFO generating core.23228
+1122256322 RAS KERNEL INFO generating core.50419
+1122139726 RAS KERNEL INFO 15 floating point alignment exceptions
+1117959529 RAS KERNEL INFO generating core.1656
+1119725299 RAS KERNEL INFO generating core.4341
+1120486608 RAS KERNEL INFO generating core.13834
+1122401209 RAS KERNEL INFO generating core.148
+1118771605 RAS KERNEL FATAL disable store gathering..................0
+1122581423 RAS KERNEL INFO generating core.2502
+1118112662 RAS KERNEL INFO generating core.1238
+1124818178 RAS KERNEL INFO ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi
+1125082946 RAS KERNEL INFO iar 003a9288 dear 00b36b68
+1120351652 RAS KERNEL INFO generating core.5146
+1127243239 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1119896589 RAS KERNEL INFO generating core.434
+1120094248 RAS KERNEL INFO 344040 double-hummer alignment exceptions
+1122574200 RAS KERNEL INFO generating core.361
+1118768314 RAS KERNEL FATAL exception syndrome register: 0x00800000
+1122168736 RAS KERNEL INFO 1005 floating point alignment exceptions
+1121903692 RAS KERNEL INFO 8 floating point alignment exceptions
+1118122932 RAS KERNEL INFO generating core.2823
+1123891537 RAS APP FATAL ciod: Error loading /bgl/apps/hwstab/RAPTOR/temp/raptor: invalid or missing program image, No such file or directory
+1122431139 RAS KERNEL INFO generating core.11048
+1123759624 RAS KERNEL INFO CE sym 27, at 0x1236bae0, mask 0x02
+1118768390 RAS KERNEL FATAL machine check: i-fetch......................0
+1122431273 RAS KERNEL INFO generating core.23210
+1118852685 RAS KERNEL INFO instruction cache parity error corrected
+1127244864 NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J14 do not match. VPD ecid 075704E8857BFFFF07061BD086E5, found 04C580D7D92FFFFF080D1AE09AD4
+1122133350 RAS KERNEL INFO generating core.12139
+1121496013 RAS KERNEL INFO generating core.7307
+1118771873 RAS KERNEL FATAL guaranteed data cache block touch........1
+1120928144 RAS KERNEL INFO generating core.13648
+1125219853 RAS KERNEL INFO CE sym 28, at 0x13359840, mask 0x10
+1119695044 RAS KERNEL INFO 759711584 double-hummer alignment exceptions
+1119725156 RAS KERNEL INFO generating core.53688
+1118771135 RAS KERNEL FATAL auxiliary processor.........................0
+1118772606 RAS KERNEL FATAL problem state (0=sup,1=usr).......0
+1120924651 RAS KERNEL INFO generating core.15805
+1121383402 RAS APP FATAL ciod: Error creating node map from file /home/pakin1/sweep3d-2.2b/results/xyzt-8x32x32x2.map: Permission denied
+1123695861 RAS KERNEL INFO total of 1 ddr error(s) detected and corrected
+1120216116 RAS KERNEL INFO generating core.13492
+1121599528 RAS KERNEL INFO generating core.31701
+1121313899 RAS KERNEL INFO generating core.2273
+1120969452 RAS KERNEL INFO generating core.2748
+1118771524 RAS KERNEL FATAL program interrupt: imprecise exception......0
+1117845788 RAS KERNEL INFO generating core.892
+1121313862 RAS KERNEL INFO generating core.3385
+1120932342 RAS KERNEL INFO generating core.65058
+1121707471 RAS KERNEL INFO generating core.17830
+1118540128 RAS KERNEL FATAL data TLB error interrupt
+1119807522 RAS KERNEL INFO data store interrupt caused by dcbf.........0
+1121252451 RAS KERNEL INFO 118468800 double-hummer alignment exceptions
+1127956642 RAS KERNEL INFO 2 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected
+1118767413 RAS KERNEL FATAL program interrupt: illegal instruction......0
+1120973030 RAS KERNEL INFO generating core.957
+1120940031 RAS KERNEL INFO generating core.24153
+1130529602 RAS KERNEL FATAL rts: kernel terminated for reason 1004
+1120216365 RAS KERNEL INFO generating core.17697
+1118766071 RAS KERNEL FATAL instruction address: 0x00004ed8
+1121736441 RAS KERNEL INFO generating core.200
+1122430454 RAS KERNEL INFO generating core.28892
+1126379983 RAS KERNEL INFO ciod: generated 42 core files for program /home/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDbglV
+1118772370 RAS KERNEL FATAL 8:00000004 9:4e800020 10:3ed4bd98 11:6b26bf88
+1118537493 RAS KERNEL FATAL data TLB error interrupt
+1118236832 RAS KERNEL INFO CE sym 2, at 0x0b85ea80, mask 0x08
+1121902909 RAS KERNEL INFO 8 floating point alignment exceptions
+1120940020 RAS KERNEL INFO generating core.46748
+1121308485 RAS KERNEL INFO generating core.710
+1118772045 RAS KERNEL FATAL icache prefetch depth....................0
+1119151616 RAS KERNEL INFO CE sym 0, at 0x1b8594e0, mask 0x40
+1120806179 RAS APP FATAL ciod: Error loading /p/gb2/spelce1/raptor.dev.new3d.BGL.CXX_XL.MPI.ex: invalid or missing program image, No such file or directory
+1121311392 RAS KERNEL INFO generating core.28005
+1122166082 RAS KERNEL INFO generating core.2830
+1118371005 RAS KERNEL INFO generating core.7976
+1118768383 RAS KERNEL FATAL machine check: i-fetch......................0
+1119377754 RAS KERNEL INFO generating core.2095
+1118769950 RAS KERNEL FATAL machine check: i-fetch......................0
+1124724028 RAS KERNEL INFO ciod: generated 32 core files for program /home/germann2/SPaSM_static/SPaSM_mpi
+1120469353 RAS KERNEL INFO generating core.15604
+1120216286 RAS KERNEL INFO generating core.23160
+1120241541 NULL DISCOVERY WARNING Node card is not fully functional
+1118766867 RAS KERNEL FATAL instruction address: 0x00004ed8
+1119803277 RAS KERNEL INFO program interrupt: trap instruction.........0
+1122256540 RAS KERNEL INFO generating core.45557
+1118536050 RAS KERNEL FATAL data TLB error interrupt
+1120262338 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1118771883 RAS KERNEL FATAL guaranteed data cache block touch........1
+1125219835 RAS KERNEL INFO 155555016 double-hummer alignment exceptions
+1118772692 RAS KERNEL FATAL problem state (0=sup,1=usr).......0
+1118538366 RAS KERNEL FATAL data TLB error interrupt
+1121727756 RAS KERNEL FATAL 28:000894a4 29:00000000 30:000886a0 31:b0000040
+1119481820 RAS KERNEL INFO 3091200 double-hummer alignment exceptions
+1121312132 RAS KERNEL INFO generating core.29425
+1119979940 NULL DISCOVERY ERROR Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1121900444 RAS KERNEL INFO 8 floating point alignment exceptions
+1126275479 RAS KERNEL INFO CE sym 6, at 0x00b49060, mask 0x04
+1129190134 RAS KERNEL INFO CE sym 29, at 0x0e03e6c0, mask 0x40
+1118772339 RAS KERNEL FATAL 4:000008ce 5:ffffffff 6:00000038 7:00086590
+1118772502 RAS KERNEL FATAL 16:00000000 17:00000001 18:00000000 19:00000000
+1120145656 RAS KERNEL INFO generating core.297
+1120924423 RAS KERNEL INFO generating core.14128
+1123110843 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1118149800 RAS KERNEL INFO generating core.1889
+1120173873 RAS APP FATAL ciod: Error creating node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map: Bad file descriptor
+1118772363 RAS KERNEL FATAL 8:00000004 9:4e800020 10:3ed4bd98 11:6b26bf88
+1120216068 RAS KERNEL INFO generating core.11381
+1122166592 RAS KERNEL INFO 5 floating point alignment exceptions
+1129878864 RAS KERNEL INFO CE sym 31, at 0x0a80d500, mask 0x80
+1121900770 RAS KERNEL INFO 8 floating point alignment exceptions
+1128719249 RAS KERNEL INFO CE sym 9, at 0x05ae8720, mask 0x02
+1123220619 RAS KERNEL INFO total of 2 ddr error(s) detected and corrected
+1124575761 RAS KERNEL INFO 11 ddr errors(s) detected and corrected on rank 0, symbol 8, bit 7
+1120937475 RAS KERNEL INFO generating core.64179
+1127034619 RAS KERNEL INFO total of 24 ddr error(s) detected and corrected
+1122133485 RAS KERNEL INFO generating core.3294
+1120145778 RAS KERNEL INFO generating core.4164
+1117979304 RAS KERNEL INFO generating core.9296
+1121308216 RAS KERNEL INFO generating core.1856
+1121172930 RAS KERNEL INFO generating core.5121
+1120958576 RAS KERNEL INFO generating core.11813
+1125083731 RAS KERNEL INFO iar 003a9254 dear 00f06588
+1120929130 RAS KERNEL INFO generating core.9610
+1119695705 RAS KERNEL INFO 260819331 double-hummer alignment exceptions
+1118770458 RAS KERNEL FATAL floating point operation....................0
+1120209751 RAS KERNEL INFO generating core.2150
+1121496361 RAS KERNEL INFO generating core.29230
+1127245289 NULL DISCOVERY SEVERE While initializing node card iDo machine with LP of FF:F2:9F:16:C6:C4:00:0D:60:E9:39:3B caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:16:C6:C4:00:0D:60:E9:39:3B and IP=/10.4.0.191 because java.lang.RuntimeException: Communication error: (DirectIDo for Uninitialized DirectIDo for FF:F2:9F:16:C6:C4:00:0D:60:E9:39:3B@/10.4.0.191:0 is in state = COMMUNICATION_ERROR, sequenceNumberIsOk = false, ExpectedSequenceNumber = 0, Reply Sequence Number = -1, timedOut = true, retries = 200, timeout = 1000, Expected Op Command = 5, Actual Op Reply = -1, Expected Sync Command = 10, Actual Sync Reply = -1)
+1120746952 RAS KERNEL INFO generating core.375
+1129267659 RAS KERNEL INFO ddr: activating redundant bit steering: rank=0 symbol=19
+1120449905 RAS KERNEL INFO generating core.16534
+1118290062 RAS KERNEL INFO generating core.312
+1120263332 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1123402482 RAS KERNEL INFO CE sym 9, at 0x067ddc60, mask 0x01
+1123914962 RAS APP FATAL ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1127243196 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1122579236 RAS KERNEL INFO generating core.1008
+1118070511 RAS KERNEL INFO CE sym 20, at 0x01228120, mask 0x10
+1119481833 RAS KERNEL INFO 3091200 double-hummer alignment exceptions
+1121007087 RAS KERNEL INFO generating core.24525
+1119377790 RAS KERNEL INFO generating core.4086
+1118772685 RAS KERNEL FATAL problem state (0=sup,1=usr).......0
+1118541425 RAS KERNEL FATAL data TLB error interrupt
+1123110938 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1122165540 RAS KERNEL INFO generating core.11886
+1118771038 RAS KERNEL FATAL auxiliary processor.........................0
+1119726631 RAS KERNEL INFO generating core.3888
+1118765785 RAS KERNEL FATAL instruction address: 0x00004ed8
+1122578082 RAS KERNEL INFO generating core.8399
+1120969771 RAS KERNEL INFO generating core.31846
+1118087124 RAS KERNEL INFO generating core.1055
+1120938517 RAS KERNEL INFO generating core.53224
+1121311299 RAS KERNEL INFO generating core.4340
+1127243161 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1118771203 RAS KERNEL FATAL debug wait enable.................0
+1118709704 RAS KERNEL FATAL data storage interrupt
+1118768186 RAS KERNEL FATAL data storage interrupt
+1120957413 RAS KERNEL INFO generating core.2170
+1120447246 RAS KERNEL INFO generating core.20760
+1120266982 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1129075774 RAS KERNEL INFO suppressing further interrupts of same type
+1117987362 RAS KERNEL INFO generating core.6537
+1121308528 RAS KERNEL INFO generating core.13955
+1121706938 RAS KERNEL INFO generating core.11001
+1125222911 RAS KERNEL INFO 36212512 double-hummer alignment exceptions
+1120956848 RAS KERNEL INFO generating core.1449
+1119978529 NULL DISCOVERY WARNING Node card is not fully functional
+1122133381 RAS KERNEL INFO generating core.5592
+1120263405 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1120259686 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1122577109 RAS KERNEL INFO generating core.13025
+1118770141 RAS KERNEL FATAL program interrupt: illegal instruction......0
+1121598027 RAS KERNEL INFO generating core.37078
+1121901415 RAS KERNEL INFO 8 floating point alignment exceptions
+1121408316 RAS APP FATAL ciod: Error creating node map from file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map: Bad address
+1118769483 RAS KERNEL FATAL data address: 0x00000002
+1118771594 RAS KERNEL FATAL program interrupt: fp cr update.............0
+1127264335 RAS APP FATAL ciod: Error loading /home/yates//torus-latency.rts: invalid or missing program image, No such file or directory
+1118812810 RAS KERNEL INFO instruction cache parity error corrected
+1118080334 RAS KERNEL INFO instruction cache parity error corrected
+1127243345 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1122166164 RAS KERNEL INFO 5 floating point alignment exceptions
+1120148675 RAS KERNEL INFO generating core.2545
+1123041743 NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:15:1F:A4:00:0D:60:EA:E0:5B ip=10.3.0.76 v=9 t=2
+1125220567 RAS KERNEL INFO iar 0014a150 dear 00825688
+1123915123 RAS APP FATAL ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1120260091 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1122177516 RAS KERNEL INFO total of 1 ddr error(s) detected and corrected
+1121006530 RAS KERNEL INFO generating core.18797
+1118770964 RAS KERNEL FATAL problem state (0=sup,1=usr).......0
+1117992602 RAS KERNEL INFO generating core.2695
+1118165791 RAS KERNEL INFO generating core.54
+1118544479 RAS KERNEL FATAL data TLB error interrupt
+1120266852 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1118709633 RAS KERNEL FATAL data storage interrupt
+1121706943 RAS KERNEL INFO generating core.10177
+1123203846 RAS KERNEL FATAL start prefetching........................0
+1121495292 RAS KERNEL INFO generating core.61017
+1122166640 RAS KERNEL INFO 5 floating point alignment exceptions
+1120469550 RAS KERNEL INFO generating core.4471
+1127780576 RAS APP FATAL ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:35013: Link has been severed
+1120267023 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1118771121 RAS KERNEL FATAL auxiliary processor.........................0
+1119803541 RAS KERNEL INFO data store interrupt caused by icbi.........0
+1120260754 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1122580953 RAS KERNEL INFO generating core.13943
+1121599260 RAS KERNEL INFO generating core.29312
+1118771849 RAS KERNEL FATAL guaranteed instruction cache block touch.0
+1122579937 RAS KERNEL INFO generating core.11084
+1118709968 RAS KERNEL FATAL instruction address: 0x00004ed8
+1117843029 RAS KERNEL INFO 162 double-hummer alignment exceptions
+1124575800 RAS KERNEL INFO CE sym 20, at 0x1c00cbe0, mask 0x10
+1125435450 RAS KERNEL INFO 1 ddr errors(s) detected and corrected on rank 0, symbol 12, bit 7
+1124479517 RAS APP FATAL ciod: LOGIN chdir(/home/auselton/testing) failed: No such file or directory
+1122168603 RAS KERNEL INFO 1005 floating point alignment exceptions
+1121495269 RAS KERNEL INFO generating core.54193
+1120469699 RAS KERNEL INFO generating core.2244
+1123966513 RAS APP FATAL ciod: LOGIN chdir(pwd) failed: No such file or directory
+1120968050 RAS KERNEL INFO generating core.12574
+1120935015 RAS KERNEL INFO generating core.64451
+1120938289 RAS KERNEL INFO generating core.9900
+1120490378 RAS KERNEL INFO generating core.2765
+1120216169 RAS KERNEL INFO generating core.20074
+1122578083 RAS KERNEL INFO generating core.10257
+1120262201 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1118772502 RAS KERNEL FATAL external input interrupt enable...0
+1119803513 RAS KERNEL INFO data store interrupt caused by icbi.........0
+1120469487 RAS KERNEL INFO generating core.30980
+1121256316 RAS KERNEL INFO generating core.46614
+1122164919 RAS KERNEL INFO 15 floating point alignment exceptions
+1118843871 RAS KERNEL INFO generating core.1446
+1118766766 RAS KERNEL FATAL data storage interrupt
+1120932748 RAS KERNEL INFO generating core.14963
+1124547145 RAS KERNEL INFO ciod: generated 64 core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm
+1118767895 RAS KERNEL FATAL data storage interrupt
+1122578298 RAS KERNEL INFO generating core.8159
+1122165481 RAS KERNEL INFO generating core.5963
+1125084395 RAS KERNEL INFO iar 003a9260 dear 01297db8
+1123607794 NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:16:C5:6E:00:0D:60:E9:3A:91 ip=10.6.2.95 v=13 t=4 status=M Tue Aug 09 10:08:23 PDT 2005
+1122168614 RAS KERNEL INFO 1005 floating point alignment exceptions
+1120937939 RAS KERNEL INFO generating core.9367
+1120968063 RAS KERNEL INFO generating core.31596
+1118538205 RAS KERNEL FATAL data TLB error interrupt
+1120266969 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1121901276 RAS KERNEL INFO 8 floating point alignment exceptions
+1122581428 RAS KERNEL INFO generating core.1474
+1118765631 RAS KERNEL FATAL data storage interrupt
+1120937719 RAS KERNEL INFO generating core.63321
+1125084499 RAS KERNEL INFO 1524480 double-hummer alignment exceptions
+1119291354 RAS KERNEL INFO generating core.7431
+1128025074 RAS KERNEL INFO suppressing further interrupts of same type
+1122580771 RAS KERNEL INFO generating core.10286
+1120266888 RAS KERNEL INFO 1049200 double-hummer alignment exceptions
+1127243374 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1126977596 NULL DISCOVERY ERROR Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1122580616 RAS KERNEL INFO generating core.14351
+1118081572 RAS KERNEL INFO instruction cache parity error corrected
+1121308062 RAS KERNEL INFO generating core.15884
+1129386921 RAS KERNEL INFO 1 ddr errors(s) detected and corrected on rank 0, symbol 11, bit 3
+1120788399 RAS KERNEL INFO generating core.57298
+1121598986 RAS KERNEL INFO generating core.12360
+1121137672 RAS KERNEL FATAL rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=10144, cpu=127, index=0, total=0
+1127444279 RAS KERNEL INFO CE sym 14, at 0x08d4e740, mask 0x01
+1120970918 RAS KERNEL INFO generating core.3840
+1118710297 RAS KERNEL FATAL instruction address: 0x00004ed8
+1124306472 RAS APP FATAL ciod: LOGIN chdir(/p/bg1/da) failed: No such file or directory
+1118767172 RAS KERNEL FATAL exception syndrome register: 0x00800000
+1120146156 RAS KERNEL INFO generating core.8111
+1120937798 RAS KERNEL INFO generating core.37431
+1129853469 RAS KERNEL INFO ciod: generated 64 core files for program /home/rfisher/sodscaling/_32partition/flash2
+1120788456 RAS KERNEL INFO generating core.64562
+1125084381 RAS KERNEL INFO iar 003a9260 dear 00e26778
+1118772432 RAS KERNEL FATAL 12:28244842 13:1eeeeeee 14:ffffffff 15:0003fd59
+1121312021 RAS KERNEL INFO generating core.7745
+1124253917 RAS KERNEL FATAL rts: kernel terminated for reason 1003
+1120266753 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1119572919 RAS KERNEL INFO 3091200 double-hummer alignment exceptions
+1120487507 RAS KERNEL INFO generating core.4512
+1120263418 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1122167261 RAS KERNEL INFO 685 floating point alignment exceptions
+1127755901 RAS KERNEL INFO CE sym 15, at 0x111e0880, mask 0x04
+1121493822 RAS KERNEL INFO generating core.37759
+1125223626 RAS KERNEL INFO iar 0014a150 dear 0098acf8
+1120938655 RAS KERNEL INFO generating core.42057
+1121252423 RAS KERNEL INFO 115109952 double-hummer alignment exceptions
+1119715255 RAS KERNEL INFO generating core.42107
+1127265533 RAS APP FATAL ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.05) failed: No such file or directory
+1121229606 RAS KERNEL INFO total of 1 ddr error(s) detected and corrected
+1122580902 RAS KERNEL INFO generating core.11981
+1120935513 RAS KERNEL INFO generating core.63622
+1121495236 RAS KERNEL INFO generating core.46323
+1119972117 NULL DISCOVERY SEVERE Can not get assembly information for node card
+1122168678 RAS KERNEL INFO 1005 floating point alignment exceptions
+1127265532 RAS APP FATAL ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.05) failed: No such file or directory
+1122166620 RAS KERNEL INFO 5 floating point alignment exceptions
+1122574459 RAS KERNEL INFO generating core.5574
+1123362840 NULL DISCOVERY SEVERE Can not get assembly information for node card
+1118772729 RAS KERNEL FATAL 28:1feaa7b0 29:00000001 30:000008ce 31:1feaa790
+1120775972 RAS KERNEL INFO 647332944 double-hummer alignment exceptions
+1128370534 RAS KERNEL INFO CE sym 33, at 0x00dbd200, mask 0x80
+1122430598 RAS KERNEL INFO generating core.5726
+1121308691 RAS KERNEL INFO generating core.31898
+1121900512 RAS KERNEL INFO 8 floating point alignment exceptions
+1118771874 RAS KERNEL FATAL program interrupt: fp cr field .............0
+1120939707 RAS KERNEL INFO generating core.47801
+1122574079 RAS KERNEL INFO generating core.3977
+1129158878 RAS KERNEL INFO critical input interrupt (unit=0x0b bit=0x17): warning for tree C1 wire
+1120487517 RAS KERNEL INFO generating core.2842
+1128641398 RAS APP FATAL ciod: Error reading message prefix after LOGIN_MESSAGE on CioStream socket to 172.16.96.116:39726: Link has been severed
+1120351710 RAS KERNEL INFO generating core.2348
+1120934768 RAS KERNEL INFO generating core.33644
+1125221417 RAS KERNEL INFO 35537126 double-hummer alignment exceptions
+1120772747 RAS KERNEL INFO generating core.1337
+1118205952 RAS KERNEL INFO instruction cache parity error corrected
+1123915772 RAS APP FATAL ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1118092980 RAS KERNEL INFO generating core.2457
+1120934209 RAS KERNEL INFO generating core.52667
+1122256348 RAS KERNEL INFO generating core.51480
+1118253504 RAS KERNEL INFO generating core.318
+1127356168 RAS KERNEL INFO CE sym 4, at 0x095e86e0, mask 0x01
+1122165977 RAS KERNEL INFO generating core.5235
+1125223344 RAS KERNEL INFO iar 0014a150 dear 00987878
+1123459542 NULL DISCOVERY WARNING Node card is not fully functional
+1118290069 RAS KERNEL INFO generating core.3019
+1118430790 RAS KERNEL INFO generating core.220
+1120908822 RAS KERNEL INFO ciod: duplicate canonical-rank 31 to logical-rank 0 mapping at line 3 of node map file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map
+1121252821 RAS KERNEL INFO 117029720 double-hummer alignment exceptions
+1127243527 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1124394045 RAS KERNEL INFO ciod: generated 64 core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm
+1123031018 NULL DISCOVERY INFO Node card VPD check: U11 node in processor card slot J03 do not match. VPD ecid 04D58088CB2FFFFF05031BE060E4, found 0000000000000000000000000000
+1125439215 RAS KERNEL INFO NFS Mount failed on bglio141, slept 16 seconds, retrying (1)
+1122143208 RAS KERNEL INFO generating core.15460
+1122133395 RAS KERNEL INFO generating core.15746
+1119694943 RAS KERNEL INFO 733536192 double-hummer alignment exceptions
+1121495421 RAS KERNEL INFO generating core.5271
+1122579966 RAS KERNEL INFO generating core.7731
+1119806947 RAS KERNEL INFO generating core.25918
+1122133203 RAS KERNEL INFO generating core.2626
+1122166703 RAS KERNEL INFO 5 floating point alignment exceptions
+1127243228 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1120091842 RAS KERNEL INFO generating core.21781
+1117979207 RAS KERNEL INFO generating core.8121
+1117979961 RAS KERNEL INFO generating core.133
+1121111774 RAS APP FATAL ciod: Error loading /home/greeno/raptor.new.dev.3d.BGL.CXX_XL.MPI.ex: invalid or missing program image, No such file or directory
+1123182973 NULL DISCOVERY ERROR Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1120939712 RAS KERNEL INFO generating core.32123
+1130267902 RAS KERNEL INFO critical input interrupt (unit=0x0b bit=0x12): warning for tree B0 wire
+1121904637 RAS KERNEL INFO 8 floating point alignment exceptions
+1121543620 RAS KERNEL INFO instruction cache parity error corrected
+1123178660 NULL DISCOVERY INFO Node card VPD check: U11 node in processor card slot J06 do not match. VPD ecid 04D980874B2FFFFF090819A10CB8, found 04D58074152FFFFF0E071C004CEB
+1121006555 RAS KERNEL INFO generating core.14542
+1120148567 RAS KERNEL INFO generating core.1168
+1120260659 RAS KERNEL INFO generating core.148
+1120487508 RAS KERNEL INFO generating core.9385
+1118771163 RAS KERNEL FATAL floating pt ex mode 0 enable......0
+1119802772 RAS KERNEL INFO program interrupt
+1123102511 NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J11 do not match. VPD ecid 04D780D8452FFFFF0A0D1C005CE8, found 07570D50D52FFFFF09021C6054F0
+1119480524 RAS KERNEL INFO 3091200 double-hummer alignment exceptions
+1122166745 RAS KERNEL INFO 5 floating point alignment exceptions
+1121495869 RAS KERNEL INFO generating core.35635
+1119725437 RAS KERNEL INFO generating core.25141
+1119804028 RAS KERNEL INFO program interrupt: fp cr field .............0
+1119695460 RAS KERNEL INFO 254219536 double-hummer alignment exceptions
+1120935208 RAS KERNEL INFO generating core.26022
+1122166074 RAS KERNEL INFO generating core.5982
+1118539669 RAS KERNEL FATAL data TLB error interrupt
+1118183512 RAS KERNEL INFO generating core.4554
+1118916948 RAS KERNEL INFO 209 L3 EDRAM error(s) (dcr 0x0157) detected and corrected
+1119671391 RAS KERNEL INFO generating core.11
+1120216297 RAS KERNEL INFO generating core.8252
+1123915121 RAS APP FATAL ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1120786617 RAS KERNEL INFO generating core.62218
+1127243342 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1118911786 RAS KERNEL INFO generating core.12701
+1119281137 NULL DISCOVERY ERROR Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1119726703 RAS KERNEL INFO generating core.5732
+1118549736 RAS KERNEL FATAL data TLB error interrupt
+1127243377 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1120776088 RAS KERNEL INFO 634451520 double-hummer alignment exceptions
+1122580682 RAS KERNEL INFO generating core.14732
+1118082268 RAS KERNEL INFO instruction cache parity error corrected
+1120934520 RAS KERNEL INFO generating core.64072
+1121311458 RAS KERNEL INFO generating core.7573
+1126031416 RAS KERNEL INFO CE sym 12, at 0x0353d340, mask 0x04
+1120967901 RAS KERNEL INFO 1404609520 double-hummer alignment exceptions
+1121707363 RAS KERNEL INFO generating core.20431
+1118771694 RAS KERNEL FATAL program interrupt: fp cr update.............0
+1120259896 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1125222313 RAS KERNEL INFO 26777312 double-hummer alignment exceptions
+1118709636 RAS KERNEL FATAL data storage interrupt
+1118551122 RAS KERNEL FATAL data TLB error interrupt
+1117869886 RAS APP FATAL ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33577
+1118860363 RAS KERNEL INFO instruction cache parity error corrected
+1120146655 RAS KERNEL INFO generating core.3581
+1121706978 RAS KERNEL INFO generating core.20496
+1121902916 RAS KERNEL INFO 8 floating point alignment exceptions
+1118769546 RAS KERNEL FATAL exception syndrome register: 0x00800000
+1118758246 RAS KERNEL INFO generating core.5078
+1121256517 RAS KERNEL INFO generating core.27002
+1125734944 RAS KERNEL FATAL Lustre mount FAILED : bglio447 : point /p/gb1
+1121311404 RAS KERNEL INFO generating core.1550
+1122165227 RAS KERNEL INFO generating core.1292
+1119806924 RAS KERNEL INFO program interrupt
+1118768452 RAS KERNEL FATAL machine check: i-fetch......................0
+1120938414 RAS KERNEL INFO generating core.31009
+1127243162 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1120261110 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1117987449 RAS KERNEL INFO generating core.6071
+1121313941 RAS KERNEL INFO generating core.6836
+1119055341 RAS KERNEL INFO generating core.9757
+1119695756 RAS KERNEL INFO 255205812 double-hummer alignment exceptions
+1124043448 RAS KERNEL INFO ciod: generated 64 core files for program /bgl/apps/scaletest/performance/IMB_2.3_243_64K/IMB-MPI1.gp2_perf
+1122579094 RAS KERNEL INFO generating core.2305
+1117959543 RAS KERNEL INFO generating core.1613
+1118767004 RAS KERNEL FATAL data address: 0x00000002
+1118548929 RAS KERNEL FATAL data TLB error interrupt
+1120788428 RAS KERNEL INFO generating core.3673
+1121598413 RAS KERNEL INFO generating core.55195
+1118549543 RAS KERNEL FATAL data TLB error interrupt
+1117976652 RAS KERNEL INFO generating core.1691
+1120447432 RAS KERNEL INFO generating core.11658
+1118769392 RAS KERNEL FATAL data storage interrupt
+1128925163 RAS KERNEL INFO 30 ddr errors(s) detected and corrected on rank 0, symbol 12, bit 6
+1118765778 RAS KERNEL FATAL instruction address: 0x00004ed8
+1122167262 RAS KERNEL INFO 685 floating point alignment exceptions
+1118553924 RAS KERNEL FATAL data TLB error interrupt
+1122144086 RAS KERNEL INFO generating core.15890
+1123193293 NULL DISCOVERY ERROR Missing reverse cable: Cable R24-M0-L0 4 F (J12) --> R04-M1-L0 4 C (J14) is present BUT the reverse cable R04-M1-L0 1 F (J04) --> R24-M0-L0 1 C (J06) is missing
+1118758288 RAS KERNEL INFO generating core.2548
+1130123664 RAS KERNEL INFO ciod: generated 128 core files for program /home/spelce1/HPCC_IBM/Urgent/COP/64K/new_vnm.rts
+1121442045 RAS KERNEL INFO generating core.702
+1122256205 RAS KERNEL INFO generating core.62425
+1122578160 RAS KERNEL INFO generating core.102
+1129547483 RAS APP FATAL ciod: Error loading /bgl/apps/followup/RAPTOR/current_brian.rts: invalid or missing program image, No such file or directory
+1121312317 RAS KERNEL INFO generating core.12245
+1121252657 RAS KERNEL INFO 115638816 double-hummer alignment exceptions
+1121902861 RAS KERNEL INFO 8 floating point alignment exceptions
+1121496221 RAS KERNEL INFO generating core.29672
+1118810945 RAS KERNEL INFO instruction cache parity error corrected
+1125222055 RAS KERNEL INFO 34794740 double-hummer alignment exceptions
+1120217054 RAS KERNEL INFO generating core.13821
+1120263460 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1123627488 RAS KERNEL INFO critical input interrupt (unit=0x0b bit=0x03): warning for torus x- wire
+1126894072 RAS KERNEL INFO 1 ddr errors(s) detected and corrected on rank 0, symbol 26, bit 3
+1120404172 RAS KERNEL INFO CE sym 28, at 0x0738d460, mask 0x10
+1123057857 NULL DISCOVERY WARNING Node card is not fully functional
+1119695545 RAS KERNEL INFO 259632933 double-hummer alignment exceptions
+1120093978 RAS KERNEL INFO 344040 double-hummer alignment exceptions
+1120935599 RAS KERNEL INFO generating core.44198
+1118092972 RAS KERNEL INFO generating core.742
+1120935135 RAS KERNEL INFO generating core.12737
+1118769520 RAS KERNEL FATAL instruction address: 0x00004ed8
+1123915067 RAS APP FATAL ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1125082112 RAS KERNEL INFO iar 003a90f0 dear 00b36128
+1127243206 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1120929209 RAS KERNEL INFO generating core.15585
+1129204908 RAS APP FATAL ciod: Error loading /bgl/apps/followup/SPASM/spasm.254: invalid or missing program image, Permission denied
+1121308157 RAS KERNEL INFO generating core.22415
+1120263086 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1121206131 RAS KERNEL INFO generating core.524
+1128441152 RAS APP FATAL ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:56480: Link has been severed
+1120216636 RAS KERNEL INFO generating core.9340
+1122431217 RAS KERNEL INFO generating core.42028
+1119482222 RAS KERNEL INFO 1030400 double-hummer alignment exceptions
+1120975828 RAS KERNEL INFO generating core.1975
+1121308126 RAS KERNEL INFO generating core.11293
+1117985758 RAS KERNEL INFO generating core.6356
+1124273115 RAS KERNEL FATAL rts: kernel terminated for reason 1001
+1118772097 RAS KERNEL FATAL machine state register: 0x00002000
+1118770356 RAS KERNEL FATAL program interrupt: imprecise exception......0
+1119256964 RAS APP FATAL ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:58107
+1120970933 RAS KERNEL INFO generating core.4086
+1118770093 RAS KERNEL FATAL program interrupt: illegal instruction......0
+1117984176 RAS KERNEL INFO generating core.7874
+1120447488 RAS KERNEL INFO generating core.9453
+1120788543 RAS KERNEL INFO generating core.62473
+1117957742 RAS KERNEL INFO generating core.2587
+1118766040 RAS KERNEL FATAL instruction address: 0x00004ed8
+1119166442 RAS KERNEL INFO generating core.425
+1121252969 RAS KERNEL INFO 114996312 double-hummer alignment exceptions
+1123916289 RAS APP FATAL ciod: Error reading message prefix after VERSION_MESSAGE on CioStream socket to 172.16.96.116:56258: Link has been severed
+1127264247 RAS APP FATAL ciod: Error loading /home/yates//torus-latency.rts: invalid or missing program image, No such file or directory
+1120446983 RAS KERNEL INFO generating core.2026
+1122430507 RAS KERNEL INFO generating core.20219
+1127243224 RAS MMCS ERROR Ido packet timeout
+1118766155 RAS KERNEL FATAL instruction address: 0x00004ed8
+1121599804 RAS KERNEL INFO generating core.60805
+1118552548 RAS KERNEL FATAL data TLB error interrupt
+1120217007 RAS KERNEL INFO generating core.12676
+1120969068 RAS KERNEL INFO generating core.22585
+1118285716 RAS KERNEL INFO 9 ddr errors(s) detected and corrected on rank 0, symbol 2, bit 5
+1121308655 RAS KERNEL INFO generating core.11194
+1123272445 RAS KERNEL FATAL Error: unable to mount filesystem
+1119880993 RAS KERNEL INFO CE sym 29, at 0x1a86f180, mask 0x08
+1118772712 RAS KERNEL FATAL 28:1feaa7b0 29:00000001 30:000008ce 31:1feaa790
+1121308478 RAS KERNEL INFO generating core.6178
+1118771627 RAS KERNEL FATAL program interrupt: fp cr update.............0
+1120404175 RAS KERNEL INFO CE sym 15, at 0x05c42680, mask 0x40
+1120487522 RAS KERNEL INFO generating core.2194
+1121901543 RAS KERNEL INFO 8 floating point alignment exceptions
+1120968311 RAS KERNEL INFO generating core.8427
+1121483846 RAS KERNEL INFO CE sym 15, at 0x1f9d7fe0, mask 0x10
+1118771460 RAS KERNEL FATAL program interrupt: imprecise exception......0
+1121900618 RAS KERNEL INFO 8 floating point alignment exceptions
+1120260119 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1121707046 RAS KERNEL INFO generating core.23359
+1125083497 RAS KERNEL INFO iar 003a929c dear 00efd9a8
+1118540254 RAS KERNEL FATAL data TLB error interrupt
+1118543758 RAS KERNEL FATAL data TLB error interrupt
+1125030923 RAS KERNEL FATAL Lustre mount FAILED : bglio1002 : block_id : location
+1120148629 RAS KERNEL INFO generating core.587
+1119715542 RAS KERNEL INFO generating core.37910
+1121006470 RAS KERNEL INFO generating core.28145
+1121901232 RAS KERNEL INFO 8 floating point alignment exceptions
+1118771676 RAS KERNEL FATAL disable apu instruction broadcast........0
+1118771843 RAS KERNEL FATAL program interrupt: fp compare...............0
+1121311397 RAS KERNEL INFO generating core.1711
+1121252753 RAS KERNEL INFO 110079144 double-hummer alignment exceptions
+1121495702 RAS KERNEL INFO generating core.30000
+1120148840 RAS KERNEL INFO generating core.11186
+1118770154 RAS KERNEL FATAL program interrupt: illegal instruction......0
+1120969342 RAS KERNEL INFO generating core.2458
+1118773845 RAS KERNEL FATAL core configuration register: 0x00002000
+1119463550 RAS KERNEL INFO total of 1 ddr error(s) detected and corrected
+1120146227 RAS KERNEL INFO generating core.14758
+1123295778 RAS KERNEL INFO CE sym 29, at 0x0ea9fd60, mask 0x40
+1120935673 RAS KERNEL INFO generating core.48581
+1119377806 RAS KERNEL INFO generating core.2964
+1120091753 RAS KERNEL INFO generating core.25097
+1118901735 RAS KERNEL FATAL rts panic! - stopping execution
+1118769799 RAS KERNEL FATAL program interrupt: trap instruction.........0
+1120039255 RAS KERNEL INFO generating core.4415
+1120776026 RAS KERNEL INFO 632894064 double-hummer alignment exceptions
+1117984204 RAS KERNEL INFO generating core.6838
+1121496494 RAS KERNEL INFO generating core.40224
+1121727753 RAS KERNEL FATAL icache prefetch threshold................0
+1121493920 RAS KERNEL INFO generating core.41490
+1119571789 RAS KERNEL INFO 3091200 double-hummer alignment exceptions
+1118078975 RAS KERNEL INFO instruction cache parity error corrected
+1120973023 RAS KERNEL INFO generating core.3797
+1122430998 RAS KERNEL INFO generating core.25364
+1118770529 RAS KERNEL FATAL program interrupt: fp compare...............0
+1117992602 RAS KERNEL INFO generating core.5821
+1120263334 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1120924491 RAS KERNEL INFO generating core.13069
+1122143093 RAS KERNEL INFO generating core.10517
+1126539129 RAS APP FATAL ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:41411: Link has been severed
+1125222087 RAS KERNEL INFO 35742958 double-hummer alignment exceptions
+1123914613 RAS APP FATAL ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1125083870 RAS KERNEL INFO 773760 double-hummer alignment exceptions
+1122166597 RAS KERNEL INFO 5 floating point alignment exceptions
+1118770228 RAS KERNEL FATAL program interrupt: unimplemented operation..0
+1120806181 RAS APP FATAL ciod: Error loading /p/gb2/spelce1/raptor.dev.new3d.BGL.CXX_XL.MPI.ex: invalid or missing program image, No such file or directory
+1122165498 RAS KERNEL INFO 5 floating point alignment exceptions
+1122143877 RAS KERNEL INFO generating core.18329
+1119806886 RAS KERNEL INFO program interrupt
+1127243349 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1118545339 RAS KERNEL FATAL data TLB error interrupt
+1121172365 RAS KERNEL INFO generating core.5970
+1122164875 RAS KERNEL INFO 15 floating point alignment exceptions
+1121308718 RAS KERNEL INFO generating core.23681
+1128641355 RAS APP FATAL ciod: Error reading message prefix after LOGIN_MESSAGE on CioStream socket to 172.16.96.116:39581: Link has been severed
+1121311846 RAS KERNEL INFO generating core.25696
+1120934388 RAS KERNEL INFO generating core.21307
+1127243532 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1119716030 RAS KERNEL INFO generating core.24800
+1125223967 RAS KERNEL INFO iar 0014a1e4 dear 009a8448
+1120967962 RAS KERNEL INFO 1290862816 double-hummer alignment exceptions
+1126496356 RAS KERNEL INFO 1 L3 directory error(s) (dcr 0x0152) detected and corrected
+1119291052 RAS KERNEL INFO generating core.7882
+1124479567 RAS APP FATAL ciod: Error reading message prefix after LOGIN_MESSAGE on CioStream socket to 172.16.96.116:40959: Link has been severed
+1118183570 RAS KERNEL INFO generating core.2845
+1122256432 RAS KERNEL INFO generating core.26832
+1120216025 RAS KERNEL INFO generating core.26072
+1118545877 RAS KERNEL FATAL data TLB error interrupt
+1120956678 RAS KERNEL INFO generating core.10940
+1121598180 RAS KERNEL INFO generating core.14544
+1118958911 RAS APP FATAL ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:51311
+1120938576 RAS KERNEL INFO generating core.38788
+1120173884 RAS APP FATAL ciod: Error creating node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map: Bad file descriptor
+1120094559 RAS KERNEL INFO 344040 double-hummer alignment exceptions
+1120149101 RAS KERNEL INFO generating core.993
+1118810985 RAS KERNEL INFO instruction cache parity error corrected
+1118911770 RAS KERNEL INFO generating core.13095
+1122256885 RAS KERNEL INFO generating core.32744
+1118772425 RAS KERNEL FATAL 12:28244842 13:1eeeeeee 14:ffffffff 15:0010da4d
+1121598539 RAS KERNEL INFO generating core.47539
+1123914653 RAS APP FATAL ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1118770692 RAS KERNEL FATAL machine state register: 0x00002000
+1118771136 RAS KERNEL FATAL auxiliary processor.........................0
+1119806873 RAS KERNEL INFO generating core.142
+1123185238 NULL DISCOVERY ERROR Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1122580541 RAS KERNEL INFO generating core.10358
+1125082173 RAS KERNEL INFO iar 003a9104 dear 00b37088
+1120786682 RAS KERNEL INFO generating core.61979
+1121310980 RAS KERNEL INFO generating core.2911
+1118771679 RAS KERNEL FATAL disable apu instruction broadcast........0
+1120217187 RAS KERNEL INFO generating core.14671
+1118770340 RAS KERNEL FATAL program interrupt: trap instruction.........0
+1118552666 RAS KERNEL FATAL data TLB error interrupt
+1122576485 RAS KERNEL INFO generating core.6279
+1118771679 RAS KERNEL FATAL program interrupt: fp cr update.............0
+1127243392 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1124546708 RAS KERNEL INFO ciod: generated 1 core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm
+1118081657 RAS KERNEL INFO instruction cache parity error corrected
+1121308181 RAS KERNEL INFO generating core.13765
+1121313985 RAS KERNEL INFO generating core.29254
+1120934780 RAS KERNEL INFO generating core.39848
+1118770262 RAS KERNEL FATAL program interrupt: privileged instruction...0
+1118301089 RAS KERNEL INFO generating core.2873
+1120972991 RAS KERNEL INFO generating core.2345
+1117976654 RAS KERNEL INFO generating core.6535
+1119715062 RAS KERNEL INFO generating core.21203
+1125552544 RAS KERNEL FATAL Lustre mount FAILED : bglio156 : point /p/gb1
+1123177231 NULL DISCOVERY SEVERE Can not get assembly information for node card
+1122165536 RAS KERNEL INFO 5 floating point alignment exceptions
+1124104680 RAS KERNEL INFO CE sym 9, at 0x18d431c0, mask 0x10
+1120140538 RAS APP FATAL ciod: Error loading /p/gb2/curioni1/RUN_MED/test/cpmd.x: invalid or missing program image, No such file or directory
+1118370962 RAS KERNEL INFO generating core.1207
+1118765575 RAS KERNEL FATAL data storage interrupt
+1121599170 RAS KERNEL INFO generating core.23106
+1122431030 RAS KERNEL INFO generating core.45458
+1120145765 RAS KERNEL INFO generating core.2402
+1120970946 RAS KERNEL INFO generating core.2619
+1126513819 RAS KERNEL INFO CE sym 19, at 0x057c7e00, mask 0x20
+1127844924 RAS KERNEL INFO CE sym 23, at 0x08d1ee60, mask 0x40
+1118758332 RAS KERNEL INFO CE sym 2, at 0x02b1c1a0, mask 0x04
+1125084384 RAS KERNEL INFO iar 003a9258 dear 0129a918
+1120217195 RAS KERNEL INFO generating core.2320
+1120940683 RAS KERNEL INFO generating core.4389
+1129551870 RAS KERNEL INFO data cache search parity error detected. attempting to correct
+1118772755 RAS KERNEL FATAL 28:1feaa7b0 29:00000001 30:000008ce 31:1feaa790
+1120935529 RAS KERNEL INFO generating core.35014
+1122431095 RAS KERNEL INFO generating core.34856
+1122399221 RAS KERNEL INFO generating core.219
+1118549069 RAS KERNEL FATAL data TLB error interrupt
+1122579855 RAS KERNEL INFO generating core.11992
+1125575339 RAS KERNEL FATAL Lustre mount FAILED : bglio728 : point /p/gb1
+1118539843 RAS KERNEL FATAL data TLB error interrupt
+1120446953 RAS KERNEL INFO generating core.1345
+1120956743 RAS KERNEL INFO generating core.15828
+1127243209 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1121006789 RAS KERNEL INFO generating core.23180
+1118810565 RAS KERNEL INFO instruction cache parity error corrected
+1126891480 RAS KERNEL INFO 535 L3 EDRAM error(s) (dcr 0x0157) detected and corrected
+1120094597 RAS KERNEL INFO 344040 double-hummer alignment exceptions
+1121256718 RAS KERNEL INFO generating core.9405
+1121904581 RAS KERNEL INFO 8 floating point alignment exceptions
+1118770621 RAS KERNEL FATAL program interrupt: fp cr field .............0
+1118547841 RAS KERNEL FATAL data TLB error interrupt
+1120929118 RAS KERNEL INFO generating core.14850
+1118537565 RAS KERNEL FATAL data TLB error interrupt
+1118772221 RAS KERNEL FATAL 0:000008ce 1:00086000 2:1eeeeeee 3:1feaa770
+1121313749 RAS KERNEL INFO generating core.9071
+1118354018 RAS KERNEL INFO generating core.3529
+1120939773 RAS KERNEL INFO generating core.52147
+1122431576 RAS KERNEL INFO generating core.34
+1120351658 RAS KERNEL INFO generating core.1637
+1122576436 RAS KERNEL INFO generating core.3777
+1120938672 RAS KERNEL INFO generating core.2658
+1120216635 RAS KERNEL INFO generating core.1119
+1120447578 RAS KERNEL INFO generating core.15509
+1121905358 RAS KERNEL INFO 8 floating point alignment exceptions
+1120217114 RAS KERNEL INFO generating core.12155
+1120217113 RAS KERNEL INFO generating core.9872
+1120351699 RAS KERNEL INFO generating core.934
+1120263197 RAS KERNEL INFO 1049200 double-hummer alignment exceptions
+1118771747 RAS KERNEL FATAL disable trace broadcast..................0
+1121903710 RAS KERNEL INFO 8 floating point alignment exceptions
+1118768179 RAS KERNEL FATAL data address: 0x00000002
+1118772666 RAS KERNEL FATAL problem state (0=sup,1=usr).......0
+1127243560 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1122578003 RAS KERNEL INFO generating core.9258
+1118856681 RAS KERNEL INFO CE sym 12, at 0x1b7b2760, mask 0x20
+1120968251 RAS KERNEL INFO generating core.17187
+1118772914 RAS KERNEL FATAL machine check enable..............0
+1123258329 RAS APP FATAL ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:53180: Connection reset by peer
+1118770571 RAS KERNEL FATAL floating point operation....................0
+1118353999 RAS KERNEL INFO generating core.1028
+1125192369 RAS KERNEL INFO CE sym 9, at 0x12870760, mask 0x40
+1121309125 RAS KERNEL INFO generating core.968
+1118112647 RAS KERNEL INFO generating core.3489
+1122577943 RAS KERNEL INFO generating core.11093
+1118766089 RAS KERNEL FATAL instruction address: 0x00004ed8
+1120266908 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1118772246 RAS KERNEL FATAL wait state enable.................0
+1122144042 RAS KERNEL INFO generating core.12597
+1118149535 RAS KERNEL INFO generating core.115
+1122143037 RAS KERNEL INFO generating core.7462
+1123177017 NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J16 do not match. VPD ecid 04DF80D5D42FFFFF09051AB08CCE, found 074404E0177BFFFF09031BA04ADE
+1118080799 RAS KERNEL INFO instruction cache parity error corrected
+1125220412 RAS KERNEL INFO iar 0014a150 dear 00703048
+1122574488 RAS KERNEL INFO generating core.1111
+1120216222 RAS KERNEL INFO generating core.2476
+1117989594 RAS KERNEL INFO generating core.2672
+1120216650 RAS KERNEL INFO generating core.6094
+1118545886 RAS KERNEL FATAL data TLB error interrupt
+1119803115 RAS KERNEL INFO program interrupt: illegal instruction......1
+1129501457 RAS APP FATAL ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:47707: Link has been severed
+1121308553 RAS KERNEL INFO generating core.14978
+1127444220 RAS KERNEL INFO CE sym 27, at 0x090005a0, mask 0x02
+1118758273 RAS KERNEL INFO generating core.4293
+1118769616 RAS KERNEL FATAL machine check: i-fetch......................0
+1118772910 RAS KERNEL FATAL rts internal error
+1124306433 RAS APP FATAL ciod: LOGIN chdir(/p/bg1/da) failed: No such file or directory
+1118768042 RAS KERNEL FATAL instruction address: 0x00004ed8
+1122164894 RAS KERNEL INFO 15 floating point alignment exceptions
+1120938067 RAS KERNEL INFO generating core.36017
+1130764637 RAS KERNEL INFO CE sym 20, at 0x151a8180, mask 0x02
+1118772559 RAS KERNEL FATAL external input interrupt enable...0
+1119807061 RAS KERNEL INFO exception syndrome register: 0x08000000
+1122256774 RAS KERNEL INFO generating core.42314
+1118773684 RAS KERNEL FATAL data address space................0
+1121313775 RAS KERNEL INFO generating core.14025
+1120917302 RAS KERNEL INFO generating core.8634
+1120917397 RAS KERNEL INFO generating core.10951
+1120956661 RAS KERNEL INFO generating core.15544
+1123891491 RAS APP FATAL ciod: Error loading /bgl/apps/hwstab/RAPTOR/temp/raptor: invalid or missing program image, No such file or directory
+1128550769 RAS APP FATAL ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/cop.rts: invalid or missing program image, Permission denied
+1118112706 RAS KERNEL INFO ciod: Message code 0 is not 51 or 4294967295
+1120148727 RAS KERNEL INFO generating core.7116
+1120934767 RAS KERNEL INFO generating core.63211
+1120937859 RAS KERNEL INFO generating core.16499
+1121311470 RAS KERNEL INFO generating core.22252
+1118111963 RAS KERNEL INFO ciod: cpu 0 at treeaddr 133 sent unrecognized message 0xffffffff
+1120958373 RAS KERNEL INFO generating core.11345
+1122430886 RAS KERNEL INFO generating core.15835
+1124132008 RAS APP FATAL ciod: Error creating node map from file /home/auselton/bgl/mapfiles/bgl.128mps.f64.map: Resource temporarily unavailable
+1118183484 RAS KERNEL INFO generating core.4491
+1121308442 RAS KERNEL INFO generating core.7724
+1120931490 RAS KERNEL INFO generating core.34294
+1118556465 RAS KERNEL FATAL data TLB error interrupt
+1127243506 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1125082068 RAS KERNEL INFO iar 003a90d4 dear 00b35138
+1117839002 RAS KERNEL INFO instruction cache parity error corrected
+1118964144 RAS KERNEL INFO instruction cache parity error corrected
+1125197933 RAS KERNEL INFO CE sym 4, at 0x02ecac40, mask 0x04
+1123891541 RAS APP FATAL ciod: Error loading /bgl/apps/hwstab/RAPTOR/temp/raptor: invalid or missing program image, No such file or directory
+1127243361 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1122168541 RAS KERNEL INFO 1005 floating point alignment exceptions
+1120931107 RAS KERNEL INFO generating core.5776
+1119715847 RAS KERNEL INFO generating core.13037
+1122167324 RAS KERNEL INFO 685 floating point alignment exceptions
+1121311508 RAS KERNEL INFO generating core.1044
+1118772015 RAS KERNEL FATAL icache prefetch depth....................0
+1129749425 RAS KERNEL FATAL problem state (0=sup,1=usr).......1
+1120932866 RAS KERNEL INFO generating core.62235
+1120145573 RAS KERNEL INFO generating core.13581
+1118773261 RAS KERNEL FATAL debug wait enable.................0
+1120263223 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1120173741 RAS KERNEL INFO ciod: Error opening node map file /p/gb2/welcome3/32k_128x256x1_8x4x4.map, No such file or directory
+1122165846 RAS KERNEL INFO 5 floating point alignment exceptions
+1119715327 RAS KERNEL INFO generating core.39186
+1118734986 RAS KERNEL INFO generating core.2245
+1127264597 RAS APP FATAL ciod: Error loading /home/yates//broadcast.rts: invalid or missing program image, No such file or directory
+1125083207 RAS KERNEL INFO 1547520 double-hummer alignment exceptions
+1127248864 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1120094058 RAS KERNEL INFO 344040 double-hummer alignment exceptions
+1120490336 RAS KERNEL INFO generating core.2569
+1123759615 RAS KERNEL INFO CE sym 29, at 0x196c1140, mask 0x80
+1120940646 RAS KERNEL INFO generating core.26568
+1118773052 RAS KERNEL FATAL floating pt ex mode 0 enable......0
+1125084517 RAS KERNEL INFO iar 003a9260 dear 00f29d88
+1121599393 RAS KERNEL INFO generating core.10397
+1118770944 RAS KERNEL FATAL data store interrupt caused by icbi.........0
+1123914362 RAS APP FATAL ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1120940109 RAS KERNEL INFO generating core.49171
+1129208250 RAS APP FATAL ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/bandwidth.rts: invalid or missing program image, No such file or directory
+1117984153 RAS KERNEL INFO generating core.7447
+1125193009 RAS KERNEL INFO total of 2 ddr error(s) detected and corrected
+1118547569 RAS KERNEL FATAL data TLB error interrupt
+1118541591 RAS KERNEL FATAL data TLB error interrupt
+1120092030 RAS KERNEL INFO generating core.756
+1121442110 RAS KERNEL INFO generating core.6643
+1118537703 RAS KERNEL FATAL data TLB error interrupt
+1121496548 RAS KERNEL INFO generating core.21697
+1121204194 RAS KERNEL INFO CE sym 4, at 0x1e147120, mask 0x04
+1122132875 RAS KERNEL INFO generating core.11775
+1119695598 RAS KERNEL INFO 254548338 double-hummer alignment exceptions
+1120917371 RAS KERNEL INFO generating core.11886
+1121530135 RAS KERNEL INFO 1 ddr errors(s) detected and corrected on rank 0, symbol 12, bit 7
+1120958355 RAS KERNEL INFO generating core.10692
+1121597958 RAS KERNEL INFO generating core.49687
+1118911819 RAS KERNEL INFO generating core.9037
+1123459231 NULL DISCOVERY ERROR Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1123093703 NULL DISCOVERY ERROR Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1118172005 RAS KERNEL INFO generating core.3087
+1120932342 RAS KERNEL INFO generating core.55299
+1118558354 RAS KERNEL FATAL data TLB error interrupt
+1118771573 RAS KERNEL FATAL program interrupt: imprecise exception......0
+1127245429 NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J06 do not match. VPD ecid 04CE7DF3107BFFFF060A1BF08CE6, found 04D081A28B2FFFFF020C1AF11AD4
+1118772460 RAS KERNEL FATAL external input interrupt enable...0
+1120931478 RAS KERNEL INFO generating core.2482
+1120267124 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1119479371 RAS KERNEL INFO 2576000 double-hummer alignment exceptions
+1121599410 RAS KERNEL INFO generating core.31900
+1120917317 RAS KERNEL INFO generating core.11647
+1122256286 RAS KERNEL INFO generating core.58708
+1124304638 RAS KERNEL INFO ciod: generated 64 core files for program /home/da/mpi-testscripts/alltoall
+1121707371 RAS KERNEL INFO generating core.15388
+1120091711 RAS KERNEL INFO generating core.26140
+1118770199 RAS KERNEL FATAL program interrupt: privileged instruction...0
+1118172657 RAS KERNEL INFO generating core.6525
+1121825164 RAS KERNEL FATAL rts: kernel terminated for reason 1004rts: bad message header: expecting type 1, type=3, cpu=0, index=0, total=1
+1120262275 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1124394043 RAS KERNEL INFO ciod: generated 64 core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm
+1119177566 RAS KERNEL INFO generating core.1118
+1125221471 RAS KERNEL INFO 40088340 double-hummer alignment exceptions
+1130414814 RAS KERNEL FATAL number of lines with parity errors written to L3 EDRAMs...0
+1125221785 RAS KERNEL INFO 37605926 double-hummer alignment exceptions
+1119917216 NULL DISCOVERY WARNING Node card VPD check: U01 node in processor card slot J18 do not match. VPD ecid 04D37D484B7BFFFF040B1BC050E7, found 04C58092552FFFFF0D0C1BF04AE8
+1118766999 RAS KERNEL FATAL data address: 0x00000002
+1120924543 RAS KERNEL INFO generating core.9273
+1122431478 RAS KERNEL INFO generating core.50315
+1125668355 RAS APP FATAL ciod: LOGIN chdir(/bglscratch/bwallen/SWL/SYS-CALLS/testcases/kernel/syscalls/writev) failed: No such file or directory
+1120938494 RAS KERNEL INFO generating core.1576
+1122431565 RAS KERNEL INFO generating core.27521
+1122581371 RAS KERNEL INFO generating core.4842
+1124127920 RAS KERNEL FATAL rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X+ X- Y+ Y- Z-
+1121308429 RAS KERNEL INFO generating core.7836
+1120955669 RAS KERNEL INFO generating core.7758
+1118555120 RAS KERNEL FATAL data TLB error interrupt
+1120775937 RAS KERNEL INFO 649497024 double-hummer alignment exceptions
+1122431018 RAS KERNEL INFO generating core.37655
+1121495873 RAS KERNEL INFO generating core.37652
+1117988218 RAS KERNEL INFO generating core.6660
+1129501442 RAS KERNEL FATAL wait state enable.................0
+1121902810 RAS KERNEL INFO 8 floating point alignment exceptions
+1122164934 RAS KERNEL INFO 15 floating point alignment exceptions
+1127243419 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1120469618 RAS KERNEL INFO generating core.5467
+1121310971 RAS KERNEL INFO generating core.29194
+1118770338 RAS KERNEL FATAL byte ordering exception.....................0
+1128550783 RAS APP FATAL ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/cop.rts: invalid or missing program image, Permission denied
+1119549592 RAS KERNEL INFO 665600 double-hummer alignment exceptions
+1120145568 RAS KERNEL INFO generating core.13800
+1123110907 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1120487790 RAS KERNEL INFO generating core.443
+1120933732 RAS KERNEL INFO generating core.41219
+1120973042 RAS KERNEL INFO generating core.1495
+1118772825 RAS KERNEL FATAL special purpose registers:
+1118769361 RAS KERNEL FATAL data storage interrupt
+1121172507 RAS KERNEL INFO generating core.7575
+1123675628 RAS KERNEL INFO CE sym 23, at 0x06909580, mask 0x20
+1120490266 RAS KERNEL INFO generating core.2843
+1122166598 RAS KERNEL INFO 5 floating point alignment exceptions
+1126180002 RAS KERNEL INFO 1 torus receiver y- input pipe error(s) (dcr 0x02ef) detected and corrected
+1118709616 RAS KERNEL FATAL data storage interrupt
+1130774754 RAS KERNEL INFO CE sym 26, at 0x03231ca0, mask 0x10
+1120145660 RAS KERNEL INFO generating core.1390
+1124336287 RAS KERNEL FATAL rts: kernel terminated for reason 1001
+1118772662 RAS KERNEL FATAL problem state (0=sup,1=usr).......0
+1121311437 RAS KERNEL INFO generating core.3823
+1122581235 RAS KERNEL INFO generating core.3625
+1120094474 RAS KERNEL INFO 344040 double-hummer alignment exceptions
+1119716024 RAS KERNEL INFO generating core.49988
+1119802912 RAS KERNEL INFO instruction address: 0x0062fdf4
+1120217007 RAS KERNEL INFO generating core.12437
+1124043429 RAS KERNEL INFO ciod: generated 64 core files for program /bgl/apps/scaletest/performance/IMB_2.3_243_64K/IMB-MPI1.gp2_perf
+1121252871 RAS KERNEL INFO 114792696 double-hummer alignment exceptions
+1128540095 RAS KERNEL INFO total of 1 ddr error(s) detected and corrected
+1121308065 RAS KERNEL INFO generating core.19972
+1121496534 RAS KERNEL INFO generating core.50850
+1118765394 RAS KERNEL FATAL data storage interrupt
+1119479324 RAS KERNEL INFO 2576000 double-hummer alignment exceptions
+1121597986 RAS KERNEL INFO generating core.34168
+1122579797 RAS KERNEL INFO generating core.9060
+1118769938 RAS KERNEL FATAL machine check: i-fetch......................0
+1118549811 RAS KERNEL FATAL data TLB error interrupt
+1122143869 RAS KERNEL INFO generating core.27714
+1123614418 RAS KERNEL FATAL Microloader Assertion
+1118852810 RAS KERNEL INFO instruction cache parity error corrected
+1121308609 RAS KERNEL INFO generating core.16898
+1122576886 RAS KERNEL INFO generating core.6241
+1119726448 RAS KERNEL INFO generating core.4570
+1129878833 RAS KERNEL INFO CE sym 13, at 0x1f3fc7e0, mask 0x04
+1125220378 RAS KERNEL INFO iar 0014a1e4 dear 0075fa38
+1122165217 RAS KERNEL INFO generating core.6890
+1128619499 RAS KERNEL INFO CE sym 11, at 0x11dafca0, mask 0x80
+1129820547 RAS APP FATAL ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image, Exec format error
+1121311425 RAS KERNEL INFO generating core.12076
+1122577864 RAS KERNEL INFO generating core.6213
+1118773030 RAS KERNEL FATAL floating pt ex mode 0 enable......0
+1121800081 RAS KERNEL INFO CE sym 20, at 0x1c00cbe0, mask 0x10
+1125221928 RAS KERNEL INFO 44376072 double-hummer alignment exceptions
+1127243416 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1124737616 RAS KERNEL INFO ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi
+1123914873 RAS APP FATAL ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1127243545 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1117988378 RAS KERNEL INFO generating core.5659
+1118770612 RAS KERNEL FATAL store operation.............................1
+1119975005 NULL DISCOVERY ERROR Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1118765609 RAS KERNEL FATAL data storage interrupt
+1118772041 RAS KERNEL FATAL icache prefetch depth....................0
+1123092467 NULL DISCOVERY WARNING Node card is not fully functional
+1121308480 RAS KERNEL INFO generating core.2274
+1127243516 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1122165213 RAS KERNEL INFO generating core.6866
+1120486559 RAS KERNEL INFO generating core.8826
+1121707322 RAS KERNEL INFO generating core.18386
+1120940437 RAS KERNEL INFO generating core.32328
+1120969731 RAS KERNEL INFO generating core.7791
+1127264191 RAS APP FATAL ciod: Error loading /home/yates//torus-latency.rts: invalid or missing program image, No such file or directory
+1122256851 RAS KERNEL INFO generating core.30307
+1121903696 RAS KERNEL INFO 8 floating point alignment exceptions
+1118772762 RAS KERNEL FATAL floating point instr. enabled.....1
+1118911760 RAS KERNEL INFO generating core.12235
+1120969560 RAS KERNEL INFO generating core.20573
+1118771931 RAS KERNEL FATAL guaranteed data cache block touch........1
+1122126865 RAS KERNEL INFO CE sym 21, at 0x1ebd2fa0, mask 0x10
+1121902369 RAS KERNEL INFO 8 floating point alignment exceptions
+1122167506 RAS KERNEL INFO 685 floating point alignment exceptions
+1122574455 RAS KERNEL INFO generating core.16246
+1127264898 RAS APP FATAL ciod: Error loading /bgl/apps/SWL/performance/MINIBEN//torus-latency.rts: invalid or missing program image, No such file or directory
+1118770328 RAS KERNEL FATAL byte ordering exception.....................0
+1121442125 RAS KERNEL INFO generating core.3795
+1118081529 RAS KERNEL INFO instruction cache parity error corrected
+1120969258 RAS KERNEL INFO generating core.27758
+1120447212 RAS KERNEL INFO generating core.7219
+1118771844 RAS KERNEL FATAL guaranteed instruction cache block touch.0
+1119166504 RAS KERNEL INFO generating core.14
+1120267098 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1121496360 RAS KERNEL INFO generating core.30319
+1121598080 RAS KERNEL INFO generating core.28090
+1118544515 RAS KERNEL FATAL data TLB error interrupt
+1119896586 RAS KERNEL INFO generating core.113
+1123979038 RAS KERNEL INFO CE sym 7, at 0x06d237c0, mask 0x20
+1118301085 RAS KERNEL INFO generating core.3623
+1120260874 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1118770790 RAS KERNEL FATAL data store interrupt caused by dcbf.........0
+1121308530 RAS KERNEL INFO generating core.24765
+1120146062 RAS KERNEL INFO generating core.2231
+1120953091 RAS KERNEL INFO generating core.10853
+1119377744 RAS KERNEL INFO generating core.2497
+1121308801 RAS KERNEL INFO generating core.24228
+1125104299 RAS KERNEL INFO 1 ddr errors(s) detected and corrected on rank 0, symbol 24, bit 6
+1122132691 RAS KERNEL INFO generating core.15095
+1117979199 RAS KERNEL INFO generating core.2119
+1118859168 RAS KERNEL INFO instruction cache parity error corrected
+1120146633 RAS KERNEL INFO generating core.3862
+1120938015 RAS KERNEL INFO generating core.48475
+1127755848 RAS KERNEL INFO 1 ddr errors(s) detected and corrected on rank 0, symbol 16, bit 6
+1120934877 RAS KERNEL INFO generating core.47010
+1120216466 RAS KERNEL INFO generating core.8665
+1118768043 RAS KERNEL FATAL instruction address: 0x00004ed8
+1122165655 RAS KERNEL INFO 5 floating point alignment exceptions
+1119151563 RAS KERNEL INFO generating core.7144
+1118770412 RAS KERNEL FATAL program interrupt: trap instruction.........0
+1118537992 RAS KERNEL FATAL data TLB error interrupt
+1118767229 RAS KERNEL FATAL exception syndrome register: 0x00800000
+1121252521 RAS KERNEL INFO 117275096 double-hummer alignment exceptions
+1118710023 RAS KERNEL FATAL instruction address: 0x00004ed8
+1122576955 RAS KERNEL INFO generating core.9552
+1120094743 RAS KERNEL INFO 368010 double-hummer alignment exceptions
+1121494143 RAS KERNEL INFO generating core.46134
+1120216136 RAS KERNEL INFO generating core.25540
+1127243403 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1119695683 RAS KERNEL INFO 255354943 double-hummer alignment exceptions
+1127966569 RAS KERNEL INFO ciod: generated 64 core files for program /home/spelce1/HPCC_IBM/TomAndJeff/bin/untested_copro/untested_copro.rts
+1118547839 RAS KERNEL FATAL data TLB error interrupt
+1129387539 RAS KERNEL INFO ciod: generated 128 core files for program /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts
+1121310959 RAS KERNEL INFO generating core.8994
+1124575808 RAS KERNEL INFO CE sym 26, at 0x1bb73660, mask 0x40
+1125221803 RAS KERNEL INFO 27638058 double-hummer alignment exceptions
+1118207835 RAS KERNEL INFO generating core.15341
+1119695526 RAS KERNEL INFO 252293450 double-hummer alignment exceptions
+1120935681 RAS KERNEL INFO generating core.6887
+1118771076 RAS KERNEL FATAL machine check enable..............0
+1121006730 RAS KERNEL INFO generating core.30883
+1122147232 RAS KERNEL INFO 15 floating point alignment exceptions
+1125083507 RAS KERNEL INFO iar 003a929c dear 00efe048
+1121256639 RAS KERNEL INFO generating core.60754
+1117973324 RAS APP FATAL ciod: LOGIN chdir(/nfs/tmp1/ddcMD_jng/8M_5000Ktest) failed: No such file or directory
+1120094497 RAS KERNEL INFO 344040 double-hummer alignment exceptions
+1126190743 RAS KERNEL FATAL Lustre mount FAILED : bglio34 : point /p/gb1
+1120351637 RAS KERNEL INFO generating core.6441
+1127265453 RAS APP FATAL ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.05) failed: No such file or directory
+1118771523 RAS KERNEL FATAL program interrupt: imprecise exception......0
+1121599424 RAS KERNEL INFO generating core.7582
+1118709732 RAS KERNEL FATAL data storage interrupt
+1122580708 RAS KERNEL INFO generating core.5600
+1118342560 RAS KERNEL INFO generating core.292
+1120148661 RAS KERNEL INFO generating core.129
+1121172091 RAS KERNEL INFO generating core.8644
+1120940577 RAS KERNEL INFO generating core.26345
+1120145467 RAS KERNEL INFO generating core.24754
+1118081459 RAS KERNEL INFO instruction cache parity error corrected
+1125084334 RAS KERNEL INFO iar 003a9258 dear 0129a418
+1119477069 RAS KERNEL INFO 253440 double-hummer alignment exceptions
+1119377812 RAS KERNEL INFO generating core.1487
+1118542342 RAS KERNEL FATAL data TLB error interrupt
+1122256189 RAS KERNEL INFO generating core.14013
+1118916061 RAS KERNEL INFO generating core.1860
+1130714878 RAS KERNEL INFO 1 torus receiver y- input pipe error(s) (dcr 0x02ef) detected and corrected
+1120486682 RAS KERNEL INFO generating core.15142
+1120262266 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1119725242 RAS KERNEL INFO generating core.55091
+1120934355 RAS KERNEL INFO generating core.35985
+1119330515 RAS KERNEL INFO total of 1 ddr error(s) detected and corrected
+1119695013 RAS KERNEL INFO 763790640 double-hummer alignment exceptions
+1118542388 RAS KERNEL FATAL data TLB error interrupt
+1120940556 RAS KERNEL INFO generating core.42314
+1117957698 RAS KERNEL INFO generating core.1417
+1121312150 RAS KERNEL INFO generating core.12153
+1122168679 RAS KERNEL INFO 1005 floating point alignment exceptions
+1120788499 RAS KERNEL INFO generating core.59347
+1120449659 RAS KERNEL INFO generating core.16739
+1128267253 RAS APP FATAL ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:58613: Link has been severed
+1119695661 RAS KERNEL INFO 251515801 double-hummer alignment exceptions
+1122143211 RAS KERNEL INFO generating core.8042
+1120746941 RAS KERNEL INFO generating core.2884
+1118767999 RAS KERNEL FATAL instruction address: 0x00004ed8
+1118732664 RAS KERNEL INFO generating core.463
+1118557665 RAS KERNEL FATAL data TLB error interrupt
+1126513823 RAS KERNEL INFO CE sym 2, at 0x046461e0, mask 0x10
+1122133487 RAS KERNEL INFO generating core.3262
+1125222722 RAS KERNEL INFO 31890758 double-hummer alignment exceptions
+1122431237 RAS KERNEL INFO generating core.15658
+1118772853 RAS KERNEL FATAL lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000
+1120932623 RAS KERNEL INFO generating core.42193
+1120449975 RAS KERNEL INFO generating core.14946
+1121495875 RAS KERNEL INFO generating core.59281
+1120469350 RAS KERNEL INFO generating core.735
+1117970570 RAS KERNEL INFO generating core.291
+1121493877 RAS KERNEL INFO generating core.62654
+1121360089 RAS KERNEL INFO ciod: T coordinate 1 exceeds physical dimension 1 at line 1 of node map file /home/pakin1/sweep3d-2.2b/results/random3-8x8x8x2.map
+1127264847 RAS APP FATAL ciod: Error loading /bgl/apps/SWL/performance/MINIBEN//bandwidth.rts: invalid or missing program image, No such file or directory
+1125070729 RAS KERNEL INFO 1 ddr errors(s) detected and corrected on rank 0, symbol 26, bit 3
+1121707184 RAS KERNEL INFO generating core.15059
+1120201404 RAS KERNEL INFO CE sym 12, at 0x1b713500, mask 0x20
+1122256165 RAS KERNEL INFO generating core.536
+1121312197 RAS KERNEL INFO generating core.7167
+1130017403 RAS KERNEL INFO CE sym 7, at 0x13d5e440, mask 0x10
+1117992568 RAS KERNEL INFO generating core.5
+1122255912 RAS KERNEL INFO generating core.2042
+1122166515 RAS KERNEL INFO 5 floating point alignment exceptions
+1119726454 RAS KERNEL INFO generating core.8270
+1125223900 RAS KERNEL INFO iar 0014a150 dear 00985e38
+1121172271 RAS KERNEL INFO generating core.3809
+1127245459 NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J13 do not match. VPD ecid 074704F0417BFFFF09081C2044EA, found 04DD8137DF2FFFFF07101B80A4DE
+1118812333 RAS KERNEL INFO instruction cache parity error corrected
+1119377773 RAS KERNEL INFO generating core.7775
+1118959375 RAS APP FATAL ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:52134
+1122574397 RAS KERNEL INFO generating core.7808
+1123609847 NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J17 do not match. VPD ecid 04C07DB6DC7BFFFF07021B60E0DB, found 04CF81D18B2FFFFF080D1B905ADE
+1123773359 RAS KERNEL INFO CE sym 26, at 0x181355e0, mask 0x40
+1120216592 RAS KERNEL INFO generating core.32685
+1121172277 RAS KERNEL INFO generating core.5585
+1120933856 RAS KERNEL INFO generating core.38046
+1121308169 RAS KERNEL INFO generating core.23708
+1123042943 NULL DISCOVERY WARNING Node card is not fully functional
+1120968545 RAS KERNEL INFO generating core.5205
+1118555472 RAS KERNEL FATAL data TLB error interrupt
+1121256258 RAS KERNEL INFO generating core.61049
+1118371074 RAS KERNEL INFO generating core.6486
+1123659919 RAS KERNEL INFO CE sym 11, at 0x020b75c0, mask 0x02
+1122165221 RAS KERNEL INFO generating core.12422
+1118709559 RAS KERNEL FATAL data storage interrupt
+1118178716 RAS KERNEL INFO generating core.2042
+1125222835 RAS KERNEL INFO 36658240 double-hummer alignment exceptions
+1121598459 RAS KERNEL INFO generating core.25392
+1120216549 RAS KERNEL INFO generating core.3533
+1128508795 RAS APP FATAL ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/VNM/64K/vnm.rts: invalid or missing program image, Permission denied
+1119715216 RAS KERNEL INFO generating core.27896
+1122431488 RAS KERNEL INFO generating core.45997
+1118551005 RAS KERNEL FATAL data TLB error interrupt
+1118734957 RAS KERNEL INFO generating core.2825
+1121312304 RAS KERNEL INFO generating core.10396
+1120217072 RAS KERNEL INFO generating core.4546
+1118872980 RAS KERNEL INFO generating core.7715
+1127850405 RAS KERNEL INFO total of 1 ddr error(s) detected and corrected
+1120967827 RAS KERNEL INFO 1372073152 double-hummer alignment exceptions
+1120775931 RAS KERNEL INFO 630064848 double-hummer alignment exceptions
+1122578010 RAS KERNEL INFO generating core.4122
+1122256270 RAS KERNEL INFO generating core.40243
+1120957731 RAS KERNEL INFO generating core.2440
+1118772612 RAS KERNEL FATAL problem state (0=sup,1=usr).......0
+1124347945 RAS KERNEL FATAL rts: bad message header: packet index 3398975515 greater than max 366 (softheader=00000000 7ffffc40 62904137 ca98401b) PSR0=00000000 PSR1=00000000 PRXF=0000002a PIXF=00000007
+1121252886 RAS KERNEL INFO 111983808 double-hummer alignment exceptions
+1124721761 RAS APP FATAL ciod: LOGIN chdir(/home/germann2/SPaSM_static) failed: No such file or directory
+1120148418 RAS KERNEL INFO generating core.914
+1127265030 RAS APP FATAL ciod: Error loading /bgl/apps/SWL/performance/MINIBEN//torus-latency.rts: invalid or missing program image, No such file or directory
+1130157520 RAS APP FATAL ciod: Error loading /p/gb1/bwallen/brian_12point3.rts: invalid or missing program image, No such file or directory
+1127244015 NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:16:BD:92:00:0D:60:E9:42:6D ip=10.3.0.84 v=13 t=4 status=M Tue Sep 20 12:11:48 PDT 2005
+1118343779 RAS KERNEL INFO generating core.18731
+1118549126 RAS KERNEL FATAL data TLB error interrupt
+1126626606 RAS KERNEL FATAL Lustre mount FAILED : bglio256 : point /p/gb1
+1127264252 RAS APP FATAL ciod: Error loading /home/yates//torus-latency.rts: invalid or missing program image, No such file or directory
+1119694994 RAS KERNEL INFO 764154208 double-hummer alignment exceptions
+1131028163 RAS KERNEL INFO CE sym 19, at 0x0701bc00, mask 0x01
+1120955614 RAS KERNEL INFO generating core.12786
+1125219724 RAS KERNEL INFO 138848182 double-hummer alignment exceptions
+1120091423 RAS KERNEL INFO generating core.17647
+1120265618 RAS KERNEL INFO 458720 double-hummer alignment exceptions
+1120940365 RAS KERNEL INFO generating core.29684
+1122576617 RAS KERNEL INFO generating core.5686
+1121496192 RAS KERNEL INFO generating core.40363
+1129559888 RAS KERNEL INFO data cache search parity error detected. attempting to correct
+1118178748 RAS KERNEL INFO CE sym 20, at 0x019f73e0, mask 0x20
+1120967870 RAS KERNEL INFO 1346118976 double-hummer alignment exceptions
+1121545795 RAS KERNEL INFO instruction cache parity error corrected
+1121308501 RAS KERNEL INFO generating core.22975
+1121495758 RAS KERNEL INFO generating core.13724
+1118557343 RAS KERNEL FATAL data TLB error interrupt
+1118769379 RAS KERNEL FATAL data storage interrupt
+1118770102 RAS KERNEL FATAL program interrupt: illegal instruction......0
+1120934511 RAS KERNEL INFO generating core.29327
+1124548048 RAS KERNEL INFO CE sym 30, at 0x1175ff60, mask 0x08
+1120787028 RAS KERNEL INFO generating core.59655
+1117990996 RAS KERNEL INFO generating core.1028
+1121310937 RAS KERNEL INFO generating core.27477
+1120145533 RAS KERNEL INFO generating core.17007
+1125084160 RAS KERNEL INFO 773760 double-hummer alignment exceptions
+1120929210 RAS KERNEL INFO generating core.7659
+1118772148 RAS KERNEL FATAL general purpose registers:
+1121598602 RAS KERNEL INFO generating core.24395
+1122133172 RAS KERNEL INFO generating core.3691
+1122165005 RAS KERNEL INFO 15 floating point alignment exceptions
+1121599034 RAS KERNEL INFO generating core.20932
+1120266956 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1129806265 RAS KERNEL INFO 339 L3 EDRAM error(s) (dcr 0x0157) detected and corrected
+1118766996 RAS KERNEL FATAL data address: 0x00000002
+1122139691 RAS KERNEL INFO 15 floating point alignment exceptions
+1127243548 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243233 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1122143179 RAS KERNEL INFO generating core.4898
+1120260941 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1121599022 RAS KERNEL INFO generating core.4581
+1120149095 RAS KERNEL INFO generating core.14494
+1122143973 RAS KERNEL INFO generating core.13016
+1122576679 RAS KERNEL INFO generating core.1644
+1120940269 RAS KERNEL INFO generating core.4211
+1120091762 RAS KERNEL INFO generating core.13459
+1122431216 RAS KERNEL INFO generating core.41071
+1120932737 RAS KERNEL INFO generating core.12855
+1120924548 RAS KERNEL INFO generating core.11199
+1118551770 RAS KERNEL FATAL data TLB error interrupt
+1120145057 RAS KERNEL INFO generating core.4785
+1122168720 RAS KERNEL INFO 1005 floating point alignment exceptions
+1127243218 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1118124196 RAS KERNEL INFO generating core.10063
+1120056595 RAS KERNEL INFO CE sym 0, at 0x0b858280, mask 0x80
+1121597922 RAS KERNEL INFO generating core.31866
+1118770866 RAS KERNEL FATAL external input interrupt enable...0
+1120239085 NULL DISCOVERY ERROR Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1125223656 RAS KERNEL INFO iar 00149ee0 dear 00996938
+1119457416 RAS KERNEL INFO 1 ddr errors(s) detected and corrected on rank 0, symbol 0, bit 0
+1121884757 RAS KERNEL INFO CE sym 15, at 0x1bb2fe80, mask 0x02
+1118547603 RAS KERNEL FATAL data TLB error interrupt
+1120924488 RAS KERNEL INFO generating core.12776
+1120972553 RAS KERNEL INFO generating core.3712
+1121442092 RAS KERNEL INFO generating core.2896
+1122133349 RAS KERNEL INFO generating core.8285
+1120265558 RAS KERNEL INFO 458720 double-hummer alignment exceptions
+1118772626 RAS KERNEL FATAL problem state (0=sup,1=usr).......0
+1118766725 RAS KERNEL FATAL data storage interrupt
+1120931444 RAS KERNEL INFO generating core.1586
+1124741729 RAS KERNEL INFO ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi
+1127265311 RAS APP FATAL ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.12) failed: No such file or directory
+1118556921 RAS KERNEL FATAL data TLB error interrupt
+1125224221 RAS KERNEL INFO iar 0014a1e4 dear 009a8448
+1121256696 RAS KERNEL INFO generating core.57619
+1120935513 RAS KERNEL INFO generating core.27877
+1120145414 RAS KERNEL INFO generating core.12980
+1120934180 RAS KERNEL INFO generating core.37238
+1127243225 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1118767212 RAS KERNEL FATAL exception syndrome register: 0x00800000
+1120490289 RAS KERNEL INFO generating core.1046
+1119290928 RAS KERNEL INFO generating core.13929
+1120934168 RAS KERNEL INFO generating core.63536
+1121313872 RAS KERNEL INFO generating core.2720
+1118857643 RAS KERNEL INFO CE sym 2, at 0x1b85f280, mask 0x0c
+1122255934 RAS KERNEL INFO generating core.55185
+1120449829 RAS KERNEL INFO generating core.31849
+1120263443 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1120094286 RAS KERNEL INFO 344040 double-hummer alignment exceptions
+1118772242 RAS KERNEL FATAL 0:000008ce 1:00086000 2:1eeeeeee 3:1feaa770
+1118773960 RAS KERNEL FATAL disable store gathering..................0
+1119726364 RAS KERNEL INFO generating core.8634
+1118772088 RAS KERNEL FATAL machine state register: 0x00002000
+1121308280 RAS KERNEL INFO generating core.399
+1120967867 RAS KERNEL INFO 1420364080 double-hummer alignment exceptions
+1117989657 RAS KERNEL INFO generating core.2021
+1117845131 RAS KERNEL INFO generating core.1362
+1121312392 RAS KERNEL INFO generating core.18141
+1122581260 RAS KERNEL INFO generating core.2767
+1123240776 RAS KERNEL INFO CE sym 29, at 0x0b32cd60, mask 0x08
+1122162204 RAS KERNEL INFO 5 floating point alignment exceptions
+1122579995 RAS KERNEL INFO generating core.8442
+1120937589 RAS KERNEL INFO generating core.54098
+1121256218 RAS KERNEL INFO generating core.8056
+1120092146 RAS KERNEL INFO generating core.15401
+1119377672 RAS KERNEL INFO generating core.4316
+1120967916 RAS KERNEL INFO 1332192016 double-hummer alignment exceptions
+1118770981 RAS KERNEL FATAL data store interrupt caused by icbi.........0
+1118772718 RAS KERNEL FATAL 28:1feaa7b0 29:00000001 30:000008ce 31:1feaa790
+1118354042 RAS KERNEL INFO generating core.1331
+1121314020 RAS KERNEL INFO generating core.17522
+1120938083 RAS KERNEL INFO generating core.54205
+1120934617 RAS KERNEL INFO generating core.15688
+1122255938 RAS KERNEL INFO generating core.59355
+1122431205 RAS KERNEL INFO generating core.33900
+1121599142 RAS KERNEL INFO generating core.18051
+1125084545 RAS KERNEL INFO iar 003a9260 dear 00e25698
+1123178516 NULL DISCOVERY WARNING Node card is not fully functional
+1120934110 RAS KERNEL INFO generating core.46135
+1122300898 RAS KERNEL INFO CE sym 4, at 0x095e86e0, mask 0x01
+1126641121 RAS KERNEL FATAL Lustre mount FAILED : bglio907 : point /p/gb1
+1118687344 RAS KERNEL INFO generating core.417
+1121599368 RAS KERNEL INFO generating core.2430
+1119802957 RAS KERNEL INFO exception syndrome register: 0x08000000
+1120092180 RAS KERNEL INFO generating core.24029
+1122579127 RAS KERNEL INFO generating core.677
+1121906765 RAS KERNEL INFO 8 floating point alignment exceptions
+1122256735 RAS KERNEL INFO generating core.8206
+1120216548 RAS KERNEL INFO generating core.17669
+1121442151 RAS KERNEL INFO generating core.6583
+1120486656 RAS KERNEL INFO generating core.16193
+1121494197 RAS KERNEL INFO generating core.8825
+1122430849 RAS KERNEL INFO generating core.62738
+1122577021 RAS KERNEL INFO generating core.6765
+1127243231 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1118769331 RAS KERNEL FATAL data storage interrupt
+1122162054 RAS KERNEL INFO 5 floating point alignment exceptions
+1118771354 RAS KERNEL FATAL floating pt ex mode 1 enable......0
+1121901516 RAS KERNEL INFO 8 floating point alignment exceptions
+1121252984 RAS KERNEL INFO 113573840 double-hummer alignment exceptions
+1122168472 RAS KERNEL INFO 1005 floating point alignment exceptions
+1125084461 RAS KERNEL INFO 1524480 double-hummer alignment exceptions
+1121598292 RAS KERNEL INFO generating core.10065
+1121900841 RAS KERNEL INFO 8 floating point alignment exceptions
+1118765484 RAS KERNEL FATAL data storage interrupt
+1129551749 RAS KERNEL INFO data cache search parity error detected. attempting to correct
+1121599667 RAS KERNEL INFO generating core.43055
+1118772550 RAS KERNEL FATAL 16:00000000 17:00000001 18:00000000 19:00000000
+1122578272 RAS KERNEL INFO generating core.11407
+1121900822 RAS KERNEL INFO 8 floating point alignment exceptions
+1118550844 RAS KERNEL FATAL data TLB error interrupt
+1127265139 RAS APP FATAL ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.01) failed: No such file or directory
+1119905167 RAS KERNEL INFO instruction cache parity error corrected
+1117990965 RAS KERNEL INFO generating core.6730
+1120447531 RAS KERNEL INFO generating core.28397
+1120263067 RAS KERNEL INFO 1146800 double-hummer alignment exceptions
+1121597860 RAS KERNEL INFO generating core.8058
+1117957008 RAS KERNEL INFO generating core.1513
+1120958378 RAS KERNEL INFO generating core.8982
+1123387412 RAS KERNEL INFO CE sym 11, at 0x06366640, mask 0x04
+1118552305 RAS KERNEL FATAL data TLB error interrupt
+1120209776 RAS KERNEL INFO generating core.1074
+1122168680 RAS KERNEL INFO 1005 floating point alignment exceptions
+1121902519 RAS KERNEL INFO 8 floating point alignment exceptions
+1122577029 RAS KERNEL INFO generating core.2716
+1123092001 NULL DISCOVERY ERROR Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1123176141 NULL DISCOVERY INFO Node card VPD check: U11 node in processor card slot J11 do not match. VPD ecid 07570D73212FFFFF0D061A50C6C4, found 07550D52822FFFFF090B1AB0D4CC
+1125082099 RAS KERNEL INFO iar 003a90e8 dear 00b36ee8
+1130532113 RAS KERNEL FATAL disable trace broadcast..................0
+1117957749 RAS KERNEL INFO generating core.1600
+1122405364 RAS KERNEL INFO generating core.201
+1117990900 RAS KERNEL INFO generating core.3512
+1120149057 RAS KERNEL INFO generating core.4449
+1120469348 RAS KERNEL INFO generating core.15544
+1126626506 RAS KERNEL FATAL Lustre mount FAILED : bglio665 : point /p/gb1
+1120928564 RAS KERNEL INFO generating core.14306
+1118772408 RAS KERNEL FATAL 8:00000004 9:4e800020 10:3ed4bd98 11:6b26bf88
+1118765194 RAS KERNEL FATAL data storage interrupt
+1118767996 RAS KERNEL FATAL instruction address: 0x00004ed8
+1118732620 RAS KERNEL INFO generating core.8074
+1118557325 RAS KERNEL FATAL data TLB error interrupt
+1118767427 RAS KERNEL FATAL program interrupt: illegal instruction......0
+1125082233 RAS KERNEL INFO
+1118202074 RAS APP FATAL ciod: LOGIN chdir(/home/bertsch2/src/bgl_hello) failed: Permission denied
+1118112392 RAS KERNEL INFO ciod: cpu 0 at treeaddr 467 sent unrecognized message 0xffffffff
+1124131859 RAS KERNEL INFO ciod: Missing or invalid fields on line 1 of node map file /home/auselton/bgl/mapfiles/bgl.128mps.f64.map
+1126627392 RAS KERNEL FATAL Lustre mount FAILED : bglio759 : point /p/gb1
+1119803238 RAS KERNEL INFO program interrupt: trap instruction.........0
+1120265658 RAS KERNEL INFO 524520 double-hummer alignment exceptions
+1120487642 RAS KERNEL INFO generating core.14087
+1120934452 RAS KERNEL INFO generating core.34271
+1121707109 RAS KERNEL INFO generating core.15340
+1120216434 RAS KERNEL INFO generating core.8271
+1122579987 RAS KERNEL INFO generating core.6584
+1122579804 RAS KERNEL INFO generating core.3923
+1120449844 RAS KERNEL INFO generating core.3448
+1125222976 RAS KERNEL INFO 42731522 double-hummer alignment exceptions
+1121308530 RAS KERNEL INFO generating core.8895
+1121313817 RAS KERNEL INFO generating core.6735
+1120145060 RAS KERNEL INFO generating core.13458
+1125083686 RAS KERNEL INFO iar 003a9254 dear 00f06de8
+1119725433 RAS KERNEL INFO generating core.7795
+1120969573 RAS KERNEL INFO generating core.22202
+1129552651 RAS KERNEL INFO data cache search parity error detected. attempting to correct
+1118538602 RAS KERNEL FATAL data TLB error interrupt
+1119716023 RAS KERNEL INFO generating core.25274
+1117989640 RAS KERNEL INFO generating core.5021
+1129270967 RAS KERNEL INFO CE sym 4, at 0x09812c80, mask 0x02
+1117983257 RAS KERNEL INFO generating core.256
+1125082884 RAS KERNEL INFO iar 003a9274 dear 00b37ad8
+1128035663 RAS KERNEL INFO 2 ddr errors(s) detected and corrected on rank 0, symbol 25, bit 6
+1122431344 RAS KERNEL INFO generating core.5742
+1117992548 RAS KERNEL INFO generating core.7175
+1120092015 RAS KERNEL INFO generating core.17081
+1121313771 RAS KERNEL INFO generating core.1786
+1122133257 RAS KERNEL INFO generating core.9258
+1122579938 RAS KERNEL INFO generating core.8731
+1120968889 RAS KERNEL INFO generating core.5746
+1127243242 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1122164794 RAS KERNEL INFO 15 floating point alignment exceptions
+1122576576 RAS KERNEL INFO generating core.4080
+1118183455 RAS KERNEL INFO generating core.1976
+1120469453 RAS KERNEL INFO generating core.15739
+1118770936 RAS KERNEL FATAL data store interrupt caused by icbi.........0
+1124043392 RAS KERNEL INFO ciod: generated 64 core files for program /bgl/apps/scaletest/performance/IMB_2.3_243_64K/IMB-MPI1.gp2_perf
+1118070499 RAS KERNEL INFO generating core.1636
+1122579843 RAS KERNEL INFO generating core.15930
+1122581182 RAS KERNEL INFO generating core.5891
+1127243549 RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127257592 RAS KERNEL INFO CE sym 23, at 0x117bbc80, mask 0x10
+1125083680 RAS KERNEL INFO iar 003a9254 dear 00f07c88
+1120148315 RAS KERNEL INFO generating core.3596
+1121006674 RAS KERNEL INFO generating core.5385
+1122581333 RAS KERNEL INFO generating core.2840
+1118765702 RAS KERNEL FATAL instruction address: 0x00004ed8
+1120938154 RAS KERNEL INFO generating core.40944
+1123110864 RAS MMCS ERROR Ido packet timeout
+1120486703 RAS KERNEL INFO generating core.8150
+1121494298 RAS KERNEL INFO generating core.13784
+1117843032 RAS KERNEL INFO 182 double-hummer alignment exceptions
+1121599188 RAS KERNEL INFO generating core.5926
+1120772522 RAS KERNEL INFO generating core.3327
+1121252445 RAS KERNEL INFO 114484664 double-hummer alignment exceptions
+1119695692 RAS KERNEL INFO 258305794 double-hummer alignment exceptions
+1121598015 RAS KERNEL INFO generating core.61243
+1121906693 RAS KERNEL INFO 8 floating point alignment exceptions
+1121900754 RAS KERNEL INFO 8 floating point alignment exceptions
+1122431634 RAS KERNEL INFO generating core.29440
+1118545869 RAS KERNEL FATAL data TLB error interrupt
+1120488663 RAS KERNEL INFO generating core.51
+1117976645 RAS KERNEL INFO generating core.2061
+1118070497 RAS KERNEL INFO 1 torus receiver y+ input pipe error(s) (dcr 0x02ee) detected and corrected
+1120150895 RAS KERNEL INFO generating core.1997
+1122431513 RAS KERNEL INFO generating core.52649
+1118172122 RAS KERNEL INFO generating core.949
+1118859989 RAS KERNEL INFO instruction cache parity error corrected
+1125219759 RAS KERNEL INFO 130793434 double-hummer alignment exceptions
+1120094768 RAS KERNEL INFO 344040 double-hummer alignment exceptions
+1130688029 RAS APP FATAL ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_cpm: invalid or missing program image, Permission denied
+1128970798 RAS APP FATAL ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:57613: Link has been severed
+1118772723 RAS KERNEL FATAL 28:1feaa7b0 29:00000001 30:000008ce 31:1feaa790
+1121902634 RAS KERNEL INFO 8 floating point alignment exceptions
+1125668123 RAS APP FATAL ciod: LOGIN chdir(/bglscratch/bwallen/SWL/SYS-CALLS/testcases/kernel/syscalls/truncate) failed: No such file or directory
+1120935377 RAS KERNEL INFO generating core.48605
+1120938079 RAS KERNEL INFO generating core.50042
+1118535561 RAS KERNEL FATAL data TLB error interrupt
+1120967864 RAS KERNEL INFO 1306009552 double-hummer alignment exceptions
+1123914726 RAS APP FATAL ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1121308639 RAS KERNEL INFO generating core.32649
+1117979312 RAS KERNEL INFO generating core.10663
+1125701279 NULL DISCOVERY WARNING Node card is not fully functional
+1129442539 RAS KERNEL INFO CE sym 28, at 0x108e6e60, mask 0x80
+1127264571 RAS APP FATAL ciod: Error loading /home/yates//broadcast.rts: invalid or missing program image, No such file or directory
+1120216382 RAS KERNEL INFO generating core.8196
+1121496235 RAS KERNEL INFO generating core.5478
+1118771003 RAS KERNEL FATAL data store interrupt caused by icbi.........0
+1118772705 RAS KERNEL FATAL problem state (0=sup,1=usr).......0
+1122578070 RAS KERNEL INFO generating core.4815
+1120928755 RAS KERNEL INFO generating core.7485
+1121252370 RAS KERNEL INFO 113222344 double-hummer alignment exceptions
+1125223872 RAS KERNEL INFO iar 0014a150 dear 009a71c8
+1130688124 RAS APP FATAL ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_cpm: invalid or missing program image, Permission denied
+1121496447 RAS KERNEL INFO generating core.23691
+1122576628 RAS KERNEL INFO generating core.1084
+1121311116 RAS KERNEL INFO generating core.15922
+1118556792 RAS KERNEL FATAL data TLB error interrupt
+1118959380 RAS APP FATAL ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:52160
+1129208228 RAS APP FATAL ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/bandwidth.rts: invalid or missing program image, No such file or directory
+1127956717 RAS KERNEL INFO 6 ddr errors(s) detected and corrected on rank 0, symbol 25, bit 1
+1118541091 RAS KERNEL FATAL data TLB error interrupt
+1121308673 RAS KERNEL INFO generating core.4851
+1121252745 RAS KERNEL INFO 119790608 double-hummer alignment exceptions
+1118881700 RAS KERNEL INFO instruction cache parity error corrected
+1122574335 RAS KERNEL INFO generating core.8136
+1128090665 RAS KERNEL INFO CE sym 2, at 0x0fa3d060, mask 0x08
+1119726477 RAS KERNEL INFO generating core.14621
+1120591329 RAS KERNEL INFO ciod: Missing or invalid fields on line 1 of node map file /home/auselton/bgl/64mps.sequential.mapfile
+1121905345 RAS KERNEL INFO 8 floating point alignment exceptions
+1122142803 RAS KERNEL INFO CE sym 9, at 0x11b9cc60, mask 0x04
+1124734147 RAS APP FATAL ciod: Error loading /home/germann2/SPaSM_static/SPaSM_mpi: invalid or missing program image, No such file or directory
+1120486635 RAS KERNEL INFO generating core.13770
+1120788345 RAS KERNEL INFO generating core.56900

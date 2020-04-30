@@ -1,0 +1,392 @@
+1 error No is not Error card IS NULL DISCOVERY OK ERROR Node volt rail asserted active The Temperature Reset PGOOD NOT MPGOOD LATCH JTAG Clock ACTIVE status are temperature no clear Select Phy Mode Midplane Mask Low Limit Latch ASSERTED ASIC ALERTs
+0.520525 25 RAS ciod FATAL APP failed chdir LOGIN home src denied bgl_hello bertsch2 Permission
+0.468695 38 RAS KERNEL parity FATAL manager memory buffer RMW
+0.462549 5 RAS ciod FATAL APP or No directory such file p gb2 Error program missing loading invalid image stella raptor RAPTOR
+0.460528 28 not node for card NULL DISCOVERY information get assembly SEVERE Can
+0.459139 40 RAS KERNEL cache FATAL data touch guaranteed block
+
+2 RAS ciod FATAL APP or No directory such file home Error program missing loading invalid image cp2k bgl pdbg ikuo ibm hack exe SOURCE Linux
+0.729137 4 RAS ciod FATAL APP or No directory such file home src Error program missing loading invalid image streitz ddcMDbglV ddcMD1 bin
+0.659152 7 of NULL M1 WARNING R33 as HARDWARE ND part mType mLp mLctn mIp mCardSernum Service PrepareForService Action shutting down NodeCard
+0.64921 3 RAS ciod FATAL APP or No directory such file home Error program missing loading invalid image yates test_cases doe_mpits allgather MPITs_func_tests BGLa_SWL_tests BGLa_SWL_MPI_tests_work BGLa_SWL_MPI_functests
+0.372248 15 is of the in NULL M1 WARNING R33 as HARDWARE part Service EndServiceAction Action restarting midplane NodeCards
+0.360365 18 RAS INFO has been MMCS started properties parameters loguserinfo idoproxydb enableflush Input DRV142_2005 BlueGene1 $Name $
+
+3 RAS ciod FATAL APP or No directory such file home Error program missing loading invalid image yates test_cases doe_mpits allgather MPITs_func_tests BGLa_SWL_tests BGLa_SWL_MPI_tests_work BGLa_SWL_MPI_functests
+0.674264 4 RAS ciod FATAL APP or No directory such file home src Error program missing loading invalid image streitz ddcMDbglV ddcMD1 bin
+0.64921 2 RAS ciod FATAL APP or No directory such file home Error program missing loading invalid image cp2k bgl pdbg ikuo ibm hack exe SOURCE Linux
+0.644049 7 of NULL M1 WARNING R33 as HARDWARE ND part mType mLp mLctn mIp mCardSernum Service PrepareForService Action shutting down NodeCard
+0.460547 15 is of the in NULL M1 WARNING R33 as HARDWARE part Service EndServiceAction Action restarting midplane NodeCards
+0.443092 20 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 dbremer
+
+4 RAS ciod FATAL APP or No directory such file home src Error program missing loading invalid image streitz ddcMDbglV ddcMD1 bin
+0.805007 7 of NULL M1 WARNING R33 as HARDWARE ND part mType mLp mLctn mIp mCardSernum Service PrepareForService Action shutting down NodeCard
+0.729137 2 RAS ciod FATAL APP or No directory such file home Error program missing loading invalid image cp2k bgl pdbg ikuo ibm hack exe SOURCE Linux
+0.674264 3 RAS ciod FATAL APP or No directory such file home Error program missing loading invalid image yates test_cases doe_mpits allgather MPITs_func_tests BGLa_SWL_tests BGLa_SWL_MPI_tests_work BGLa_SWL_MPI_functests
+0.565503 13 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 test greeno _raptor
+0.565203 21 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 glosli
+
+5 RAS ciod FATAL APP or No directory such file p gb2 Error program missing loading invalid image stella raptor RAPTOR
+0.761483 6 on is card NULL M1 WARNING R33 HARDWARE ND root mType mLp mLctn mIp mCardSernum by PrepareForService this done being
+0.686661 29 NULL M1 WARNING R33 HARDWARE ND root by EndServiceAction upon performed
+0.56419 17 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 glosli 8M_5000K t800
+0.494686 11 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do U01 J15
+0.491668 9 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do J14 U01
+
+6 on is card NULL M1 WARNING R33 HARDWARE ND root mType mLp mLctn mIp mCardSernum by PrepareForService this done being
+0.761483 5 RAS ciod FATAL APP or No directory such file p gb2 Error program missing loading invalid image stella raptor RAPTOR
+0.723267 17 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 glosli 8M_5000K t800
+0.614042 29 NULL M1 WARNING R33 HARDWARE ND root by EndServiceAction upon performed
+0.489127 24 RAS KERNEL error parity FATAL bit interrupt data machine check unit dcache L2
+0.48342 9 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do J14 U01
+
+7 of NULL M1 WARNING R33 as HARDWARE ND part mType mLp mLctn mIp mCardSernum Service PrepareForService Action shutting down NodeCard
+0.805007 4 RAS ciod FATAL APP or No directory such file home src Error program missing loading invalid image streitz ddcMDbglV ddcMD1 bin
+0.688927 21 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 glosli
+0.681062 20 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 dbremer
+0.679074 15 is of the in NULL M1 WARNING R33 as HARDWARE part Service EndServiceAction Action restarting midplane NodeCards
+0.667838 14 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 draeger dat32k_060205 benchmark
+
+8 RAS INFO bgl has been MMCS started properties mmcs_db_server all BGL useDatabase serverdb reconnect logs iolog dbproperties blocks BlueLight
+0.762191 47 RAS KERNEL error cache parity FATAL i
+0.701197 19 RAS ciod FATAL APP failed or No directory such file chdir LOGIN tmp1 nfs ddcMD_jng 8M_5000Ktest
+0.564848 55 RAS KERNEL INFO
+0.505275 31 RAS KERNEL cache FATAL to directory disable all access
+0.496315 38 RAS KERNEL parity FATAL manager memory buffer RMW
+
+9 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do J14 U01
+0.972757 11 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do U01 J15
+0.968169 12 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do J14 U11
+0.941137 10 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do U11 J15
+0.67857 28 not node for card NULL DISCOVERY information get assembly SEVERE Can
+0.580222 30 RAS KERNEL error parity FATAL address EDRAM capture first
+
+10 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do U11 J15
+0.972981 12 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do J14 U11
+0.969068 11 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do U01 J15
+0.941137 9 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do J14 U01
+0.668396 28 not node for card NULL DISCOVERY information get assembly SEVERE Can
+0.596937 30 RAS KERNEL error parity FATAL address EDRAM capture first
+
+11 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do U01 J15
+0.972757 9 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do J14 U01
+0.969068 10 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do U11 J15
+0.941844 12 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do J14 U11
+0.687005 28 not node for card NULL DISCOVERY information get assembly SEVERE Can
+0.592227 30 RAS KERNEL error parity FATAL address EDRAM capture first
+
+12 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do J14 U11
+0.972981 10 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do U11 J15
+0.968169 9 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do J14 U01
+0.941844 11 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do U01 J15
+0.659973 28 not node for card NULL DISCOVERY information get assembly SEVERE Can
+0.585263 30 RAS KERNEL error parity FATAL address EDRAM capture first
+
+13 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 test greeno _raptor
+0.910453 20 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 dbremer
+0.898478 21 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 glosli
+0.894894 15 is of the in NULL M1 WARNING R33 as HARDWARE part Service EndServiceAction Action restarting midplane NodeCards
+0.874981 16 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 8M_5000K t050 mehul
+0.862215 14 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 draeger dat32k_060205 benchmark
+
+14 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 draeger dat32k_060205 benchmark
+0.946869 21 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 glosli
+0.917441 16 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 8M_5000K t050 mehul
+0.907631 20 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 dbremer
+0.869386 15 is of the in NULL M1 WARNING R33 as HARDWARE part Service EndServiceAction Action restarting midplane NodeCards
+0.862215 13 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 test greeno _raptor
+
+15 is of the in NULL M1 WARNING R33 as HARDWARE part Service EndServiceAction Action restarting midplane NodeCards
+0.911596 20 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 dbremer
+0.905964 21 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 glosli
+0.894894 13 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 test greeno _raptor
+0.87985 16 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 8M_5000K t050 mehul
+0.869386 14 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 draeger dat32k_060205 benchmark
+
+16 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 8M_5000K t050 mehul
+0.917441 14 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 draeger dat32k_060205 benchmark
+0.904167 21 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 glosli
+0.898001 20 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 dbremer
+0.87985 15 is of the in NULL M1 WARNING R33 as HARDWARE part Service EndServiceAction Action restarting midplane NodeCards
+0.874981 13 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 test greeno _raptor
+
+17 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 glosli 8M_5000K t800
+0.723267 6 on is card NULL M1 WARNING R33 HARDWARE ND root mType mLp mLctn mIp mCardSernum by PrepareForService this done being
+0.617905 29 NULL M1 WARNING R33 HARDWARE ND root by EndServiceAction upon performed
+0.56419 5 RAS ciod FATAL APP or No directory such file p gb2 Error program missing loading invalid image stella raptor RAPTOR
+0.503585 9 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do J14 U01
+0.480355 11 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do U01 J15
+
+18 RAS INFO has been MMCS started properties parameters loguserinfo idoproxydb enableflush Input DRV142_2005 BlueGene1 $Name $
+0.817559 21 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 glosli
+0.812056 20 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 dbremer
+0.783072 15 is of the in NULL M1 WARNING R33 as HARDWARE part Service EndServiceAction Action restarting midplane NodeCards
+0.775098 13 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 test greeno _raptor
+0.770812 16 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 8M_5000K t050 mehul
+
+19 RAS ciod FATAL APP failed or No directory such file chdir LOGIN tmp1 nfs ddcMD_jng 8M_5000Ktest
+0.748214 47 RAS KERNEL error cache parity FATAL i
+0.701197 8 RAS INFO bgl has been MMCS started properties mmcs_db_server all BGL useDatabase serverdb reconnect logs iolog dbproperties blocks BlueLight
+0.518101 38 RAS KERNEL parity FATAL manager memory buffer RMW
+0.511622 26 RAS INFO on bit L3 M1 sparing performing MidplaneSwitchController LINKCARD U18 R27
+0.509968 55 RAS KERNEL INFO
+
+20 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 dbremer
+0.949816 21 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 glosli
+0.911596 15 is of the in NULL M1 WARNING R33 as HARDWARE part Service EndServiceAction Action restarting midplane NodeCards
+0.910453 13 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 test greeno _raptor
+0.907631 14 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 draeger dat32k_060205 benchmark
+0.898001 16 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 8M_5000K t050 mehul
+
+21 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 glosli
+0.949816 20 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 dbremer
+0.946869 14 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 draeger dat32k_060205 benchmark
+0.905964 15 is of the in NULL M1 WARNING R33 as HARDWARE part Service EndServiceAction Action restarting midplane NodeCards
+0.904167 16 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 8M_5000K t050 mehul
+0.898478 13 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 test greeno _raptor
+
+22 RAS ciod FATAL APP failed to message on read control stream socket prefix CioStream
+0.589809 38 RAS KERNEL parity FATAL manager memory buffer RMW
+0.55744 31 RAS KERNEL cache FATAL to directory disable all access
+0.554939 34 RAS KERNEL error parity FATAL read in queue
+0.544687 36 RAS KERNEL error parity FATAL address manager memory
+0.538254 39 RAS KERNEL parity FATAL store manager memory buffer
+
+23 RAS KERNEL parity FATAL to errors of L3 number lines EDRAMs written with
+0.617163 18 RAS INFO has been MMCS started properties parameters loguserinfo idoproxydb enableflush Input DRV142_2005 BlueGene1 $Name $
+0.577843 20 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 dbremer
+0.577154 21 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 glosli
+0.575201 16 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 8M_5000K t050 mehul
+0.575076 15 is of the in NULL M1 WARNING R33 as HARDWARE part Service EndServiceAction Action restarting midplane NodeCards
+
+24 RAS KERNEL error parity FATAL bit interrupt data machine check unit dcache L2
+0.624006 39 RAS KERNEL parity FATAL store manager memory buffer
+0.588903 25 RAS ciod FATAL APP failed chdir LOGIN home src denied bgl_hello bertsch2 Permission
+0.588106 35 RAS KERNEL error parity FATAL in write buffer
+0.572616 37 RAS KERNEL parity FATAL address manager memory command
+0.56648 38 RAS KERNEL parity FATAL manager memory buffer RMW
+
+25 RAS ciod FATAL APP failed chdir LOGIN home src denied bgl_hello bertsch2 Permission
+0.736071 34 RAS KERNEL error parity FATAL read in queue
+0.732653 40 RAS KERNEL cache FATAL data touch guaranteed block
+0.731978 43 RAS KERNEL core FATAL for prefetch depth
+0.729481 45 RAS KERNEL error cache parity FATAL flush
+0.725927 33 is not card NULL DISCOVERY Node WARNING functional fully
+
+26 RAS INFO on bit L3 M1 sparing performing MidplaneSwitchController LINKCARD U18 R27
+0.860343 27 RAS INFO on bit M1 sparing performing MidplaneSwitchController LINKCARD R33 U22 L0
+0.511622 19 RAS ciod FATAL APP failed or No directory such file chdir LOGIN tmp1 nfs ddcMD_jng 8M_5000Ktest
+0.478156 8 RAS INFO bgl has been MMCS started properties mmcs_db_server all BGL useDatabase serverdb reconnect logs iolog dbproperties blocks BlueLight
+0.450004 47 RAS KERNEL error cache parity FATAL i
+0.431563 5 RAS ciod FATAL APP or No directory such file p gb2 Error program missing loading invalid image stella raptor RAPTOR
+
+27 RAS INFO on bit M1 sparing performing MidplaneSwitchController LINKCARD R33 U22 L0
+0.860343 26 RAS INFO on bit L3 M1 sparing performing MidplaneSwitchController LINKCARD U18 R27
+0.490627 8 RAS INFO bgl has been MMCS started properties mmcs_db_server all BGL useDatabase serverdb reconnect logs iolog dbproperties blocks BlueLight
+0.485298 25 RAS ciod FATAL APP failed chdir LOGIN home src denied bgl_hello bertsch2 Permission
+0.47204 19 RAS ciod FATAL APP failed or No directory such file chdir LOGIN tmp1 nfs ddcMD_jng 8M_5000Ktest
+0.457941 22 RAS ciod FATAL APP failed to message on read control stream socket prefix CioStream
+
+28 not node for card NULL DISCOVERY information get assembly SEVERE Can
+0.687005 11 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do U01 J15
+0.67857 9 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do J14 U01
+0.668396 10 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do U11 J15
+0.659973 12 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do J14 U11
+0.556389 30 RAS KERNEL error parity FATAL address EDRAM capture first
+
+29 NULL M1 WARNING R33 HARDWARE ND root by EndServiceAction upon performed
+0.686661 5 RAS ciod FATAL APP or No directory such file p gb2 Error program missing loading invalid image stella raptor RAPTOR
+0.617905 17 RAS ciod FATAL APP failed or No directory such file chdir LOGIN p gb2 glosli 8M_5000K t800
+0.614042 6 on is card NULL M1 WARNING R33 HARDWARE ND root mType mLp mLctn mIp mCardSernum by PrepareForService this done being
+0.449635 12 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do J14 U11
+0.449304 9 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do J14 U01
+
+30 RAS KERNEL error parity FATAL address EDRAM capture first
+0.596937 10 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do U11 J15
+0.592227 11 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do U01 J15
+0.585263 12 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do J14 U11
+0.580222 9 not node check in card NULL DISCOVERY Node WARNING VPD slot processor match found ecid do J14 U01
+0.556389 28 not node for card NULL DISCOVERY information get assembly SEVERE Can
+
+31 RAS KERNEL cache FATAL to directory disable all access
+0.695999 38 RAS KERNEL parity FATAL manager memory buffer RMW
+0.666761 36 RAS KERNEL error parity FATAL address manager memory
+0.652407 56 RAS KERNEL FATAL
+0.625463 35 RAS KERNEL error parity FATAL in write buffer
+0.616805 42 RAS KERNEL error parity FATAL in bank
+
+32 RAS KERNEL error parity FATAL read in queue PLB
+0.916651 49 RAS KERNEL core FATAL register configuration
+0.868918 37 RAS KERNEL parity FATAL address manager memory command
+0.854654 43 RAS KERNEL core FATAL for prefetch depth
+0.837153 46 RAS KERNEL instruction FATAL disable broadcast apu
+0.834527 45 RAS KERNEL error cache parity FATAL flush
+
+33 is not card NULL DISCOVERY Node WARNING functional fully
+0.976143 40 RAS KERNEL cache FATAL data touch guaranteed block
+0.901072 44 RAS KERNEL error cache parity FATAL search
+0.870944 34 RAS KERNEL error parity FATAL read in queue
+0.845619 43 RAS KERNEL core FATAL for prefetch depth
+0.843455 49 RAS KERNEL core FATAL register configuration
+
+34 RAS KERNEL error parity FATAL read in queue
+0.899084 44 RAS KERNEL error cache parity FATAL search
+0.888251 40 RAS KERNEL cache FATAL data touch guaranteed block
+0.870944 33 is not card NULL DISCOVERY Node WARNING functional fully
+0.834242 43 RAS KERNEL core FATAL for prefetch depth
+0.833255 49 RAS KERNEL core FATAL register configuration
+
+35 RAS KERNEL error parity FATAL in write buffer
+0.92017 39 RAS KERNEL parity FATAL store manager memory buffer
+0.832082 41 RAS KERNEL instruction cache FATAL touch guaranteed block
+0.782569 37 RAS KERNEL parity FATAL address manager memory command
+0.698275 56 RAS KERNEL FATAL
+0.689972 34 RAS KERNEL error parity FATAL read in queue
+
+36 RAS KERNEL error parity FATAL address manager memory
+0.93087 38 RAS KERNEL parity FATAL manager memory buffer RMW
+0.777079 42 RAS KERNEL error parity FATAL in bank
+0.741998 53 RAS KERNEL instruction FATAL address
+0.723713 56 RAS KERNEL FATAL
+0.708474 50 RAS KERNEL error parity FATAL address
+
+37 RAS KERNEL parity FATAL address manager memory command
+0.929742 49 RAS KERNEL core FATAL register configuration
+0.868918 32 RAS KERNEL error parity FATAL read in queue PLB
+0.848053 41 RAS KERNEL instruction cache FATAL touch guaranteed block
+0.836167 54 RAS KERNEL error FATAL
+0.827684 44 RAS KERNEL error cache parity FATAL search
+
+38 RAS KERNEL parity FATAL manager memory buffer RMW
+0.93087 36 RAS KERNEL error parity FATAL address manager memory
+0.724683 56 RAS KERNEL FATAL
+0.697958 42 RAS KERNEL error parity FATAL in bank
+0.695999 31 RAS KERNEL cache FATAL to directory disable all access
+0.674487 35 RAS KERNEL error parity FATAL in write buffer
+
+39 RAS KERNEL parity FATAL store manager memory buffer
+0.92017 35 RAS KERNEL error parity FATAL in write buffer
+0.831066 41 RAS KERNEL instruction cache FATAL touch guaranteed block
+0.780648 37 RAS KERNEL parity FATAL address manager memory command
+0.686327 56 RAS KERNEL FATAL
+0.668953 34 RAS KERNEL error parity FATAL read in queue
+
+40 RAS KERNEL cache FATAL data touch guaranteed block
+0.976143 33 is not card NULL DISCOVERY Node WARNING functional fully
+0.918343 44 RAS KERNEL error cache parity FATAL search
+0.888251 34 RAS KERNEL error parity FATAL read in queue
+0.854255 43 RAS KERNEL core FATAL for prefetch depth
+0.848708 49 RAS KERNEL core FATAL register configuration
+
+41 RAS KERNEL instruction cache FATAL touch guaranteed block
+0.848053 37 RAS KERNEL parity FATAL address manager memory command
+0.832082 35 RAS KERNEL error parity FATAL in write buffer
+0.831066 39 RAS KERNEL parity FATAL store manager memory buffer
+0.724906 32 RAS KERNEL error parity FATAL read in queue PLB
+0.722162 49 RAS KERNEL core FATAL register configuration
+
+42 RAS KERNEL error parity FATAL in bank
+0.808077 53 RAS KERNEL instruction FATAL address
+0.779199 50 RAS KERNEL error parity FATAL address
+0.777079 36 RAS KERNEL error parity FATAL address manager memory
+0.730014 56 RAS KERNEL FATAL
+0.700184 51 RAS KERNEL instruction FATAL address space
+
+43 RAS KERNEL core FATAL for prefetch depth
+0.943028 45 RAS KERNEL error cache parity FATAL flush
+0.942957 46 RAS KERNEL instruction FATAL disable broadcast apu
+0.879795 49 RAS KERNEL core FATAL register configuration
+0.875847 54 RAS KERNEL error FATAL
+0.861156 44 RAS KERNEL error cache parity FATAL search
+
+44 RAS KERNEL error cache parity FATAL search
+0.918343 40 RAS KERNEL cache FATAL data touch guaranteed block
+0.901072 33 is not card NULL DISCOVERY Node WARNING functional fully
+0.899084 34 RAS KERNEL error parity FATAL read in queue
+0.879845 49 RAS KERNEL core FATAL register configuration
+0.861156 43 RAS KERNEL core FATAL for prefetch depth
+
+45 RAS KERNEL error cache parity FATAL flush
+0.943028 43 RAS KERNEL core FATAL for prefetch depth
+0.933201 46 RAS KERNEL instruction FATAL disable broadcast apu
+0.859667 49 RAS KERNEL core FATAL register configuration
+0.855011 44 RAS KERNEL error cache parity FATAL search
+0.845225 54 RAS KERNEL error FATAL
+
+46 RAS KERNEL instruction FATAL disable broadcast apu
+0.942957 43 RAS KERNEL core FATAL for prefetch depth
+0.933201 45 RAS KERNEL error cache parity FATAL flush
+0.865552 49 RAS KERNEL core FATAL register configuration
+0.860887 54 RAS KERNEL error FATAL
+0.844617 44 RAS KERNEL error cache parity FATAL search
+
+47 RAS KERNEL error cache parity FATAL i
+0.762191 8 RAS INFO bgl has been MMCS started properties mmcs_db_server all BGL useDatabase serverdb reconnect logs iolog dbproperties blocks BlueLight
+0.748214 19 RAS ciod FATAL APP failed or No directory such file chdir LOGIN tmp1 nfs ddcMD_jng 8M_5000Ktest
+0.659602 55 RAS KERNEL INFO
+0.453819 38 RAS KERNEL parity FATAL manager memory buffer RMW
+0.450004 26 RAS INFO on bit L3 M1 sparing performing MidplaneSwitchController LINKCARD U18 R27
+
+48 RAS INFO has been MMCS restarted ciodb
+0.796516 52 RAS KERNEL error instruction FATAL plb
+0.7253 56 RAS KERNEL FATAL
+0.64671 53 RAS KERNEL instruction FATAL address
+0.645173 42 RAS KERNEL error parity FATAL in bank
+0.618443 38 RAS KERNEL parity FATAL manager memory buffer RMW
+
+49 RAS KERNEL core FATAL register configuration
+0.929742 37 RAS KERNEL parity FATAL address manager memory command
+0.916651 32 RAS KERNEL error parity FATAL read in queue PLB
+0.903089 54 RAS KERNEL error FATAL
+0.879845 44 RAS KERNEL error cache parity FATAL search
+0.879795 43 RAS KERNEL core FATAL for prefetch depth
+
+50 RAS KERNEL error parity FATAL address
+0.937432 53 RAS KERNEL instruction FATAL address
+0.779199 42 RAS KERNEL error parity FATAL in bank
+0.770626 56 RAS KERNEL FATAL
+0.734691 51 RAS KERNEL instruction FATAL address space
+0.708474 36 RAS KERNEL error parity FATAL address manager memory
+
+51 RAS KERNEL instruction FATAL address space
+0.901424 54 RAS KERNEL error FATAL
+0.83549 49 RAS KERNEL core FATAL register configuration
+0.813169 43 RAS KERNEL core FATAL for prefetch depth
+0.787713 46 RAS KERNEL instruction FATAL disable broadcast apu
+0.781479 45 RAS KERNEL error cache parity FATAL flush
+
+52 RAS KERNEL error instruction FATAL plb
+0.796516 48 RAS INFO has been MMCS restarted ciodb
+0.735295 56 RAS KERNEL FATAL
+0.684519 53 RAS KERNEL instruction FATAL address
+0.680861 42 RAS KERNEL error parity FATAL in bank
+0.666635 50 RAS KERNEL error parity FATAL address
+
+53 RAS KERNEL instruction FATAL address
+0.937432 50 RAS KERNEL error parity FATAL address
+0.814382 56 RAS KERNEL FATAL
+0.808077 42 RAS KERNEL error parity FATAL in bank
+0.769535 51 RAS KERNEL instruction FATAL address space
+0.741998 36 RAS KERNEL error parity FATAL address manager memory
+
+54 RAS KERNEL error FATAL
+0.903089 49 RAS KERNEL core FATAL register configuration
+0.901424 51 RAS KERNEL instruction FATAL address space
+0.875847 43 RAS KERNEL core FATAL for prefetch depth
+0.860887 46 RAS KERNEL instruction FATAL disable broadcast apu
+0.85411 44 RAS KERNEL error cache parity FATAL search
+
+55 RAS KERNEL INFO
+0.692858 56 RAS KERNEL FATAL
+0.659602 47 RAS KERNEL error cache parity FATAL i
+0.564848 8 RAS INFO bgl has been MMCS started properties mmcs_db_server all BGL useDatabase serverdb reconnect logs iolog dbproperties blocks BlueLight
+0.540969 53 RAS KERNEL instruction FATAL address
+0.509968 19 RAS ciod FATAL APP failed or No directory such file chdir LOGIN tmp1 nfs ddcMD_jng 8M_5000Ktest
+
+56 RAS KERNEL FATAL
+0.814382 53 RAS KERNEL instruction FATAL address
+0.780009 54 RAS KERNEL error FATAL
+0.770626 50 RAS KERNEL error parity FATAL address
+0.735295 52 RAS KERNEL error instruction FATAL plb
+0.730014 42 RAS KERNEL error parity FATAL in bank
+
