@@ -18,6 +18,9 @@ Quick Start
 ---
 
 ```bash
+cd ./LRWE/src/ 
+make 
+
 # prepare the middle results 
 python pipeline.py -i data/HDFS.log -t HDFS -o results/
   -i input rawlog
