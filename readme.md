@@ -3,7 +3,7 @@
 Our paper is published on The 29th International Conference on Computer Communications and Networks 
 ([ICCCN 2020](http://www.icccn.org/icccn20/),). The information can be found here:
 
-* **A Semantic-aware Representation Framework for Online Log Analysis**. Weibin Meng, Ying Liu, Yuheng Huang, Shenglin Zhang, Federico Zaiter, Bingjin Chen, Dan Pei. ICCCN 2020. August 3 - August 6, 2020, Honolulu, Hawaii, USA.
+* Weibin Meng, Ying Liu, Yuheng Huang, Shenglin Zhang, Federico Zaiter, Bingjin Chen, Dan Pei. **A Semantic-aware Representation Framework for Online Log Analysis**.  ICCCN 2020. August 3 - August 6, 2020, Honolulu, Hawaii, USA.
 
 ## Dependency
 
