@@ -19,6 +19,7 @@ Quick Start
 
 ```bash
 cd ./LRWE/src/ 
+make clean
 make 
 
 # prepare the middle results 
