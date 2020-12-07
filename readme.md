@@ -143,5 +143,5 @@ python code/Log2Vec.py -logs ./data/BGL_without_variables.log -word_model ./midd
 
 
 
-This code was completed by @[Weibin Meng](https://github.com/WeibinMeng), Yuheng Huang and Bingjin Chen in cooperation.
+This code was completed by [@Weibin Meng](https://github.com/WeibinMeng), Yuheng Huang and Bingjin Chen in cooperation.
 
