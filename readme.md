@@ -18,7 +18,7 @@ Quick Start
 ---
 
 ```bash
-cd ./LRWE/src/ 
+cd code/LRWE/src/ 
 make clean
 make 
 
@@ -109,8 +109,8 @@ python code/getTempLogs.py -input data/BGL_without_variables.log -output middle/
 ```
 
 ```shell
-cd ./LRWE/src/ 
-
+cd code/LRWE/src/ 
+make clean
 make #make before you run
 
 #The input file for training is the file obtained in the previous step
